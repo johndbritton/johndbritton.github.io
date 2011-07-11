@@ -264,6 +264,14 @@ header {
   padding: 0;
 }
 
+#post {
+  clear: both;
+  width: 400px;
+}
+#post h2 {
+  font-size: 1.3em;
+}
+
 .category {
   margin: 0 10px;
   width: 140px;
