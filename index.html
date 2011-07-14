@@ -17,14 +17,14 @@ title: Home
 
 <div id="blog">
   <h2>Blog</h2>
-  <ul>
-    {% for post in site.posts limit:10 %}
-      <li><span class="date">{{ post.date | date_to_string }}</span> &raquo;<br /><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-  <h3><a href="blog">But wait, there's more...</a></h3>
 </div>
 
+<!--
 <div id="links" class="category">
   <h2>Links</h2>
   <ul>
@@ -82,3 +82,4 @@ title: Home
     <li>Couch Surfing</li>
   </ul>
 </div>
+-->

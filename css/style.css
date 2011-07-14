@@ -247,9 +247,9 @@ header {
 }
 
 #blog {
-  margin: 0 10px;
-  width: 300px;
   float: right;
+  margin: 10px 10px 0 10px;
+  width: 780px;
   clear: both;
 }
 #blog h2 {
@@ -263,13 +263,30 @@ header {
   margin: 0;
   padding: 0;
 }
+#blog li {
+  font-size: 1.4em;
+  line-height: 1.8em;
+}
+
+.date {
+  font-family: 'Courier New', 'monospace';
+}
 
 #post {
   clear: both;
-  width: 400px;
+  margin: 0 10px;
 }
-#post h2 {
+#post h1 {
+  font-size: 2em;
+}
+#post-body {
+  width: 500px;
   font-size: 1.3em;
+  line-height: 1.8em;
+}
+
+#related {
+  margin: 25px 0 0;
 }
 
 .category {
