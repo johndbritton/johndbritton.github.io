@@ -314,7 +314,7 @@ header {
 
 #related {
   width: 500px;
-  margin: auto;
+  margin: 10px auto;
 }
 
 #related h2 {
@@ -331,6 +331,11 @@ header {
   font-size: 1.3em;
   margin: 10px 0;
   list-style-type: none;
+}
+
+#comments {
+  width: 500;
+  margin: 10px auto;
 }
 
 #notfound{
