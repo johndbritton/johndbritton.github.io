@@ -22,19 +22,21 @@
   <div id="container">
     <header>
       <div id="avatar">
-        <img height="56" width="56" alt="johndbritton's avatar" src="http://a2.twimg.com/profile_images/1095671336/4688266275_b130a9f139_o_reasonably_small.jpeg" />
+        <a href="/">
+          <img height="56" width="56" alt="johndbritton's avatar" src="http://a2.twimg.com/profile_images/1095671336/4688266275_b130a9f139_o_reasonably_small.jpeg" />
+        </a>
       </div>
       <div id="title">
         <h1>John Britton, <span id="tagline">Hacker At-Large</span></h1>
       </div>
 
-      <div id="navigation">
+<!--  <div id="navigation">
         <ul>
           <li><a href="#">Projects</a></li>
           <li><a href="#">Contact</a></li>
           <li><a href="#">Tags</a></li>
         </ul>
-      </div>
+      </div> -->
 
       <div id="latest-blog-post">
        Read <q>&quot;<a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>&quot;</q> from {{ site.posts.first.date | date_to_string }} on my <a href="#">blog</a>.
@@ -51,8 +53,14 @@
     </div>
 
     <footer>
-      <h1>Credits</h1>
-      <p>html5boilerplate, jekyll, google web fonts, jquery, etc</p>
+      <div id="cclicense">
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
+        </a>
+        This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://johndbritton.com" property="cc:attributionName" rel="cc:attributionURL">John Britton</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+        <br />
+        Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://johndbritton.com" rel="dct:source">johndbritton.com</a>.
+      </div>
     </footer>
   </div>
 
@@ -65,10 +73,14 @@
   <script> DD_belatedPNG.fix('img, .png_bg');</script>
   <![endif]-->
   <script>
-    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']]; // Change UA-XXXXX-X to be your site's ID
+    var _gaq=[['_setAccount','UA-916240-1'],['_trackPageview']]; // Change UA-XXXXX-X to be your site's ID
     (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
     g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
     s.parentNode.insertBefore(g,s)}(document,'script'));
   </script>
+  <!-- begin olark code --><script type='text/javascript'>/*{literal}<![CDATA[*/window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=setTimeout(function(){if(c.f){(new Image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new Date};c.P=function(j){c.p[j]=new Date-c.p[0]};function d(){c.P(b);e[g](b)}e.addEventListener?e.addEventListener(b,d,false):e.attachEvent("on"+b,d); (function(){function l(j){j="head";return["<",j,"></",j,"><",z,' onl'+'oad="var d=',B,";d.getElementsByTagName('head')[0].",y,"(d.",A,"('script')).",u,"='",a,"//",c.l,"'",'"',"></",z,">"].join("")}var z="body",s=h[z];if(!s){return setTimeout(arguments.callee,100)}c.P(1);var y="appendChild",A="createElement",u="src",r=h[A]("div"),G=r[y](h[A](g)),D=h[A]("iframe"),B="document",C="domain",q;r.style.display="none";s.insertBefore(r,s.firstChild).id=g;D.frameBorder="0";D.id=g+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){D.src="javascript:false"} D.allowTransparency="true";G[y](D);try{D.contentWindow[B].open()}catch(F){i[C]=h[C];q="javascript:var d="+B+".open();d.domain='"+h.domain+"';";D[u]=q+"void(0);"}try{var H=D.contentWindow[B];H.write(l());H.close()}catch(E){D[u]=q+'d.write("'+l().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}c.P(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
+  /* custom configuration goes here (www.olark.com/documentation) */
+  olark.identify('8767-9277096-10-1944');/*]]>{/literal}*/</script>
+  <!-- end olark code -->
 </body>
 </html>
