@@ -1,2 +1,2 @@
 permalink: /:year/:month/:day/:title/
-redirects: yes
+redirects: true
