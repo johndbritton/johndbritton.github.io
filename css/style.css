@@ -310,6 +310,11 @@ footer {
 #cclicense {
   padding: 10px;
 }
+
+#cclicense img{
+  float: left;
+  padding-right: 10px;
+}
 /*
     // ========================================== \\
    ||                                              ||
