@@ -282,13 +282,13 @@ header {
   font-size: 2em;
   margin: 40px auto;
   text-align: center;
-  width: 700px;
+  width: 750px;
 }
 
 #post-body {
   font-size: 1.3em;
   line-height: 1.5em;
-  width: 500px;
+  width: 600px;
   margin: auto;
 }
 
@@ -313,7 +313,7 @@ header {
 }
 
 #related {
-  width: 500px;
+  width: 600px;
   margin: 10px auto;
 }
 
@@ -334,7 +334,7 @@ header {
 }
 
 #comments {
-  width: 500;
+  width: 600px;
   margin: 10px auto;
 }
 
