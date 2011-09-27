@@ -289,6 +289,14 @@ header {
   margin: 25px 0 0;
 }
 
+#notfound{
+  padding: 10px;
+}
+
+#notfound h1{
+  font-size: 3em;
+}
+
 .category {
   margin: 0 10px;
   width: 140px;
@@ -297,6 +305,10 @@ header {
 
 footer {
   clear: both;
+}
+
+#cclicense {
+  padding: 10px;
 }
 /*
     // ========================================== \\
