@@ -2,26 +2,37 @@
 layout: default
 title: Home
 ---
-<div id="intro">
-  <h2>Curious</h2>
-  <p>Awareness is not enough, I must understand.</p>
-  <h2>College Escapee</h2>
-  <p>Five universities in four countries, I dropped out to <a href="http://p2pu.org">start my own</a>.</p>
-  <h2>World Traveling Vagabond</h2>
-  <p><a href="http://dopplr.com/traveller/johndbritton">30+ countries</a> in three years, hitch-hiking and <a href="http://couchsurfing.org/people/johndbritton">sleeping on couches</a>.</p>
-</div>
+<div id="feature">
+  <div id="intro">
+    <h2>Curious</h2>
+    <p>Awareness is not enough, I must understand.</p>
+    <h2>College Escapee</h2>
+    <p>Five universities in four countries, I dropped out to <a href="http://p2pu.org">start my own</a>.</p>
+    <h2>World Traveling Vagabond</h2>
+    <p><a href="http://dopplr.com/traveller/johndbritton">30+ countries</a> in three years, hitch-hiking and <a href="http://couchsurfing.org/people/johndbritton">sleeping on couches</a>.</p>
+  </div>
 
-<div id="portrait">
-  <img src="/img/johndbritton-header.jpg" alt="Photo of John Britton at the P2PU Tech Sprint in Barcelona (2010)" />
+  <div id="portrait">
+    <img src="/img/johndbritton-header.jpg" alt="Photo of John Britton at the P2PU Tech Sprint in Barcelona (2010)" />
+  </div>
 </div>
 
 <div id="blog">
-  <h2>Blog</h2>
-  <ul class="posts">
+  <ul class="posts">    
     {% for post in site.posts %}
-      <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li class="post post-{{ post.id }}">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>
+          Added on {{ post.date | date: '%B %d, %Y' }}
+          {% if post.categories.size > 0 %}
+            in {% for category in post.categories %}
+              <a href="/{{category | downcase}}.html">{{category}}</a>           
+            {% endfor %}
+          {% endif %}
+        </p>
+      </li>
     {% endfor %}
-  </ul>
+  </ul>  
 </div>
 
 <!--

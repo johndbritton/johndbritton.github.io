@@ -133,6 +133,7 @@ a:hover { color: #036; }
   font-weight: normal;
   src: local('Arvo Italic'), local('Arvo-Italic'), url('http://themes.googleusercontent.com/font?kit=ui4L3MaHUbARhH-m5bxHRevvDin1pK8aKteLpeZ5c0A') format('woff');
 }
+
 body {
   background-color: #eeeeee;
   font-family: 'PT Sans';
@@ -158,8 +159,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-  margin: 0 10px;
+  margin: 10px 10px;
   clear: both;
+  overflow: auto;
 }
 
 #avatar {
@@ -167,9 +169,10 @@ header {
   float: left;
 }
 
-#title {
+#heading{
   float: left;
 }
+
 #title h1 {
   color: #333333;
   text-shadow: 0px 1px 1px #ffffff;
@@ -208,18 +211,13 @@ header {
   margin-left: 30px;
 }
 
-#latest-blog-post {
-  margin-top: 10px;
-  clear: right;
-  float: right;
-}
-#latest-blog-post q {
-  font-style: italic;
-  font-weight: bold;
-}
-
 #main {
   clear: both;
+}
+
+#feature{
+  overflow: auto;
+  margin: 10px 0;
 }
 
 #intro {
@@ -248,7 +246,7 @@ header {
 
 #blog {
   float: right;
-  margin: 10px 10px 0 10px;
+  margin: 10px;
   width: 780px;
   clear: both;
 }
@@ -263,30 +261,76 @@ header {
   margin: 0;
   padding: 0;
 }
-#blog li {
-  font-size: 1.4em;
-  line-height: 1.8em;
+
+#blog a{
+  text-decoration: none;
 }
 
-.date {
-  font-family: 'Courier New', 'monospace';
+#blog li {
+  margin: 15px 0px;
+}
+
+#viewall {
+  text-align: center;
 }
 
 #post {
   clear: both;
-  margin: 0 10px;
 }
+
 #post h1 {
   font-size: 2em;
+  margin: 40px auto;
+  text-align: center;
+  width: 700px;
 }
+
 #post-body {
-  width: 500px;
   font-size: 1.3em;
-  line-height: 1.8em;
+  line-height: 1.5em;
+  width: 500px;
+  margin: auto;
+}
+
+#post-body p{
+  margin: 10px 0;
+}
+
+#post blockquote{
+  width: 480px;
+  background: url(/img/close-quote.gif) no-repeat right bottom;
+  padding-left: 38px;
+  text-indent: -18px;
+}
+
+#post blockquote p{
+  text-indent: 0;
+}
+
+#post blockquote:first-letter {
+  background: url(/img/open-quote.gif) no-repeat left top;
+  padding-left: 18px;
 }
 
 #related {
-  margin: 25px 0 0;
+  width: 500px;
+  margin: auto;
+}
+
+#related h2 {
+  font-size: 1.5em;
+  margin: 20px 0;
+}
+
+#related ul{
+  padding: 0;
+  margin: 0;
+}
+
+#related li {
+  font-size: 1.3em;
+  margin: 10px 0;
+  list-style-type: none;
 }
 
 #notfound{
@@ -305,6 +349,8 @@ header {
 
 footer {
   clear: both;
+  overflow: auto;
+  margin: 10px 0px;
 }
 
 #cclicense {
