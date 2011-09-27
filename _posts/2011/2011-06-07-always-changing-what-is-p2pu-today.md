@@ -2,6 +2,16 @@
 layout: post
 title: "Always Changing: What is P2PU Today?"
 created: 1307420646
+category: education
+tags:
+- education
+- mozilla
+- open
+- open education
+- p2pu
+- webcraft
+redirects:
+- /post/2011/june/07/always_changing_what_p2pu_today
 ---
 Someone asked me to explain [P2PU](http://p2pu.org) and 
 [School of Webcraft](http://p2pu.org/webcraft) in an email. My description 

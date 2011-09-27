@@ -2,6 +2,17 @@
 layout: post
 title: School of Webcraft at Open Source Bridge in Portland
 created: 1307078296
+category: event
+tags:
+- event
+- open
+- osbridge
+- p2pu
+- portland
+- talk
+- webcraft
+redirects:
+- /post/2011/june/03/school_webcraft_open_source_bridge_portland
 ---
 <a href="http://opensourcebridge.org/sessions/624"><img style="float:left; padding-right:10px;" src="http://opensourcebridge.org/badges/2011/speak125.png" alt="I’m speaking at Open Source Bridge – June 21–24, 2011 – Portland, OR" border="0" /></a>
 

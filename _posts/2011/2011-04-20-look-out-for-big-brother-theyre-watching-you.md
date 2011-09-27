@@ -2,6 +2,18 @@
 layout: post
 title: Look Out for Big Brother - They're Watching You
 created: 1303339528
+category: geek
+tags:
+- apple
+- ios
+- map
+- privacy
+- startup bus
+- tracking
+- travel
+- visualization
+redirects:
+- /post/2011/april/20/look_out_big_brother_theyre_watching_you
 ---
 <p><strong>Update</strong>: They may only be tracking locations of towers and storing that data, rather than storing actual location. See <a href="http://www.willclarke.net/?p=247">this post</a>.</p>
 

@@ -2,6 +2,16 @@
 layout: post
 title: NYHacker Presents Music Hack Day New York
 created: 1294779064
+category: events
+tags:
+- event
+- free
+- music
+- music hack day
+- new york
+- nyhacker
+redirects:
+- /post/2011/january/11/nyhacker_presents_music_hack_day_new_york
 ---
 <a href="http://nyc.musichackday.org"><img src="http://farm6.static.flickr.com/5087/5346211755_9b117d2966.jpg" alt="NYHacker Presents Music Hack Day New York Logo" /></a>
 
