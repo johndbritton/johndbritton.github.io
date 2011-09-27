@@ -296,6 +296,11 @@ header {
   margin: 10px 0;
 }
 
+#post-body img{
+  display: block;
+  margin: auto;
+}
+
 #post blockquote{
   width: 480px;
   background: url(/img/close-quote.gif) no-repeat right bottom;
