@@ -2,6 +2,8 @@ module Jekyll
 
   # The redirect page creates a simple page that refreshes a user from a URL alias to an existing post.
   # Redirects are only generated if there is a "redirects" parameter _config.yml
+  # Original Author - Marran - http://www.marran.com/tech/creating-redirects-with-jekyll/
+  # Modified by John Britton to support redirects for pages
   
   class Redirects < Generator
     
