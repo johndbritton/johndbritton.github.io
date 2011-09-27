@@ -302,9 +302,11 @@ header {
 }
 
 #post blockquote{
-  width: 480px;
+  width: 500px;
+  padding: 10px;
+  margin: auto;
+  background-color: #ffffff;
   background: url(/img/close-quote.gif) no-repeat right bottom;
-  padding-left: 38px;
   text-indent: -18px;
 }
 
