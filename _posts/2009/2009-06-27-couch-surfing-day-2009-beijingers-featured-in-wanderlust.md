@@ -2,6 +2,13 @@
 layout: post
 title: Couch Surfing Day 2009 - Beijingers Featured in Wanderlust
 created: 1246139932
+category: events
+tags:
+- beijing
+- china
+- couch surfing
+- photography
+- travel
 redirects:
 - /post/2009/june/27/couch_surfing_day_2009_beijingers_featured_wanderlust
 - /node/61

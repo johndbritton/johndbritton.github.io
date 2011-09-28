@@ -2,6 +2,12 @@
 layout: post
 title: P2PU - Enroll Now, Classes Start 09/09/09
 created: 1250097237
+category: education
+tags:
+- free
+- open
+- open education
+- p2pu
 redirects:
 - /post/2009/august/12/p2pu_enroll_now_classes_start_090909
 - /node/64

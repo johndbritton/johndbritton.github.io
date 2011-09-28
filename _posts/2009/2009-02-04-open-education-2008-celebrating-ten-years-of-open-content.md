@@ -2,6 +2,18 @@
 layout: post
 title: "Open Education 2008: Celebrating Ten Years of Open Content"
 created: 1233739560
+category: events
+tags:
+- couch surfing
+- event
+- meetup
+- open
+- open education
+- p2pu
+- recap
+- seoul
+- south korea
+- travel
 redirects:
 - /post/2009/february/04/open_education_2008_celebrating_ten_years_open_content
 - /node/34

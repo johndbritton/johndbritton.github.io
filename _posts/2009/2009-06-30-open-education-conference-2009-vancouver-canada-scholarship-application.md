@@ -2,6 +2,12 @@
 layout: post
 title: Open Education Conference 2009 Vancouver, Canada - Scholarship Application
 created: 1246419628
+category: money
+tags:
+- event
+- open
+- open education
+- application
 redirects:
 - /post/2009/july/01/open_education_conference_2009_vancouver_canada_scholarship_application
 - /node/62

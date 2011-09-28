@@ -2,6 +2,14 @@
 layout: post
 title: Mozilla and Creative Commons Teach Practical Open Education Skills
 created: 1237326595
+category: education
+tags:
+- floss
+- free
+- mozilla
+- open
+- open education
+- p2pu
 redirects:
 - /post/2009/march/17/mozilla_and_creative_commons_teach_practical_open_education_skills
 - /node/46

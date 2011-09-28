@@ -2,6 +2,12 @@
 layout: post
 title: Wiki-Conference New York
 created: 1248501339
+category: events
+tags:
+- event
+- free
+- open
+- wiki
 redirects:
 - /post/2009/july/25/wiki_conference_new_york
 - /node/63

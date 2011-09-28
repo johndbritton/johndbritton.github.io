@@ -2,6 +2,9 @@
 layout: post
 title: Couch Surfing - "Got Couch" T-Shirt
 created: 1234081748
+category: misc
+tags:
+- couch surfing
 redirects:
 - /post/2009/february/08/couch_surfing_got_couch_t_shirt
 - /node/41

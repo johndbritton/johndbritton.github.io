@@ -2,6 +2,15 @@
 layout: post
 title: "Open Everything 2009 Featured Speaker: Leslie Hawthorn - Google, Inc."
 created: 1237563839
+category: events
+tags:
+- event
+- floss
+- free
+- meetup
+- open everything
+- new york
+- nyc
 redirects:
 - /post/2009/march/20/open_everything_2009_featured_speaker_leslie_hawthorn_google_inc
 - /node/47

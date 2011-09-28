@@ -2,6 +2,13 @@
 layout: post
 title: Fast Company Article on Open Education
 created: 1250117975
+category: press
+tags:
+- flat world knowledge
+- free
+- open
+- open education
+- p2pu
 redirects:
 - /post/2009/august/12/fast_company_article_open_education
 - /node/65

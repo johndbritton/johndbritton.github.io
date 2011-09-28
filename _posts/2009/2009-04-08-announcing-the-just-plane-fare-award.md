@@ -2,6 +2,13 @@
 layout: post
 title: Announcing the "Just Plane Fare Award"
 created: 1239238074
+category: money
+tags:
+- award
+- free
+- mmrhs
+- scholarship
+- travel
 redirects:
 - /post/2009/april/09/announcing_just_plane_fare_award
 - /node/52

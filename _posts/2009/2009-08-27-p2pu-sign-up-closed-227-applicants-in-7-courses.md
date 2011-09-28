@@ -2,6 +2,12 @@
 layout: post
 title: P2PU Sign-up Closed, 227 Applicants in 7 Courses
 created: 1251382243
+category: education
+tags:
+- free
+- open
+- open education
+- p2pu
 redirects:
 - /post/2009/august/27/p2pu_sign_up_closed_227_applicants_7_courses
 - /node/67

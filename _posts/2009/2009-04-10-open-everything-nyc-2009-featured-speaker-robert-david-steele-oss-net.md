@@ -2,6 +2,14 @@
 layout: post
 title: "Open Everything NYC 2009 Featured Speaker: Robert David Steele - OSS.net"
 created: 1239375205
+category: events
+tags:
+- event
+- free
+- open
+- open everything
+- new york
+- nyc
 redirects:
 - /post/2009/april/10/open_everything_nyc_2009_featured_speaker_robert_david_steele_ossnet
 - /node/54

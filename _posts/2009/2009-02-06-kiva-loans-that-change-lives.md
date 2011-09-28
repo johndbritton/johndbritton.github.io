@@ -2,6 +2,12 @@
 layout: post
 title: Kiva - Loans That Change Lives
 created: 1233937573
+category: money
+tags:
+- free
+- karma
+- kiva
+- microfinance
 redirects:
 - /post/2009/february/06/kiva_loans_change_lives
 - /node/39

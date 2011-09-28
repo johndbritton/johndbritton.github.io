@@ -2,6 +2,14 @@
 layout: post
 title: Open Everything NYC Tentative Schedule
 created: 1239911512
+category: events
+tags:
+- event
+- free
+- open
+- open everything
+- new york
+- nyc
 redirects:
 - /post/2009/april/16/open_everything_nyc_tentative_schedule
 - /node/58

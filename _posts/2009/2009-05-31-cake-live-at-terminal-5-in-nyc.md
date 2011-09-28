@@ -2,6 +2,11 @@
 layout: post
 title: CAKE, Live at Terminal 5 in NYC
 created: 1243822989
+category: misc
+tags:
+- cake
+- music
+- new york
 redirects:
 - /post/2009/june/01/cake_live_terminal_5_nyc
 - /node/60

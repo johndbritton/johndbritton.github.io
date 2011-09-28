@@ -2,6 +2,14 @@
 layout: post
 title: Open Everything NYC Updates
 created: 1239286645
+category: events
+tags:
+- event
+- free
+- open
+- open everything
+- new york
+- nyc
 redirects:
 - /post/2009/april/09/open_everything_nyc_updates
 - /node/53

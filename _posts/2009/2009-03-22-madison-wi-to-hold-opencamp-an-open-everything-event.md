@@ -2,6 +2,16 @@
 layout: post
 title: Madison, WI to Hold OpenCamp (an Open Everything Event)
 created: 1237736997
+category: events
+tags:
+- event
+- floss
+- free
+- meetup
+- open
+- open everything
+- wisconsin
+- madison
 redirects:
 - /post/2009/march/22/madison_wi_hold_opencamp_open_everything_event
 - /node/48

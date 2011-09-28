@@ -2,6 +2,10 @@
 layout: post
 title: Got Couch? - American Apparel Brown Ringer Tee - Official Order Form
 created: 1235508410
+category: misc
+tags:
+- couch surfing
+- sale
 redirects:
 - /post/2009/february/24/got_couch_american_apparel_brown_ringer_tee_official_order_form
 - /node/43

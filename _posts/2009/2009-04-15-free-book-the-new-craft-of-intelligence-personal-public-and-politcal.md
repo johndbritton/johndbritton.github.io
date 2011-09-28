@@ -2,6 +2,15 @@
 layout: post
 title: "Free Book: \"The New Craft of Intelligence: Personal, Public, & Politcal\""
 created: 1239817954
+category: events
+tags:
+- book
+- event
+- free
+- open
+- open everything
+- new york
+- nyc
 redirects:
 - /post/2009/april/15/free_book_new_craft_intelligence_personal_public_politcal
 - /node/57

@@ -2,6 +2,9 @@
 layout: post
 title: Other Uses of "Open Everything"
 created: 1234342177
+category: misc
+tags:
+- open everything
 redirects:
 - /post/2009/february/11/other_uses_open_everything
 - /node/42

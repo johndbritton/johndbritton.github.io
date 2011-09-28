@@ -2,6 +2,13 @@
 layout: post
 title: Wikipedia License Update - GNU FDL + CC-BY-SA
 created: 1239725008
+category: geek
+tags:
+- creative commons
+- free
+- license
+- open
+- wikipedia
 redirects:
 - /post/2009/april/14/wikipedia_license_update_gnu_fdl_cc_by_sa
 - /node/55

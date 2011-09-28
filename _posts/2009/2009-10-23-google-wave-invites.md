@@ -2,6 +2,13 @@
 layout: post
 title: Google Wave Invites
 created: 1256320014
+category: misc
+tags:
+- free
+- google
+- invite
+- open
+- wave
 redirects:
 - /post/2009/october/23/google_wave_invites
 - /node/69

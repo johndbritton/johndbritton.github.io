@@ -2,6 +2,15 @@
 layout: post
 title: Announcing Open Everything NYC 2009
 created: 1237309682
+category: events
+tags:
+- event
+- free
+- meetup
+- new york
+- nyc
+- open
+- open everything
 redirects:
 - /post/2009/march/17/announcing_open_everything_nyc_2009
 - /node/45

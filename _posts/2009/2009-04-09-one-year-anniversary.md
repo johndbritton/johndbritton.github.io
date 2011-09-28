@@ -2,6 +2,12 @@
 layout: post
 title: One Year Anniversary
 created: 1239282000
+category: meta
+tags:
+- dns
+- domain
+- registrar
+- anniversary
 redirects:
 - /post/2009/april/09/one_year_anniversary
 - /node/50

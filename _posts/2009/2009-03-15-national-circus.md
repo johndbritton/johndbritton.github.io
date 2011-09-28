@@ -2,6 +2,11 @@
 layout: post
 title: National Circus
 created: 1237140688
+category: photography
+tags:
+- photo
+- unicycyle
+- washington dc
 redirects:
 - /post/2009/march/15/national_circus
 - /node/44
