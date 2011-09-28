@@ -12,6 +12,7 @@ tags:
 - webcraft
 redirects:
 - /post/2011/june/07/always_changing_what_p2pu_today
+- /node/104
 ---
 Someone asked me to explain [P2PU](http://p2pu.org) and 
 [School of Webcraft](http://p2pu.org/webcraft) in an email. My description 

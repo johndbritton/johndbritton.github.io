@@ -13,6 +13,7 @@ tags:
 - webcraft
 redirects:
 - /post/2011/june/03/school_webcraft_open_source_bridge_portland
+- /node/103
 ---
 [![Open Source Bridge Badge](http://opensourcebridge.org/badges/2011/speak125.png)](http://opensourcebridge.org/sessions/62)
 

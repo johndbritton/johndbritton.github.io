@@ -14,6 +14,7 @@ tags:
 - visualization
 redirects:
 - /post/2011/april/20/look_out_big_brother_theyre_watching_you
+- /node/102
 ---
 __Update__: They may only be tracking locations of towers and storing that data, rather than storing actual location. See [this post](http://www.willclarke.net/?p=247)
 

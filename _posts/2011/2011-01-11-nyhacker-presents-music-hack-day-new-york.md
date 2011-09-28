@@ -12,6 +12,7 @@ tags:
 - nyhacker
 redirects:
 - /post/2011/january/11/nyhacker_presents_music_hack_day_new_york
+- /node/101
 ---
 [![NYHacker Presents Music Hack Day New York](http://farm6.static.flickr.com/5087/5346211755_9b117d2966.jpg)](http://nyc.musichackday.org)
 
