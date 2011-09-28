@@ -21,7 +21,7 @@ title: Home
   <ul class="posts">    
     {% for post in site.posts %}
       <li class="post post-{{ post.id }}">
-        <h2><a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p>
           Added on {{ post.date | date: '%B %d, %Y' }}
           {% if post.categories.size > 0 %}
@@ -29,6 +29,7 @@ title: Home
               <a href="/{{category | downcase}}.html">{{category}}</a>           
             {% endfor %}
           {% endif %}
+          <a href="#disqus_thread" data-disqus-identifier="{{ post.id }}"></a></h2>
         </p>
       </li>
     {% endfor %}
