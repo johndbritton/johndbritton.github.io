@@ -2,6 +2,9 @@
 layout: post
 title: "Screening \"RIP: A REMIX MANIFESTO\" at Open Everything NYC Afterparty"
 created: 1239789549
+redirects:
+- /post/2009/april/15/screening_rip_remix_manifesto_open_everything_nyc_afterparty
+- /node/56
 ---
 <a href="http://www.flickr.com/photos/johndbritton/3444464056/"><img src="http://farm4.static.flickr.com/3604/3444464056_90a148da55.jpg" alt="RIP: A REMIX MANIFESTO poster" /></a>
 

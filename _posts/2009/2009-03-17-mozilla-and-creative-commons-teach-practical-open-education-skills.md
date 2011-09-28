@@ -2,6 +2,9 @@
 layout: post
 title: Mozilla and Creative Commons Teach Practical Open Education Skills
 created: 1237326595
+redirects:
+- /post/2009/march/17/mozilla_and_creative_commons_teach_practical_open_education_skills
+- /node/46
 ---
 From the <a href="https://wiki.mozilla.org/Education/EduCourse/Announcement">Mozilla wiki</a>:
 <blockquote>

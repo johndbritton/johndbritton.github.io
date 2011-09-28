@@ -2,6 +2,9 @@
 layout: post
 title: Kiva - Loans That Change Lives
 created: 1233937573
+redirects:
+- /post/2009/february/06/kiva_loans_change_lives
+- /node/39
 ---
 According to the <a href="http://en.wikipedia.org/wiki/Kiva">Wikipedia Article</a>:
 

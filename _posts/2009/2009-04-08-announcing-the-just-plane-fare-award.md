@@ -2,6 +2,9 @@
 layout: post
 title: Announcing the "Just Plane Fare Award"
 created: 1239238074
+redirects:
+- /post/2009/april/09/announcing_just_plane_fare_award
+- /node/52
 ---
 I'd like to officially announce the <a href="/just_plane_fare_award">Just Plane Fare Award</a>. I'm now accepting applications from <a href=""http://www.bhrsd.org/mmrhs/mmhome/m_index.htm">MMRHS</a> students planning international travel during the summer of 2009. One winner will receive free round trip airfare to anywhere in the world to go and <strong>do</strong> <em>something</em>.
 

@@ -2,6 +2,9 @@
 layout: post
 title: Wikipedia License Update - GNU FDL + CC-BY-SA
 created: 1239725008
+redirects:
+- /post/2009/april/14/wikipedia_license_update_gnu_fdl_cc_by_sa
+- /node/55
 ---
 <a href="http://www.flickr.com/photos/theresasthompson/2999130055/"><img src="http://farm4.static.flickr.com/3034/2999130055_8697986e51.jpg" alt="Vote graphic" /></a>
 <a href="http://creativecommons.org/licenses/by/2.0/deed.en">CC-BY 2.0</a> - <a href="http://www.flickr.com/photos/theresasthompson/">Theresa Thompson</a>

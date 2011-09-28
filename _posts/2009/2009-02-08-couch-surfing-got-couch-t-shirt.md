@@ -2,6 +2,9 @@
 layout: post
 title: Couch Surfing - "Got Couch" T-Shirt
 created: 1234081748
+redirects:
+- /post/2009/february/08/couch_surfing_got_couch_t_shirt
+- /node/41
 ---
 Back when <a href="/post/2008/june/21/international_couch_surfing_day_2008_beijing_china">I was in Beijing</a>, <a href="http://www.couchsurfing.com/people/alainsojourner">Alain</a> sent me a really cool design for a Couch Surfing T-Shirt. I'm not really sure who did the design, but I really love it. My plan was to print it and give them out to my surfers, but I just haven't gotten around to that yet.
 

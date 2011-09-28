@@ -2,6 +2,9 @@
 layout: post
 title: Open Education Conference 2009 Vancouver, Canada - Scholarship Application
 created: 1246419628
+redirects:
+- /post/2009/july/01/open_education_conference_2009_vancouver_canada_scholarship_application
+- /node/62
 ---
 <em>This blog post is my application for a travel scholarship to attend <a href="http://openedconference.org/archives/324">OpenEd 2009</a>.</em>
 

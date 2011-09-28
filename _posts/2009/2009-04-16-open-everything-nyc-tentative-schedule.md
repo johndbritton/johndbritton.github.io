@@ -2,6 +2,9 @@
 layout: post
 title: Open Everything NYC Tentative Schedule
 created: 1239911512
+redirects:
+- /post/2009/april/16/open_everything_nyc_tentative_schedule
+- /node/58
 ---
 <a href="http://nyc.openeverything.us">Open Everything NYC</a> is <a href="http://is.gd/sOz3">less than 48 hours away</a>. Before giving the schedule there are a couple of announcements:
 

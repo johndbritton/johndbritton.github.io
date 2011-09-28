@@ -2,6 +2,9 @@
 layout: post
 title: One Year Anniversary
 created: 1239282000
+redirects:
+- /post/2009/april/09/one_year_anniversary
+- /node/50
 ---
 It has been exactly one year since I <a href="/post/2008/april/09/website_update">re-launched</a> this site using Drupal. That's one year of blogging, and quite a lot has happened.
 

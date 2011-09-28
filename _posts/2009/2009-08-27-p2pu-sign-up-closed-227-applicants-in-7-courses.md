@@ -2,6 +2,9 @@
 layout: post
 title: P2PU Sign-up Closed, 227 Applicants in 7 Courses
 created: 1251382243
+redirects:
+- /post/2009/august/27/p2pu_sign_up_closed_227_applicants_7_courses
+- /node/67
 ---
 On August 26, 2009 at midnight EST we closed applications to the first cycle at the <a href="http://p2pu.org">Peer 2 Peer University (P2PU)</a> with a total of 227 applicants across 7 courses. The six week pilot phase will begin on September 9, 2009 (09/09/09). Each of the 7 courses has a maximum enrollment of 8 - 15 students. All applicants will be notified of their status within a week.
 

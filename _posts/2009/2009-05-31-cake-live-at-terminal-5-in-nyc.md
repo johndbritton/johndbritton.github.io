@@ -2,6 +2,9 @@
 layout: post
 title: CAKE, Live at Terminal 5 in NYC
 created: 1243822989
+redirects:
+- /post/2009/june/01/cake_live_terminal_5_nyc
+- /node/60
 ---
 This past Friday a few friends and I ventured in to New York City to see a live performance by CAKE (<a href="http://www.cakemusic.com/">Official Site</a>, <a href="http://en.wikipedia.org/wiki/Cake_(band)">Wikipedia</a>). It was everything I could have hoped for. Back during my freshman year at <a href="http://www.rpi.edu">RPI</a>, CAKE came to Albany and I've been kicking myself ever since I missed my chance to see them live.
 

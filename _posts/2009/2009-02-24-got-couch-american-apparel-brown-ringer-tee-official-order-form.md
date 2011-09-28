@@ -2,6 +2,9 @@
 layout: post
 title: Got Couch? - American Apparel Brown Ringer Tee - Official Order Form
 created: 1235508410
+redirects:
+- /post/2009/february/24/got_couch_american_apparel_brown_ringer_tee_official_order_form
+- /node/43
 ---
 <strong>The order form may not be visible in your RSS reader, see <a href="/post/2009/february/24/got_couch_american_apparel_brown_ringer_tee_official_order_form">the full post</a></strong>
 

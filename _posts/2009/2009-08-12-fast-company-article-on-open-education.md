@@ -2,6 +2,9 @@
 layout: post
 title: Fast Company Article on Open Education
 created: 1250117975
+redirects:
+- /post/2009/august/12/fast_company_article_open_education
+- /node/65
 ---
 <a href="http://www.flickr.com/photos/bionicteaching/2533948716/"><img src="http://farm3.static.flickr.com/2417/2533948716_ab180179c4.jpg" alt="Jim Groom as EDUPUNK"/></a>
 <strong>Photo: <a href="http://www.flickr.com/photos/bionicteaching/2533948716">CC-BY-SA</a></strong>

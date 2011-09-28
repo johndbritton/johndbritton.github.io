@@ -2,6 +2,9 @@
 layout: post
 title: "Open Education 2008: Celebrating Ten Years of Open Content"
 created: 1233739560
+redirects:
+- /post/2009/february/04/open_education_2008_celebrating_ten_years_open_content
+- /node/34
 ---
 <em>This post is long overdue (September 2008); I just found it sitting in my blog's queue. I had been trying to polish it off and must have forgotten about it, sorry for the delay.</em>
 

@@ -2,6 +2,9 @@
 layout: post
 title: Google Wave Invites
 created: 1256320014
+redirects:
+- /post/2009/october/23/google_wave_invites
+- /node/69
 ---
 <a href="http://www.flickr.com/photos/kratiu/4011122595/"><img src="http://farm4.static.flickr.com/3522/4011122595_379ef8962c.jpg" alt="Google Wave" /></a>
 

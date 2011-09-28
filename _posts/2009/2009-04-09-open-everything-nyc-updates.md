@@ -2,6 +2,9 @@
 layout: post
 title: Open Everything NYC Updates
 created: 1239286645
+redirects:
+- /post/2009/april/09/open_everything_nyc_updates
+- /node/53
 ---
 <img style="float:right" src="http://farm4.static.flickr.com/3425/3357390240_17253fa97d_m.jpg" alt="Open Everything NYC Logo" />
 

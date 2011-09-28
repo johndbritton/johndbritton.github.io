@@ -2,6 +2,9 @@
 layout: post
 title: Announcing Open Everything NYC 2009
 created: 1237309682
+redirects:
+- /post/2009/march/17/announcing_open_everything_nyc_2009
+- /node/45
 ---
 <a href="http://www.flickr.com/photos/johndbritton/3357390240"><img alt="Open Everything NYC 2009 Logo" src="http://farm4.static.flickr.com/3425/3357390240_17253fa97d.jpg" /></a>
 

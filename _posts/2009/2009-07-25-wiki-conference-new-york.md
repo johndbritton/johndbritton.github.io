@@ -2,6 +2,9 @@
 layout: post
 title: Wiki-Conference New York
 created: 1248501339
+redirects:
+- /post/2009/july/25/wiki_conference_new_york
+- /node/63
 ---
 This weekend is Wiki-Conference New York. I'll be there to kick start the Open Sessions on Saturday. Hope you can make it! I'm also going to lead two sessions: 'Steering Communities of Practice' and 'Using Wikipedia as a Translation Engine'.
 

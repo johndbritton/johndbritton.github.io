@@ -2,6 +2,9 @@
 layout: post
 title: P2PU - Enroll Now, Classes Start 09/09/09
 created: 1250097237
+redirects:
+- /post/2009/august/12/p2pu_enroll_now_classes_start_090909
+- /node/64
 ---
 <a href="http://www.flickr.com/photos/johndbritton/3815329932/"><img src="http://farm4.static.flickr.com/3038/3815329932_fd52a4d57e_o.png" alt="P2PU Badge" /></a>
 

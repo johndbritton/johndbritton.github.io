@@ -2,6 +2,9 @@
 layout: post
 title: Kiva - Loans That Change Lives, Again
 created: 1234544400
+redirects:
+- /post/2009/february/13/kiva_loans_change_lives_again
+- /node/40
 ---
 <a href="https://www.kiva.org/lender/johndbritton">I'm a Kiva lender</a>, and I believe you should be too. As promised in <a href="/post/2009/february/06/kiva_loans_change_lives">my previous post</a>, I present to you a second $25.00 Kiva gift certificate. 
 
