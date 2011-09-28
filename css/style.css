@@ -331,7 +331,7 @@ header {
 
 #related h2 {
   font-size: 1.5em;
-  margin: 20px 0;
+  margin: 10px 0 20px;
 }
 
 #related ul{
@@ -371,7 +371,7 @@ footer {
 }
 
 #cclicense {
-  padding: 10px;
+  margin: 10px;
 }
 
 #cclicense img{
