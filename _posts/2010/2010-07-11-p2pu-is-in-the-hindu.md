@@ -2,6 +2,9 @@
 layout: post
 title: P2PU is in 'The Hindu'
 created: 1278900426
+redirects:
+- /post/2010/july/12/p2pu_hindu
+- /node/86
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4784669627/"><img src="http://farm5.static.flickr.com/4141/4784669627_74ddf79074.jpg" alt="Screenshot of P2PU Headline in The Hindu" /></a>
 

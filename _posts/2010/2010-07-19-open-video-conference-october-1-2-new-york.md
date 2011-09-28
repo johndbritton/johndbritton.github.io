@@ -2,6 +2,9 @@
 layout: post
 title: Open Video Conference, October 1-2, New York
 created: 1279563684
+redirects:
+- /post/2010/july/19/open_video_conference_october_1_2_new_york
+- /node/88
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4809622378/"><img src="http://farm5.static.flickr.com/4121/4809622378_d51e240016.jpg" alt="Open Video Conference Logo" /></a>
 

@@ -2,6 +2,9 @@
 layout: post
 title: 7 Tips for Demoing at the New York Tech Meetup
 created: 1280996297
+redirects:
+- /post/2010/august/05/7_tips_demoing_new_york_tech_meetup
+- /node/91
 ---
 <p>Here are 7 Tips for demoing at the <a href="http://nytm.org">New York Tech Meetup</a>. This list is definitely not exhaustive, but it should help people out a bit. In the spirit of the advice I'm going to give, I'm going to get right to the tips.</p>
 

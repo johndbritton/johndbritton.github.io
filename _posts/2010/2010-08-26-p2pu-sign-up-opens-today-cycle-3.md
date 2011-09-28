@@ -2,6 +2,9 @@
 layout: post
 title: P2PU Sign-up Opens Today - Cycle 3
 created: 1282846972
+redirects:
+- /post/2010/august/26/p2pu_sign_up_opens_today_cycle_3
+- /node/96
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4688979186/"><img src="http://farm2.static.flickr.com/1308/4688979186_baf9401e14.jpg" alt="P2PU Logo" /></a>
 

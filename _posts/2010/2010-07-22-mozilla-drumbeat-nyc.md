@@ -2,6 +2,9 @@
 layout: post
 title: Mozilla Drumbeat NYC
 created: 1279784354
+redirects:
+- /post/2010/july/22/mozilla_drumbeat_nyc
+- /node/89
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4817154629/"><img src="http://farm5.static.flickr.com/4101/4817154629_04d368b432.jpg" alt="Drumbeat NYC Logo" /></a>
 

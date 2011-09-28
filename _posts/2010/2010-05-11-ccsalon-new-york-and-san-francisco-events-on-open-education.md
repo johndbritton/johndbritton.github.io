@@ -2,6 +2,9 @@
 layout: post
 title: ccSalon New York & San Francisco Events on Open Education
 created: 1273622783
+redirects:
+- /post/2010/may/12/ccsalon_new_york_san_francisco_events_open_education
+- /node/78
 ---
 It's been a busy couple of months working with <a href="http://creativecommons.org">Creative Commons</a>. Back in March, Jane Park and I organized <a href="http://creativecommons.org/weblog/entry/20499">ccSalon New York</a> and exactly one month later I was lucky enough to attend <a href="http://creativecommons.org/weblog/entry/21691">ccSalon San Francisco</a>.
 

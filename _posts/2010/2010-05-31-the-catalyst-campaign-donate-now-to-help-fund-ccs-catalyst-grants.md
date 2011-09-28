@@ -2,6 +2,9 @@
 layout: post
 title: "The Catalyst Campaign: Donate Now to Help Fund CC's Catalyst Grants"
 created: 1275361784
+redirects:
+- /post/2010/june/01/catalyst_campaign_donate_now_help_fund_ccs_catalyst_grants
+- /node/82
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4658730496/"><img src="http://farm5.static.flickr.com/4026/4658730496_0c0bae7b98.jpg" alt="Creative Commons Catalyst Campaign Banner" /></a>
 

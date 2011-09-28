@@ -2,6 +2,9 @@
 layout: post
 title: Vote for Mozilla and P2PU at the SXSW Interactive Festival
 created: 1281628033
+redirects:
+- /post/2010/august/12/vote_mozilla_and_p2pu_sxsw_interactive_festival
+- /node/94
 ---
 [![SXSW Panel Picker](http://farm5.static.flickr.com/4076/4885042021_576e2be13c_m.jpg)](http://bit.ly/sxsw_webcraft)
 

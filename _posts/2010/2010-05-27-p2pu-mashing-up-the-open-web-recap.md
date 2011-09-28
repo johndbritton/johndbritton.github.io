@@ -2,6 +2,9 @@
 layout: post
 title: "P2PU: Mashing Up the Open Web Recap"
 created: 1274961354
+redirects:
+- /post/2010/may/27/p2pu_mashing_open_web_recap
+- /node/81
 ---
 <a href="http://www.flickr.com/photos/gi/121409547/"><img src="http://farm1.static.flickr.com/47/121409547_e33344f47c.jpg" alt="Photo of libre sign" /></a>
 <em>Photo CC-BY-SA <a href="http://www.flickr.com/photos/gi/">gi</a></em>

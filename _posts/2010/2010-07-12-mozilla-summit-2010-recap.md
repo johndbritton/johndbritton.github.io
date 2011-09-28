@@ -2,6 +2,9 @@
 layout: post
 title: Mozilla Summit 2010 Recap
 created: 1278947100
+redirects:
+- /post/2010/july/12/mozilla_summit_2010_recap
+- /node/87
 ---
 <p>The <a href="http://wiki.mozilla.org/Summit2010">Mozilla Summit</a> far surpassed my expectations. The event was personal, technical, creative and inspiring all at once.</p>
 

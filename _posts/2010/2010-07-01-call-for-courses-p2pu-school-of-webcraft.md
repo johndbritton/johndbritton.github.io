@@ -2,6 +2,9 @@
 layout: post
 title: Call for Courses - P2PU School of Webcraft
 created: 1278005337
+redirects:
+- /post/2010/july/01/call_courses_p2pu_school_webcraft
+- /node/85
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4752639950/"><img src="http://farm5.static.flickr.com/4116/4752639950_6313135e3e.jpg" alt="P2PU School of Webcraft Logo" /></a>
 

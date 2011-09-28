@@ -2,6 +2,9 @@
 layout: post
 title: Summer of Code Meetup at Google San Francisco
 created: 1276224471
+redirects:
+- /post/2010/june/11/summer_code_meetup_google_san_francisco
+- /node/83
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4689138735"><img src="http://farm5.static.flickr.com/4021/4689138735_2e605da9fd.jpg" alt="GSoC Meetup SFnGroup Photo" /></a>
 I'm in San Francisco for the month of June getting ramped up at my new job with <a href="http://www.twilio.com">Twilio</a> and it just so happend that Google hosted a Summer of Code Meetup at <a href="http://foursquare.com/venue/70298">their office</a> just a few blocks down the road.

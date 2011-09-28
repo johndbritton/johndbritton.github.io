@@ -2,6 +2,9 @@
 layout: post
 title: "Mozilla Drumbeat Festival: Learning, Freedom and the Web"
 created: 1277337830
+redirects:
+- /post/2010/june/24/mozilla_drumbeat_festival_learning_freedom_and_web#comments
+- /node/84
 ---
 The Mozilla <a href="http://www.drumbeat.org/drumbeat_festival_2010">Drumbeat Festival</a> is going to be happening in Barcelona right around the same time as the P2PU workshop and the Open Education Conference. I'd say it's very likely that I'll be there, you should come too. Spread the word.
 

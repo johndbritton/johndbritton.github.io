@@ -2,6 +2,9 @@
 layout: post
 title: Peer 2 Peer University Call for Courses - Cycle 3
 created: 1279902061
+redirects:
+- /post/2010/july/23/peer_2_peer_university_call_courses_cycle_3
+- /node/90
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4688979186/"><img src="http://farm2.static.flickr.com/1308/4688979186_baf9401e14.jpg" alt="P2PU Logo" /></a>
 <p>P2PU is going strong. We're getting ready to launch our third cycle of courses, but before we do that we need you to propose them! Join in on the fun, all the cool kids are doing it.</p>

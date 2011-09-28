@@ -2,6 +2,9 @@
 layout: post
 title: Live Coding Demo at New York Tech Meetup
 created: 1280952601
+redirects:
+- /post/2010/august/04/live_coding_demo_new_york_tech_meetup
+- /node/92
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4859983013/"><img src="http://farm5.static.flickr.com/4120/4859983013_30d807d236_m.jpg" alt="New York Tech Meetup Logo" /></a>
 

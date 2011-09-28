@@ -2,6 +2,9 @@
 layout: post
 title: "P2PU: How it All Started"
 created: 1274944467
+redirects:
+- /post/2010/may/27/p2pu_how_it_all_started
+- /node/80
 ---
 <a href="http://www.flickr.com/photos/johndbritton/4170987860/"><img src="http://farm3.static.flickr.com/2783/4170987860_bff3b6c491.jpg" alt="P2PU is Social Wrapper Cartoon" /></a>
 <strong>CC-BY-SA Alison Jean Cole</strong>
