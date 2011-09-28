@@ -21,7 +21,7 @@ title: Home
   <ul class="posts">    
     {% for post in site.posts %}
       <li class="post post-{{ post.id }}">
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">{{ post.title }}</a></h2>
         <p>
           Added on {{ post.date | date: '%B %d, %Y' }}
           {% if post.categories.size > 0 %}
@@ -34,6 +34,18 @@ title: Home
     {% endfor %}
   </ul>  
 </div>
+
+<!-- begin disqus comment counts -->
+<script type="text/javascript">
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<!-- end disqus comment counts -->
 
 <!--
 <div id="links" class="category">
