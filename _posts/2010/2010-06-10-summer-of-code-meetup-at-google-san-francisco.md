@@ -2,6 +2,11 @@
 layout: post
 title: Summer of Code Meetup at Google San Francisco
 created: 1276224471
+category: events
+tags:
+- floss
+- gsoc
+- san francisco
 redirects:
 - /post/2010/june/11/summer_code_meetup_google_san_francisco
 - /node/83

@@ -2,6 +2,16 @@
 layout: post
 title: 7 Tips for Demoing at the New York Tech Meetup
 created: 1280996297
+category: geek
+tags:
+- event
+- geek
+- howto
+- nyc
+- nytm
+- presenting
+- technology
+- new york
 redirects:
 - /post/2010/august/05/7_tips_demoing_new_york_tech_meetup
 - /node/91

@@ -2,6 +2,13 @@
 layout: post
 title: "P2PU: Mashing Up the Open Web Recap"
 created: 1274961354
+category: education
+tags:
+- free
+- mozilla
+- open education
+- p2pu
+- webcraft
 redirects:
 - /post/2010/may/27/p2pu_mashing_open_web_recap
 - /node/81

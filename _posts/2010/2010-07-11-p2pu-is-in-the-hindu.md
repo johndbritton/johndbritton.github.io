@@ -2,6 +2,15 @@
 layout: post
 title: P2PU is in 'The Hindu'
 created: 1278900426
+category: press
+tags:
+- drumbeat
+- free
+- mozilla
+- news
+- open
+- p2pu
+- webcraft
 redirects:
 - /post/2010/july/12/p2pu_hindu
 - /node/86

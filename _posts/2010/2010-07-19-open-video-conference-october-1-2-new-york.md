@@ -2,6 +2,12 @@
 layout: post
 title: Open Video Conference, October 1-2, New York
 created: 1279563684
+category: events
+tags:
+- conference
+- event
+- open video
+- web
 redirects:
 - /post/2010/july/19/open_video_conference_october_1_2_new_york
 - /node/88

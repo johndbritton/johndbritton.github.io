@@ -2,6 +2,15 @@
 layout: post
 title: Mozilla Drumbeat NYC
 created: 1279784354
+category: events
+tags:
+- drumbeat
+- event
+- free
+- mozilla
+- nyc
+- open
+- p2pu
 redirects:
 - /post/2010/july/22/mozilla_drumbeat_nyc
 - /node/89

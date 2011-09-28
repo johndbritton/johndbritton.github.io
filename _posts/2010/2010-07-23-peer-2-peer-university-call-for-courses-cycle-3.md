@@ -2,6 +2,13 @@
 layout: post
 title: Peer 2 Peer University Call for Courses - Cycle 3
 created: 1279902061
+category: education
+tags:
+- education
+- free
+- open
+- open education
+- p2pu
 redirects:
 - /post/2010/july/23/peer_2_peer_university_call_courses_cycle_3
 - /node/90

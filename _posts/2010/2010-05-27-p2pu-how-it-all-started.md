@@ -2,6 +2,14 @@
 layout: post
 title: "P2PU: How it All Started"
 created: 1274944467
+category: education
+tags:
+- drumbeat
+- free
+- mozilla
+- open
+- open education
+- p2pu
 redirects:
 - /post/2010/may/27/p2pu_how_it_all_started
 - /node/80

@@ -2,6 +2,14 @@
 layout: post
 title: ccSalon New York & San Francisco Events on Open Education
 created: 1273622783
+category: events
+tags:
+- ccsalon
+- creative commons
+- education
+- free
+- open
+- p2pu
 redirects:
 - /post/2010/may/12/ccsalon_new_york_san_francisco_events_open_education
 - /node/78

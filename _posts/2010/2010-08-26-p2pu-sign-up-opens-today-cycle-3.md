@@ -2,6 +2,14 @@
 layout: post
 title: P2PU Sign-up Opens Today - Cycle 3
 created: 1282846972
+category: education
+tags:
+- drumbeat
+- education
+- free
+- mozilla
+- p2pu
+- webcraft
 redirects:
 - /post/2010/august/26/p2pu_sign_up_opens_today_cycle_3
 - /node/96

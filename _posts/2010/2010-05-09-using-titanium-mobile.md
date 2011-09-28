@@ -2,6 +2,14 @@
 layout: post
 title: Using Titanium Mobile
 created: 1273440821
+category: geek
+tags:
+- android
+- iphone
+- mobile
+- open
+- presentation
+- titanium
 redirects:
 - /post/2010/may/09/using_titanium_mobile
 - /node/77

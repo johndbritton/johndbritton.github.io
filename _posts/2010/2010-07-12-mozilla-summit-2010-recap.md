@@ -2,6 +2,19 @@
 layout: post
 title: Mozilla Summit 2010 Recap
 created: 1278947100
+category: events
+tags:
+- canada
+- drumbeat
+- event
+- floss
+- free
+- mozilla
+- open
+- p2pu
+- recap
+- webcraft
+- whistler
 redirects:
 - /post/2010/july/12/mozilla_summit_2010_recap
 - /node/87

@@ -2,6 +2,18 @@
 layout: post
 title: Vote for Mozilla and P2PU at the SXSW Interactive Festival
 created: 1281628033
+category: events
+tags:
+- drumbeat
+- education
+- event
+- interactive
+- mozilla
+- open
+- p2pu
+- proposal
+- sxsw
+- webcraft
 redirects:
 - /post/2010/august/12/vote_mozilla_and_p2pu_sxsw_interactive_festival
 - /node/94

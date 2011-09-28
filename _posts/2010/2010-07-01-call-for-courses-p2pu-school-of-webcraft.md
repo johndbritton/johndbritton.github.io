@@ -2,6 +2,15 @@
 layout: post
 title: Call for Courses - P2PU School of Webcraft
 created: 1278005337
+category: eduacation
+tags:
+- drumbeat
+- free
+- mozilla
+- open
+- open web
+- p2pu
+- webcraft
 redirects:
 - /post/2010/july/01/call_courses_p2pu_school_webcraft
 - /node/85

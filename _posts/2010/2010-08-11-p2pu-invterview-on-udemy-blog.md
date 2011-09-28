@@ -2,6 +2,11 @@
 layout: post
 title: P2PU Invterview on Udemy Blog
 created: 1281549124
+category: press
+tags:
+- education
+- interview
+- p2pu
 redirects:
 - /post/2010/august/11/p2pu_invterview_udemy_blog
 - /node/93

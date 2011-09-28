@@ -2,6 +2,15 @@
 layout: post
 title: Live Coding Demo at New York Tech Meetup
 created: 1280952601
+category: geek
+tags:
+- event
+- nytm
+- php
+- tech
+- twilio
+- new york
+- nyc
 redirects:
 - /post/2010/august/04/live_coding_demo_new_york_tech_meetup
 - /node/92

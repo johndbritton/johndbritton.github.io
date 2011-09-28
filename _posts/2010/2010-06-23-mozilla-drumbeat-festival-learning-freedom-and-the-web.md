@@ -2,6 +2,13 @@
 layout: post
 title: "Mozilla Drumbeat Festival: Learning, Freedom and the Web"
 created: 1277337830
+category: events
+tags:
+- drumbeat
+- floss
+- free
+- mozilla
+- open
 redirects:
 - /post/2010/june/24/mozilla_drumbeat_festival_learning_freedom_and_web#comments
 - /node/84
