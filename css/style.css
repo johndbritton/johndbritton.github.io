@@ -142,7 +142,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Arvo';
   font-weight: normal;
 }
-
+em{
+  font-style: italic;
+}
 .engrave {
   color: #333333;
   text-shadow: 0px 1px 1px #ffffff;
@@ -159,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-  margin: 10px 10px;
+  margin: 10px;
   clear: both;
   overflow: auto;
 }
@@ -253,21 +255,16 @@ header {
 #blog h2 {
   font-size: 2em;
 }
-#blog h3 {
-  text-align: right;
-}
 #blog ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-
-#blog a{
-  text-decoration: none;
-}
-
 #blog li {
   margin: 15px 0px;
+}
+#blog a{
+  text-decoration: none;
 }
 
 #viewall {
@@ -278,11 +275,16 @@ header {
   clear: both;
 }
 
-#post h1 {
+#post-title h1 {
   font-size: 2em;
   margin: 40px auto;
   text-align: center;
   width: 750px;
+}
+
+#post-body h1 {
+  font-size: 1.2em;
+  margin: 15px 0;
 }
 
 #post-body {
@@ -296,25 +298,28 @@ header {
   margin: 10px 0;
 }
 
-#post-body img{
+#post-body img, #post-body iframe, #post-body embed{
   display: block;
-  margin: auto;
+  margin: 20px auto;
 }
 
-#post blockquote{
+#post-body ul, #post-body ol, #post-body dl {
+  width: 500px;
+  margin: 20px auto;
+  padding-left: 25px;
+}
+
+#post-body blockquote{
   width: 500px;
   padding: 10px;
-  margin: auto;
-  background-color: #ffffff;
-  background: url(/img/close-quote.gif) no-repeat right bottom;
+  margin: 20px auto;
+  background: #ffffff url(/img/close-quote.gif) no-repeat right bottom;
   text-indent: -18px;
 }
-
-#post blockquote p{
+#post-body blockquote p{
   text-indent: 0;
 }
-
-#post blockquote:first-letter {
+#post-body blockquote:first-letter {
   background: url(/img/open-quote.gif) no-repeat left top;
   padding-left: 18px;
 }
