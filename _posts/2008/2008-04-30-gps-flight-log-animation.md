@@ -2,6 +2,10 @@
 layout: post
 title: GPS Flight Log Animation
 created: 1209593342
+category: geek
+tags:
+- gps
+- mapping
 redirects:
 - /post/2008/april/30/gps_flight_log_animation
 - /node/14

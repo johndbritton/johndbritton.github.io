@@ -2,6 +2,11 @@
 layout: post
 title: Mai Po Wetlands
 created: 1217179397
+category: photography
+tags:
+- photo
+- travel
+- china
 redirects:
 - /post/2008/july/27/mai_po_wetlands
 - /node/27

@@ -2,6 +2,13 @@
 layout: post
 title: "ThoughtWorks Presents: Agile Hong Kong - Continuous Integration with Chris Stevenson"
 created: 1216250700
+category: events
+tags:
+- agile
+- floss
+- hong kong
+- meetup
+- recap
 redirects:
 - /post/2008/july/16/thoughtworks_presents_agile_hong_kong_continuous_integration_chris_stevenson
 - /node/25

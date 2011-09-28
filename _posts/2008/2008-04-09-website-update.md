@@ -2,6 +2,9 @@
 layout: post
 title: "Website Update:"
 created: 1207717904
+category: meta
+tags:
+- first post
 date: 2008-04-09 05:11:44 GMT
 redirects:
 - /post/2008/april/09/website_update

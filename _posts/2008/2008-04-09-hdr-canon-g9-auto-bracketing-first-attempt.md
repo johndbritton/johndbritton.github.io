@@ -2,6 +2,12 @@
 layout: post
 title: HDR - Canon G9 Auto-Bracketing, First Attempt
 created: 1207733218
+category: photography
+tags:
+- photography
+- review
+- hdr
+- auto bracketing
 date: 2008-04-09 09:26:58 GMT
 redirects:
 - /post/2008/april/09/hdr_canon_g9_auto_bracketing_first_attempt

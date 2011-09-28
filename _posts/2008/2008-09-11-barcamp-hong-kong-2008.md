@@ -2,6 +2,18 @@
 layout: post
 title: Barcamp Hong Kong 2008
 created: 1221158650
+category: events
+tags:
+- barcamp
+- china
+- drupal
+- floss
+- hong kong
+- knight drupal initiative
+- open
+- open education
+- recap
+- travel
 redirects:
 - /post/2008/september/11/barcamp_hong_kong_2008
 - /node/30

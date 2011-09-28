@@ -2,6 +2,15 @@
 layout: post
 title: "Pay it Forward: Free Olympic Tickets"
 created: 1217354004
+category: misc
+tags:
+- china
+- free
+- hong kong
+- karma
+- olympics
+- prize
+- travel
 redirects:
 - /post/2008/july/29/pay_it_forward_free_olympic_tickets
 - /node/28

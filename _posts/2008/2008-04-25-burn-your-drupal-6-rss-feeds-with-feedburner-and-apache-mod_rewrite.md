@@ -2,6 +2,11 @@
 layout: post
 title: Burn Your Drupal 6 RSS Feeds with FeedBurner & Apache mod_rewrite
 created: 1209140547
+category: geek
+tags:
+- drupal
+- floss
+- howto
 redirects:
 - /post/2008/april/25/burn_your_drupal_6_rss_feeds_feedburner_apache_mod_rewrite
 - /node/6

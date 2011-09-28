@@ -2,6 +2,11 @@
 layout: post
 title: Simatai Rice Terrace
 created: 1213175263
+category: photography
+tags:
+- photo
+- china
+- travel
 redirects:
 - /post/2008/june/11/simatai_rice_terrace
 - /node/22

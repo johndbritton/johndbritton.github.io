@@ -2,6 +2,12 @@
 layout: post
 title: Enrolled in David Wiley's Introduction to Open Education 2009 Course
 created: 1228252288
+category: education
+tags:
+- free
+- open
+- open education
+- p2pu
 redirects:
 - /post/2008/december/02/enrolled_david_wileys_introduction_open_education_2009_course
 - /node/36

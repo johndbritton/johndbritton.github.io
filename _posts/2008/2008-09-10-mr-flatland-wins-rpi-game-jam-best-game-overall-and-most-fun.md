@@ -2,6 +2,13 @@
 layout: post
 title: Mr. Flatland Wins RPI Game Jam, "Best Game Overall" and "Most Fun"
 created: 1221056160
+category: events
+tags:
+- floss
+- mr flatland
+- pygame
+- python
+- rpi
 redirects:
 - /post/2008/september/10/mr_flatland_wins_rpi_game_jam_best_game_overall_and_most_fun
 - /node/15

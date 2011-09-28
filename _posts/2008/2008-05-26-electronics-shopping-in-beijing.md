@@ -2,6 +2,11 @@
 layout: post
 title: Electronics Shopping in Beijing
 created: 1211857627
+category: travel
+tags:
+- beijing
+- china
+- travel
 redirects:
 - /post/2008/may/27/electronics_shopping_beijing
 - /node/20

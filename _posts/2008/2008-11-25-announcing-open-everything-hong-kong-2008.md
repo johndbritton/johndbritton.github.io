@@ -2,6 +2,14 @@
 layout: post
 title: Announcing Open Everything Hong Kong 2008
 created: 1227603855
+category: events
+tags:
+- china
+- event
+- hong kong
+- meetup
+- open
+- open everything
 redirects:
 - /post/2008/november/25/announcing_open_everything_hong_kong_2008
 - /node/35

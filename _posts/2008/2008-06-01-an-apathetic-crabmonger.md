@@ -2,6 +2,11 @@
 layout: post
 title: An Apathetic Crabmonger
 created: 1212299287
+category: photography
+tags:
+- photo
+- travel
+- china
 redirects:
 - /post/2008/june/01/an_apathetic_crabmonger
 - /node/21

@@ -2,6 +2,18 @@
 layout: post
 title: What Happened at Open Everything Hong Kong
 created: 1229245339
+category: events
+tags:
+- china
+- event
+- hong kong
+- meetup
+- open
+- open education
+- open everything
+- p2pu
+- recap
+- travel
 redirects:
 - /post/2008/december/14/what_happened_open_everything_hong_kong
 - /node/37

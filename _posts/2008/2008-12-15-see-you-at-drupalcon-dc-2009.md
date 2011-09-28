@@ -2,6 +2,15 @@
 layout: post
 title: See You at Drupalcon DC 2009
 created: 1229320800
+category: events
+tags:
+- dc
+- washington dc
+- drupal
+- event
+- floss
+- meetup
+- travel
 redirects:
 - /post/2008/december/15/see_you_drupalcon_dc_2009
 - /node/38

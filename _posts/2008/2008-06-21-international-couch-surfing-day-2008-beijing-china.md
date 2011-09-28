@@ -2,6 +2,14 @@
 layout: post
 title: International Couch Surfing Day 2008 - Beijing China
 created: 1214037280
+category: events
+tags:
+- beijing
+- china
+- couch surfing
+- meetup
+- recap
+- travel
 redirects:
 - /post/2008/june/21/international_couch_surfing_day_2008_beijing_china
 - /node/23

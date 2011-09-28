@@ -2,6 +2,9 @@
 layout: post
 title: A Shot in the Dark
 created: 1209442177
+category: photography
+tags:
+- photo
 redirects:
 - /post/2008/april/29/a_shot_dark
 - /node/13

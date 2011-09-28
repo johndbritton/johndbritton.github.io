@@ -2,6 +2,11 @@
 layout: post
 title: GMC Front Page
 created: 1208925329
+category: press
+tags:
+- floss
+- gallery
+- gsoc
 redirects:
 - /post/2008/april/23/gmc_front_page
 - /node/9

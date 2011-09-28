@@ -2,6 +2,15 @@
 layout: post
 title: "\"Hong Kong Riding High\", Pay it Forward: Winners"
 created: 1218029128
+category: misc
+tags:
+- china
+- free
+- hong kong
+- karma
+- olympics
+- prize
+- travel
 redirects:
 - /post/2008/august/06/hong_kong_riding_high_pay_it_forward_winners
 - /node/29
