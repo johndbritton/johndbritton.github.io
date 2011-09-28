@@ -2,7 +2,7 @@
 layout: post
 title: School of Webcraft at Open Source Bridge in Portland
 created: 1307078296
-category: event
+category: events
 tags:
 - event
 - open
