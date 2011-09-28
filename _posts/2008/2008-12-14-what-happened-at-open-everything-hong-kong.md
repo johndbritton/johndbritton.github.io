@@ -2,6 +2,9 @@
 layout: post
 title: What Happened at Open Everything Hong Kong
 created: 1229245339
+redirects:
+- /post/2008/december/14/what_happened_open_everything_hong_kong
+- /node/37
 ---
 I've spent the last week decompressing my brain from <a href="/post/2008/november/25/announcing_open_everything_hong_kong_2008">organizing</a> this year's <a href="http://openeverything.hk/2008">Open Everything Hong Kong</a>, so I apologize for the delay in posting this recap story.
 

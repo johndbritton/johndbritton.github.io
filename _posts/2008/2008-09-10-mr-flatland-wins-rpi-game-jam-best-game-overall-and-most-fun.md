@@ -2,6 +2,9 @@
 layout: post
 title: Mr. Flatland Wins RPI Game Jam, "Best Game Overall" and "Most Fun"
 created: 1221056160
+redirects:
+- /post/2008/september/10/mr_flatland_wins_rpi_game_jam_best_game_overall_and_most_fun
+- /node/15
 ---
 Just before the end of the 2008 Spring semester the <a href="http://www.rpi.edu">RPI</a> Game Development Club hosted a Game Jam. Brian McDonald, Peter Mueller and I formed a team to develop a fully functional themed game in eight hours.
 

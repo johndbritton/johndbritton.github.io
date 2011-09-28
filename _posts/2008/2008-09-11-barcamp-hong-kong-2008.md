@@ -2,6 +2,9 @@
 layout: post
 title: Barcamp Hong Kong 2008
 created: 1221158650
+redirects:
+- /post/2008/september/11/barcamp_hong_kong_2008
+- /node/30
 ---
 <a href="http://www.barcamp.hk"><img style="display: block; margin: auto;" src="http://gallery.johndbritton.com/d/67356-1/BarcampHKLogo.png" /></a>
 This past Saturday was <a href="http://www.barcamp.hk">Barcamp Hong Kong</a> (<a href="http://gallery.johndbritton.com/v/2008/china/hong_kong/barcamp">photos</a>). If you've never heard of Barcamp you should check out <a href="http://en.wikipedia.org/wiki/BarCamp">the Wikipedia article</a>. The event was organized by technologists from the area and was hosted by <a href="http://www.turner.com/">Turner Broadcasting System, Inc.</a> at their location in <a href="http://en.wikipedia.org/wiki/Quarry_Bay">Quarry Bay</a>.

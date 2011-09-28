@@ -2,6 +2,9 @@
 layout: post
 title: Electronics Shopping in Beijing
 created: 1211857627
+redirects:
+- /post/2008/may/27/electronics_shopping_beijing
+- /node/20
 ---
 I’ve been in <a href="http://gallery.johndbritton.com/v/2008/china/beijing/">Beijing</a> for about a week. I’ve had plenty of adventures so far, and I’m sure there are many more to come. The trip here wasn’t too bad; it was a nice to relax after the stress of packing and moving. My flight left JFK at 6AM on May 18 with a short layover in SFO. I slept a good portion of the trip, and managed to avoid jet lag. A somewhat positive side effect of the time change is that I’ve been waking up without an alarm between 6:00 and 8:00 AM every day.
 

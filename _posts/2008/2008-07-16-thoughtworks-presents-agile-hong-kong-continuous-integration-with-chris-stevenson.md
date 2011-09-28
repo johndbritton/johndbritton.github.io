@@ -2,6 +2,9 @@
 layout: post
 title: "ThoughtWorks Presents: Agile Hong Kong - Continuous Integration with Chris Stevenson"
 created: 1216250700
+redirects:
+- /post/2008/july/16/thoughtworks_presents_agile_hong_kong_continuous_integration_chris_stevenson
+- /node/25
 ---
 <a href="http://gallery.johndbritton.com/v/2008/china/hong_kong/thought_works_presents_agile_hong_kong_continuous_integration_with_chris_stevenson/IMG_1767.JPG.html"><img src="http://gallery.johndbritton.com/d/62232-3/IMG_1767.JPG" alt="Agile HongKong banner" /></a>
 

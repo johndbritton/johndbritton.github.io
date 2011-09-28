@@ -2,6 +2,9 @@
 layout: post
 title: "\"Hong Kong Riding High\", Pay it Forward: Winners"
 created: 1218029128
+redirects:
+- /post/2008/august/06/hong_kong_riding_high_pay_it_forward_winners
+- /node/29
 ---
 <a href="http://gallery.johndbritton.com/v/2008/china/hong_kong/last_night_with_cuhk_iss/IMG_2098.JPG.html"><img src="http://gallery.johndbritton.com/d/64513-3/IMG_2098.JPG" alt="Olympic Countdown Clock" /></a>
 

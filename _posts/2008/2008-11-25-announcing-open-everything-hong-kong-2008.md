@@ -2,6 +2,9 @@
 layout: post
 title: Announcing Open Everything Hong Kong 2008
 created: 1227603855
+redirects:
+- /post/2008/november/25/announcing_open_everything_hong_kong_2008
+- /node/35
 ---
 <a href="http://openeverything.hk/2008"><img alt="Open Everything HK Banner" src="http://gallery.johndbritton.com/d/78765-2/openeverythinghongkong2008.png" /></a>
 <dl>

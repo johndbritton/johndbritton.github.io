@@ -2,6 +2,9 @@
 layout: post
 title: "Pay it Forward: Free Olympic Tickets"
 created: 1217354004
+redirects:
+- /post/2008/july/29/pay_it_forward_free_olympic_tickets
+- /node/28
 ---
 <strong>UPDATE: This giveaway has ended, see <a href="http://www.johndbritton.com/post/2008/august/06/hong_kong_riding_high_pay_it_forward_winners">the results</a>.</strong>
 

@@ -2,6 +2,9 @@
 layout: post
 title: See You at Drupalcon DC 2009
 created: 1229320800
+redirects:
+- /post/2008/december/15/see_you_drupalcon_dc_2009
+- /node/38
 ---
 <a href="http://dc2009.drupalcon.org/user/johndbritton"><img src="http://dc2009.drupalcon.org/sites/all/themes/dcdc/badges/badge_imgoing.gif" alt="Drupalcon Badge"  style="border:0px;" /></a>
 

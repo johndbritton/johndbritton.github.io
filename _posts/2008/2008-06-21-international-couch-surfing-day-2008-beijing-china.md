@@ -2,6 +2,9 @@
 layout: post
 title: International Couch Surfing Day 2008 - Beijing China
 created: 1214037280
+redirects:
+- /post/2008/june/21/international_couch_surfing_day_2008_beijing_china
+- /node/23
 ---
 Last week <a href="http://en.wikipedia.org/wiki/CouchSurfing">Couch Surfers</a> (from around the world) gathered in Beijing, China at <a href="http://en.wikipedia.org/wiki/Beihai_Park">Beihai Park (北海公园)</a> to celebrate International Couch Surfing Day. Although the weather was sub-optimal at first, we had a pretty strong turnout. We met at noon for a potluck picnic in the <a href="http://en.wikipedia.org/wiki/Long_Corridor">Long Corridor</a>. We spent the afternoon chatting about travel, life, philosophy, trust, Couch Surfing, Beijing, and more. After the picnic we made a <a href="http://gallery.johndbritton.com/v/2008/china/beijing/couch_surfer/080614+009.jpg.html">"Got Couch?"</a> poster and took some photos around the park. My <a href="http://gallery.johndbritton.com/v/2008/china/beijing/couch_surfer/IMG_2909.jpg.html">favorite group shot</a> was taken by <a href="http://www.couchsurfing.com/people/alainsojourner">Alain</a> at the White Pagoda. We spend the rest of our time in the park tossing around a football and playing <a href="http://en.wikipedia.org/wiki/Jianzi">Jianzi (毽子)</a>. After the park we went to a Mexican restaurant in <a href="http://en.wikipedia.org/wiki/Sanlitun">Sanlitun (三里屯)</a> for dinner. People came and went throughout the day, all in all we had 18 people attend.
 

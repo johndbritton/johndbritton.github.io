@@ -2,6 +2,9 @@
 layout: post
 title: Implementing a Web Based Translation Interface for Gallery2
 created: 1208813866
+redirects:
+- /post/2008/april/21/implementing_web_based_translation_interface_gallery2
+- /node/8
 ---
 My application to Google's 2008 <a href="http://code.google.com/soc/2008/">Summer of Code</a> program has been accepted, see below:
 
