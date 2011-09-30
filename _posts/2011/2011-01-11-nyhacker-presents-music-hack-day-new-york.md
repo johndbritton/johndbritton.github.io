@@ -51,4 +51,4 @@ We've got a great lineup of speakers that we'll be announcing over the weeks lea
 Contact [John Britton](mailto:public@johndbritton.com) to inquire about sponsorship opportunities.
 
 # Video
-<iframe src="http://player.vimeo.com/video/13701170?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0"></iframe>
+<iframe src="http://player.vimeo.com/video/13701170?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0">.</iframe>
