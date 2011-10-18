@@ -2,7 +2,7 @@
 layout: post
 title: Call for Courses - P2PU School of Webcraft
 created: 1278005337
-category: eduacation
+category: education
 tags:
 - drumbeat
 - free
