@@ -42,7 +42,7 @@ The hardest part of self directed learning has been deciding what I want to lear
 
 # Teaching is Learning
 
-In addition to all that, I've taken on three "students" of my own. I'm giving free English classes to two Korean's in Warsaw and I'm teaching a Polish guy about web programming. Helping other people learn is really enjoyable, they're really happy to get help and being responsible forces me to understand things fully before trying to explaining them.
+In addition to all that, I've taken on three "students" of my own. I'm giving free English classes to two Koreans in Warsaw and I'm teaching a Polish guy about web programming. Helping other people learn is really enjoyable, they're really happy to get help and being responsible forces me to understand things fully before trying to explain them.
 
 # What are you learning?
 
