@@ -265,34 +265,34 @@ header {
   padding-left: 84px;
 }
 #blog li.category-education{
-  background: url('/img/category/education.png') no-repeat;
+  background: url('/img/category/education.png') no-repeat left;
 }
 #blog li.category-events{
-  background: url('/img/category/events.png') no-repeat;
+  background: url('/img/category/events.png') no-repeat left;
 }
 #blog li.category-geek{
-  background: url('/img/category/geek.png') no-repeat;
+  background: url('/img/category/geek.png') no-repeat left;
 }
 #blog li.category-meta{
-  background: url('/img/category/meta.png') no-repeat;
+  background: url('/img/category/meta.png') no-repeat left;
 }
 #blog li.category-misc{
-  background: url('/img/category/misc.png') no-repeat;
+  background: url('/img/category/misc.png') no-repeat left;
 }
 #blog li.category-money{
-  background: url('/img/category/money.png') no-repeat;
+  background: url('/img/category/money.png') no-repeat left;
 }
 #blog li.category-photography{
-  background: url('/img/category/photography.png') no-repeat;
+  background: url('/img/category/photography.png') no-repeat left;
 }
 #blog li.category-press{
-  background: url('/img/category/press.png') no-repeat;
+  background: url('/img/category/press.png') no-repeat left;
 }
 #blog li.category-talks{
-  background: url('/img/category/talks.png') no-repeat;
+  background: url('/img/category/talks.png') no-repeat left;
 }
 #blog li.category-travel{
-  background: url('/img/category/travel.png') no-repeat;
+  background: url('/img/category/travel.png') no-repeat left;
 }
 
 #blog a{
