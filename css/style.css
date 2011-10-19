@@ -249,7 +249,7 @@ header {
 #blog {
   float: right;
   margin: 10px;
-  width: 780px;
+  width: 864px;
   clear: both;
 }
 #blog h2 {
@@ -262,7 +262,39 @@ header {
 }
 #blog li {
   margin: 15px 0px;
+  padding-left: 84px;
 }
+#blog li.category-education{
+  background: url('/img/category/education.png') no-repeat;
+}
+#blog li.category-events{
+  background: url('/img/category/events.png') no-repeat;
+}
+#blog li.category-geek{
+  background: url('/img/category/geek.png') no-repeat;
+}
+#blog li.category-meta{
+  background: url('/img/category/meta.png') no-repeat;
+}
+#blog li.category-misc{
+  background: url('/img/category/misc.png') no-repeat;
+}
+#blog li.category-money{
+  background: url('/img/category/money.png') no-repeat;
+}
+#blog li.category-photography{
+  background: url('/img/category/photography.png') no-repeat;
+}
+#blog li.category-press{
+  background: url('/img/category/press.png') no-repeat;
+}
+#blog li.category-talks{
+  background: url('/img/category/talks.png') no-repeat;
+}
+#blog li.category-travel{
+  background: url('/img/category/travel.png') no-repeat;
+}
+
 #blog a{
   text-decoration: none;
 }
