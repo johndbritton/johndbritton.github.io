@@ -26,7 +26,7 @@ title: Home
           Added on {{ post.date | date: '%B %d, %Y' }}
           {% if post.categories.size > 0 %}
             in {% for category in post.categories %}
-              <a href="/{{category | downcase}}">{{category}}</a>           
+              <a href="/category/{{category | downcase}}">{{category}}</a>           
             {% endfor %}
           {% endif %}
         </p>
