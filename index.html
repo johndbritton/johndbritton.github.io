@@ -21,7 +21,7 @@ title: Home
   <ul class="posts">    
     {% for post in site.posts %}
       <li class="post category-{{ post.categories[0] }}">
-        <p>
+        <p class="category">
           Added on {{ post.date | date: '%B %d, %Y' }}
           {% if post.categories.size > 0 %}
             in {% for category in post.categories %}
