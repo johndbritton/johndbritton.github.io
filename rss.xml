@@ -4,13 +4,35 @@
  <title>johndbritton</title>
  <link href="http://johndbritton.com/feed/" rel="self"/>
  <link href="http://johndbritton.com/"/>
- <updated>2011-10-19T13:19:24+02:00</updated>
+ <updated>2011-10-19T16:48:29+02:00</updated>
  <id>http://johndbritton.com/</id>
  <author>
    <name>John Britton</name>
    <email>public@johndbritton.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Things I Hate About Skype</title>
+   <link href="http://johndbritton.com/2011/10/19/things-i-hate-about-skype/"/>
+   <updated>2011-10-19T00:00:00+02:00</updated>
+   <id>http://johndbritton.com/2011/10/19/things-i-hate-about-skype</id>
+   <content type="html">&lt;h1 id='its_no_secret_skype_sucks'&gt;It&amp;#8217;s no secret, Skype sucks.&lt;/h1&gt;
+
+&lt;p&gt;Skype has really been driving me nuts lately. I don&amp;#8217;t willingly use it, but because of it&amp;#8217;s popularity and the remote nature of my work I don&amp;#8217;t really have a choice. Here&amp;#8217;s are a couple of problems and how I&amp;#8217;m dealing with them. I&amp;#8217;m currently running Skype version 5.4.0.1217 on OSX Lion 10.7.2.&lt;/p&gt;
+
+&lt;h1 id='microphone_volume_control'&gt;Microphone Volume Control&lt;/h1&gt;
+
+&lt;p&gt;Because I&amp;#8217;m a nomad, I work from coffee shops and restaurants quite frequently. It&amp;#8217;s not uncommon for these places to have loud background music and lots of chatter. I&amp;#8217;ve struggled with communication because my microphone pics up almost all of the background noise. The obvious solution is to lower the microphone volume, but that only works for a few seconds. Skype has a feature called &amp;#8220;automatic gain control&amp;#8221; that listens to the level of your microphone and adjusts sensitivity accordingly. The problem is that it cannot be disabled and the adjustments it makes are just plain wrong. From my reading, there used to be a setting to control this in Skype&amp;#8217;s preferences but it has been removed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The fix&lt;/strong&gt;: Edit &lt;code&gt;~/Library/Application Support/Skype/shared.xml&lt;/code&gt; and add &lt;code&gt;&amp;lt;AGC&amp;gt;0&amp;lt;/AGC&amp;gt;&lt;/code&gt; inside the &lt;code&gt;&amp;lt;VoiceEng&amp;gt;&amp;lt;/VoiceEng&amp;gt;&lt;/code&gt; element. This will disable automatic gain control.&lt;/p&gt;
+
+&lt;h1 id='growl_notifications_are_broken'&gt;Growl Notifications Are Broken&lt;/h1&gt;
+
+&lt;p&gt;I recently upgraded to &lt;a href='http://growl.info/'&gt;Growl&lt;/a&gt; 1.3, it adds the ability to pause notifications and also rolls up missed notifications after a period of inactivity. Now Skype&amp;#8217;s notifications aren&amp;#8217;t sent through growl. Usually I would blame this on the Growl developers for breaking backward compatibility, but I&amp;#8217;m pretty sure Skype is at fault here since every other Growl enabled application I use works with the new version.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The fix&lt;/strong&gt;: Disable all notifications in Skype. I don&amp;#8217;t use it for chat, so I&amp;#8217;m not missing anything but the sign-on and sign-off messages.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Webcraft Story: Caley Woods</title>
