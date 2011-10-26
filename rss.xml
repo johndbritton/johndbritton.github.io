@@ -4,13 +4,81 @@
  <title>johndbritton</title>
  <link href="http://johndbritton.com/feed/" rel="self"/>
  <link href="http://johndbritton.com/"/>
- <updated>2011-10-25T15:12:42+02:00</updated>
+ <updated>2011-10-27T00:38:38+02:00</updated>
  <id>http://johndbritton.com/</id>
  <author>
    <name>John Britton</name>
    <email>public@johndbritton.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Let's Talk TED Talks</title>
+   <link href="http://johndbritton.com/2011/10/27/lets-talk-ted-talks/"/>
+   <updated>2011-10-27T00:00:00+02:00</updated>
+   <id>http://johndbritton.com/2011/10/27/lets-talk-ted-talks</id>
+   <content type="html">&lt;p&gt;I&amp;#8217;ve had this idea for a while, but I haven&amp;#8217;t really written about it anywhere yet. The 2011 P2PU Workshop in Berlin is right around the corner. Each attendee is supposed to bring at least one concrete idea and make it happen. This is mine. Sign up to join the group when it starts.&lt;/p&gt;
+&lt;a class='cta-button' href='http://bit.ly/lets-talk-ted-talks-form' target='_new'&gt;Sign up for &quot;Let's Talk TED Talks&quot;&lt;/a&gt;
+&lt;h1 id='ted_talks_spark_discussion'&gt;TED Talks spark discussion.&lt;/h1&gt;
+
+&lt;p&gt;Every time I watch a TED Talk I want to discuss it. Inevitably this leads to me telling my friends about it and my related ideas before ending with &amp;#8220;just watch the video.&amp;#8221; Sometimes they watch right away, sometimes they don&amp;#8217;t watch at all. Regardless, I always have to wait before I can find someone to talk to about all my new ideas.&lt;/p&gt;
+
+&lt;h1 id='its_like_a_book_club'&gt;It&amp;#8217;s like a book club.&lt;/h1&gt;
+
+&lt;p&gt;One solution to this problem would be to watch the TED Talks in a group, sort of like a book club. It&amp;#8217;s a simple solution to a simple problem but it introduces overhead. Someone has to select the talks, manage the schedule, remind the group members when to watch, and shepherd discussions. There&amp;#8217;s also an upper limit on group size if you want to have a strong relationship with each member.&lt;/p&gt;
+
+&lt;h1 id='can_we_automate_the_boring_stuff'&gt;Can we automate the boring stuff?&lt;/h1&gt;
+
+&lt;p&gt;One person can easily manage all of the organizational tasks for a group at the cost of having a single point of failure. If the leader goes away it&amp;#8217;s likely that the group will disband. To avoid a single point of failure, why not automate the organizational tasks? We can write a simple program that manages everything that happens in the group. Here&amp;#8217;s how it works:&lt;/p&gt;
+
+&lt;h1 id='suggest_a_ted_talk_when_you_sign_up'&gt;Suggest a TED talk when you sign up.&lt;/h1&gt;
+
+&lt;p&gt;Each person who decides to participate in &amp;#8220;Let&amp;#8217;s Talk TED Talks&amp;#8221; must submit a URL to a TED Talk that they think is particularly interesting along with three related discussion topics. Once ten people have signed up, a group is created and the first ten people that signed up are added to the group. A new group is created after every tenth signup.&lt;/p&gt;
+
+&lt;h1 id='introduce_yourself'&gt;Introduce yourself.&lt;/h1&gt;
+
+&lt;p&gt;Group members receive a notification that ten people have joined. A new discussion topic is created and participants are asked to introduce themselves to the group.&lt;/p&gt;
+
+&lt;h1 id='watch_one_ted_talk_each_week_for_ten_weeks'&gt;Watch one TED Talk each week for ten weeks.&lt;/h1&gt;
+
+&lt;p&gt;Each week follows the same schedule, the only thing that changes is content. The talks and discussion topics were selected by the participants as they signed up.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sunday&lt;/strong&gt;: Participants are sent a link to the TED Talk of the week, and asked to watch it.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Monday&lt;/strong&gt;: Discussion topic one is posted. Participants are notified of discussion activity.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;: Discussion topic two is posted. Participants are notified of discussion activity.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Friday&lt;/strong&gt;: Discussion topic three is posted. Participants are notified of discussion activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At the end of ten weeks, the group disbands and there is a record of participation for each talk and discussion.&lt;/p&gt;
+
+&lt;h1 id='how_should_i_build_this'&gt;How should I build this?&lt;/h1&gt;
+
+&lt;p&gt;This is an example of an application that can facilitate a learning group that will scale with demand. If 100 people sign up, 10 groups will be created. If 1,000 people sign up, 100 groups will be created. I could easily build this as a standalone application, but I think it&amp;#8217;s more interesting to think about this as a single use case for a P2PU API.&lt;/p&gt;
+
+&lt;h1 id='lets_expose_a_p2pu_api'&gt;Let&amp;#8217;s expose a P2PU API.&lt;/h1&gt;
+
+&lt;p&gt;We don&amp;#8217;t need a ton of API functionality to make this possible. Here&amp;#8217;s list of the minimal API primitives required to build this.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Registration (&amp;amp; confirmation)&lt;/li&gt;
+
+&lt;li&gt;Group&lt;/li&gt;
+
+&lt;li&gt;Discussion&lt;/li&gt;
+
+&lt;li&gt;Notification&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id='about_p2pu'&gt;About P2PU&lt;/h1&gt;
+&lt;a class='cta-button' href='http://bit.ly/lets-talk-ted-talks-form' target='_new'&gt;Sign up for &quot;Let's Talk TED Talks&quot;&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;a href='http://p2pu.org'&gt;Peer 2 Peer University&lt;/a&gt; is a grassroots open education project that organizes learning outside of institutional walls and gives learners recognition for their achievements. P2PU creates a model for lifelong learning alongside traditional formal higher education. Leveraging the internet and educational materials openly available online, P2PU enables high-quality low-cost education opportunities.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+ </entry>
  
  <entry>
    <title>Things I Hate About Skype</title>
