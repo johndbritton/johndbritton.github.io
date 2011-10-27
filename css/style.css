@@ -168,16 +168,23 @@ a{
 // Site header
 */
 header {
-  margin: 10px;
+  margin: 10px 10px 20px 10px;
   clear: both;
-  overflow: none;
+  height: 60px;
 }
-#avatar {
-  margin: 0 10px 0 80px;
+#avatar a{
+  display: block;
+  margin: 0 10px 0 0;
   float: left;
   height: 60px;
-  width: 60px;
+  width: 140px;
+  text-align: right;
+  background: url('/img/home.png') no-repeat left;
 }
+#avatar a:hover{
+  background: url('/img/home-hover.png') no-repeat left;
+}
+
 #heading{
   float: left;
 }
