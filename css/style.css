@@ -170,7 +170,7 @@ a{
 header {
   margin: 10px;
   clear: both;
-  overflow: auto;
+  overflow: none;
 }
 #avatar {
   margin: 0 10px 0 80px;
