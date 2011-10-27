@@ -150,11 +150,6 @@ em{
   text-shadow: 0px 1px 1px #ffffff;
 }
 
-.emboss {
-  color: #333333;
-  text-shadow: 0px 1px 1px #000000;
-}
-
 #container {
   width: 960px;
   margin: auto;
