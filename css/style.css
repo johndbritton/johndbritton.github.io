@@ -173,13 +173,16 @@ header {
   overflow: auto;
 }
 #avatar {
-  margin: 5px 10px 0 0;
+  margin: 0 10px 0 80px;
   float: left;
+  height: 60px;
+  width: 60px;
 }
 #heading{
   float: left;
 }
 #title h1 {
+  margin-left: 10px;
   color: #333333;
   text-shadow: 0px 1px 1px #ffffff;
   font-size: 2.5em;
@@ -192,6 +195,7 @@ header {
 #twitter {
   height: 20px;
   width: 300px;
+  margin-left: 10px;
   float: left;
 }
 
@@ -243,7 +247,7 @@ footer {
 }
 
 /*
-// Homepage photo and description
+// Homepage: photo, description, and blog posts
 */
 #feature{
   overflow: auto;
@@ -271,8 +275,6 @@ footer {
 #portrait img {
   display: block;
 }
-
-
 #blog {
   float: right;
   margin: 10px;
@@ -422,14 +424,14 @@ ul.posts li.category-travel{
   width: 500px;
   padding: 10px;
   margin: 20px auto;
-  background: #ffffff url(/img/close-quote.gif) no-repeat right bottom;
+  background: #ffffff url('/img/close-quote.gif') no-repeat right bottom;
   text-indent: -18px;
 }
 #post-body blockquote p{
   text-indent: 0;
 }
 #post-body blockquote:first-letter {
-  background: url(/img/open-quote.gif) no-repeat left top;
+  background: url('/img/open-quote.gif') no-repeat left top;
   padding-left: 18px;
 }
 #related {
@@ -452,6 +454,53 @@ ul.posts li.category-travel{
 #comments {
   width: 600px;
   margin: 10px auto;
+}
+
+/*
+// Category page
+*/
+#category-page{
+  padding: 0 10px;
+}
+#category-page h1{
+  font-size: 2.5em;
+  padding-left: 84px;
+  height: 64px;
+  line-height: 64px;
+}
+#category-page ul.posts li{
+  background: none;
+  padding-left: 0;
+}
+#category-page h1.category-education{
+  background: url('/img/category/education.png') no-repeat left;
+}
+#category-page h1.category-events{
+  background: url('/img/category/events.png') no-repeat left;
+}
+#category-page h1.category-geek{
+  background: url('/img/category/geek.png') no-repeat left;
+}
+#category-page h1.category-meta{
+  background: url('/img/category/meta.png') no-repeat left;
+}
+#category-page h1.category-misc{
+  background: url('/img/category/misc.png') no-repeat left;
+}
+#category-page h1.category-money{
+  background: url('/img/category/money.png') no-repeat left;
+}
+#category-page h1.category-photography{
+  background: url('/img/category/photography.png') no-repeat left;
+}
+#category-page h1.category-press{
+  background: url('/img/category/press.png') no-repeat left;
+}
+#category-page h1.category-talks{
+  background: url('/img/category/talks.png') no-repeat left;
+}
+#category-page h1.category-travel{
+  background: url('/img/category/travel.png') no-repeat left;
 }
 
 /*
