@@ -36,7 +36,7 @@ The hardest part of self directed learning has been deciding what I want to lear
 * __Design__ - This goes hand in hand with coding, I want my projects to look good when I ship them.
 * __Spanish__ - Whenever possible I do language exchanges through Meetup and CouchSurfing to keep my Spanish skills sharp.
 * __Polish__ - Living in Warsaw I practice all the time. I spend a few hours a week studying new vocabulary and grammar using Rosetta Stone and I'm enrolled in a course at the University of Warsaw. The course isn't for a certificate, just for some people to practice with.
-* __Poetry__ - This is out of my comfort zone, which I think is important. I joined "[Breaking the Rules: a Poetry Workshop](http://p2pu.org/en/groups/breaking-the-rules-a-poetry-workshop/)" at P2PU. "Five weeks. Five poems. We'll look at what makes them tick, and write our own versions." I'm also getting insight into how people use the site.
+* __Poetry__ - This is out of my comfort zone, which I think is important. I joined "[Hack this Poem: a Workshop](http://p2pu.org/en/groups/hack-this-poem-a-workshop/)" at P2PU. "Take poems you like. Decompose them to find of why. Write your own." I'm also getting insight into how people use the site.
 * __Music__ - I've got a [Monome](http://monome.org) and some crazy software and I'm experimenting with to make my own music. My goal is to perform something live for friends eventually. I don't practice often, but when I do I binge for many hours.
 * __Business__ - [AVC](http://avc.com) / [MBA Mondays](http://www.avc.com/a_vc/mba-mondays/) - I read AVC daily, and try to get involved with the community there when appropriate. I'm using DailyLit to get back issues of all the posts delivered to my inbox three days per week.
 
