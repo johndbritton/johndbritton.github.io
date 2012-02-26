@@ -4,13 +4,157 @@
  <title>johndbritton</title>
  <link href="http://johndbritton.com/feed/" rel="self"/>
  <link href="http://johndbritton.com/"/>
- <updated>2011-10-19T03:44:35+02:00</updated>
+ <updated>2012-02-26T23:35:41+01:00</updated>
  <id>http://johndbritton.com/</id>
  <author>
    <name>John Britton</name>
    <email>public@johndbritton.com</email>
  </author>
 
+ 
+ <entry>
+   <title>How a Poet Learned to Program</title>
+   <link href="http://johndbritton.com/2012/02/03/how-a-poet-learned-to-program/"/>
+   <updated>2012-02-03T00:00:00+01:00</updated>
+   <id>http://johndbritton.com/2012/02/03/how-a-poet-learned-to-program</id>
+   <content type="html">&lt;p&gt;We recently kicked off a mentoring program at &lt;a href='http://p2pu.org'&gt;P2PU&lt;/a&gt; to help people learn web development. We&amp;#8217;re in the pilot stage, but we&amp;#8217;re looking forward to opening up for everyone very soon. Here&amp;#8217;s a first hand look into what the program is like from the view of one of my mentees.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://vanessagennarelli.com/'&gt;Vanessa Gennarelli&lt;/a&gt; is a P2PU community member from Chicago, IL. She&amp;#8217;s an Editor at &lt;a href='http://flatworldknowledge.com'&gt;Flat World Knowledge&lt;/a&gt;, serving up open textbooks. She has facilitated two groups at P2PU: &lt;a href='http://archive.p2pu.org/general/open-creative-nonfiction'&gt;Open Creative Nonfiction&lt;/a&gt; and &lt;a href='http://p2pu.org/en/groups/hack-this-poem-a-workshop/'&gt;Hack this Poem&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;In the fall of 2011, John Britton and I undertook a learning experiment. John would mentor me in webmaking. I would work on an idea for an interactive world history atlas. John would help me as much as I wished, upon the condition that I document each moment of the experience. We’ve been working together on a regular basis for about 4 months now. As we begin 2012, thought it was time to step back and share a few realizations from along the way.&lt;/p&gt;
+
+&lt;h1 id='poets_can_program'&gt;Poets can program.&lt;/h1&gt;
+
+&lt;p&gt;I’m a writer&amp;#8211;and while my interests lie in digital learning, I’m no technical ace. To give you a sense of where John and I started, I could write HTML and tinker with a stylesheet. Scripts were mysterious, a plume of black magic that elapsed between tags.&lt;/p&gt;
+
+&lt;p&gt;My first assignment was &lt;a href='http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/video-lectures/lecture-1'&gt;Arnat Agnal’s lecture on &amp;#8220;Lumped Abstraction.&amp;#8221;&lt;/a&gt; Agnal prompts budding engineers and designers to see a continuum&amp;#8211;from the nitty gritty details of nature to elegant operating systems&amp;#8211;as layers of abstraction. A layer might be an equation, a crisp rationale that makes sense of complicated data. As their purpose, engineers take complex things, and, through abstractions like equations, build easy-to-use tools.&lt;/p&gt;
+
+&lt;p&gt;Enter a-ha moment #1. As a poet, this explanation of systems design made perfect sense. A layer that rationalizes concrete details in an abstract way&amp;#8211;that’s &lt;em&gt;metaphor&lt;/em&gt;, my friend. Effective metaphors build a relationship between the abstract and the concrete (i.e. &amp;#8220;love is an island&amp;#8221;). Like equations, metaphors also capture patterns in our lives&amp;#8211;they &amp;#8220;abstract out&amp;#8221; the concrete details.&lt;/p&gt;
+
+&lt;p&gt;In a delectable moment, I realized it was entirely possible for a poet to think this way&amp;#8211;and that the connections between the different disciplines enriched them both. For me, a discovery process happened when I could relate the new concepts to my framework for the world. Bring on the code.&lt;/p&gt;
+
+&lt;h1 id='free_to_fail'&gt;Free to fail&lt;/h1&gt;
+
+&lt;p&gt;I came to John with an idea of what I wanted to make&amp;#8211;so I was personally motivated to complete the project.&lt;/p&gt;
+
+&lt;p&gt;I’d been thinking about the challenges in teaching Geography. Students often grapple with how to synthesize information across time and across continents&amp;#8211;for instance, how rice production in 17th-century Asia might affect agriculture in North America. Usually these courses are organized &lt;em&gt;by continent&lt;/em&gt;, which can further the impression that each area is discrete and self-contained. History and Geography instructors also usually want to show how geopolitical boundaries and climates change over time.&lt;/p&gt;
+
+&lt;p&gt;How could we mashup &lt;a href='https://www.cia.gov/library/publications/the-world-factbook'&gt;CIA World Factbook&lt;/a&gt; data and Googlemaps to overcome these challenges as an interactive historical atlas? I Skyped with John about what I had in mind, and told him I was ready to dig in technically.&lt;/p&gt;
+
+&lt;p&gt;We fired up &lt;a href='http://jsfiddle.net'&gt;JSFiddle&lt;/a&gt;, and began to &lt;a href='http://jsfiddle.net/mozzadrella/QCWvD/15'&gt;play with maps&lt;/a&gt;. John introduced me to the Google Maps API, and I dug into geolocation like &lt;em&gt;whoah&lt;/em&gt;. I learned how to construct objects &amp;amp; place markers, &lt;a href='http://jsfiddle.net/mozzadrella/YjkZX/8'&gt;create polygons&lt;/a&gt;, and most recently created a &lt;a href='http://jsfiddle.net/CBfNN/112'&gt;loop of historical markers&lt;/a&gt; in Philadelphia.&lt;/p&gt;
+
+&lt;p&gt;Every few weeks, I’d email John, stuck and frustrated and forlorn about functions. I’ll admit to some anxiety about showing a friend of mine what I’d been working on. I often try to coax new poets to share their creative work, so it was useful to be back in that bashful stage when you’re trying something new. But John truly believes anyone can learn to program, so any missteps that you make are just part of process.&lt;/p&gt;
+
+&lt;p&gt;And it’s important to have someone to go to when you’re stuck. Really important.&lt;/p&gt;
+
+&lt;h1 id='personallypowered_learning'&gt;Personally-powered learning.&lt;/h1&gt;
+
+&lt;p&gt;Meeting with John anchored my learning path through the project. For each concept, John broke the idea up into parts to scaffold my understanding. After each session I went out into the world to teach myself more about the topic&amp;#8211;be it arrays, loops or functions. I went to &lt;a href='http://stackoverflow.com'&gt;Stack Overflow&lt;/a&gt; with my particular questions. I watched videos from &lt;a href='http://teamtreehouse.com'&gt;Treehouse&lt;/a&gt; and from &lt;a href='http://www.youtube.com/watch?v=zI8at1EmJjA'&gt;Google on geolocation&lt;/a&gt;. As a learner, I explored to find the right resources for me. And I tried to bug him only if there were bits I couldn’t figure out.&lt;/p&gt;
+
+&lt;p&gt;The activities learners can do by themselves&amp;#8211;education theorists call this the “&lt;a href='http://en.wikipedia.org/wiki/Zone_of_proximal_development'&gt;zone of proximal development&lt;/a&gt;.” This phase happens when the learner is on the cusp of frustration, when they find the activities challenging enough to keep their energies engaged. Learners may “&lt;a href='http://en.wikipedia.org/wiki/Flow_(psychology)'&gt;lose themselves&lt;/a&gt;” to the activity and become completely absorbed.&lt;/p&gt;
+
+&lt;p&gt;But if the goal seems too far away or the activity too difficult&amp;#8211;that’s when folks can give up, walk away. For me, it was &lt;em&gt;massively useful&lt;/em&gt; to come back to someone who could answer questions, connect the bits and pieces together, and move the goalpost to the next activity.&lt;/p&gt;
+
+&lt;p&gt;When I reach out to John, he quickly assesses where I made syntax errors or mistakes in the data. He’ll tweak the code or refocus my direction. And in that moment, I’d swoon with realization and pride. Code is a way I can think. Making something with it&amp;#8211;this is something I can totally do.&lt;/p&gt;
+
+&lt;h1 id='what_happens_next'&gt;What happens next?&lt;/h1&gt;
+
+&lt;p&gt;I’ll keep trying to snag moments of John’s time in 2012. And the concepts we’ve explored together&amp;#8211;like Boolean expressions, incremental operators and if/then constructs&amp;#8211;are all gestures modeled by &lt;a href='http://scratch.mit.edu'&gt;Scratch&lt;/a&gt;, the playful programming environment out of the &lt;a href='http://llk.media.mit.edu'&gt;Lifelong Kindergarten Lab at MIT&lt;/a&gt;. I’ll be a Research Assistant there in 2012 working on remixing curricula for educators.&lt;/p&gt;
+
+&lt;p&gt;Online assessments usually track student performance in terms of achievement&amp;#8211;and that data is visualized in rows, a convention left over from gradebooks. I’m interested in visualizing how learning communities evolve together over time&amp;#8211;so in the spring of 2012 I’ll be working on a prototype of a different kind of instructor dashboard. Using Processing. Hang on to your hats!&lt;/p&gt;
+
+&lt;p&gt;All of this good karma built up by School of Webcraft &amp;amp; John, this is time I’ll pay forward with my own efforts volunteering for &lt;a href='http://p2pu.org'&gt;P2PU&lt;/a&gt;. And you should too! Check out the &lt;a href='http://p2pu.org/en/schools/school-of-webcraft'&gt;School of Webcraft’s&lt;/a&gt; Challenges, review submissions for folks to earn badges, and chip in to help folks be more curious.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Let's Talk TED Talks</title>
+   <link href="http://johndbritton.com/2011/10/27/lets-talk-ted-talks/"/>
+   <updated>2011-10-27T00:00:00+02:00</updated>
+   <id>http://johndbritton.com/2011/10/27/lets-talk-ted-talks</id>
+   <content type="html">&lt;p&gt;I&amp;#8217;ve had this idea for a while, but I haven&amp;#8217;t really written about it anywhere yet. The 2011 P2PU Workshop in Berlin is right around the corner. Each attendee is supposed to bring at least one concrete idea and make it happen. This is mine. Sign up to join the group when it starts.&lt;/p&gt;
+&lt;a class='cta-button' href='http://bit.ly/lets-talk-ted-talks-form' target='_new'&gt;Sign up for &quot;Let's Talk TED Talks&quot;&lt;/a&gt;
+&lt;h1 id='ted_talks_spark_discussion'&gt;TED Talks spark discussion.&lt;/h1&gt;
+
+&lt;p&gt;Every time I watch a TED Talk I want to discuss it. Inevitably this leads to me telling my friends about it and my related ideas before ending with &amp;#8220;just watch the video.&amp;#8221; Sometimes they watch right away, sometimes they don&amp;#8217;t watch at all. Regardless, I always have to wait before I can find someone to talk to about all my new ideas.&lt;/p&gt;
+
+&lt;h1 id='its_like_a_book_club'&gt;It&amp;#8217;s like a book club.&lt;/h1&gt;
+
+&lt;p&gt;One solution to this problem would be to watch the TED Talks in a group, sort of like a book club. It&amp;#8217;s a simple solution to a simple problem but it introduces overhead. Someone has to select the talks, manage the schedule, remind the group members when to watch, and shepherd discussions. There&amp;#8217;s also an upper limit on group size if you want to have a strong relationship with each member.&lt;/p&gt;
+
+&lt;h1 id='can_we_automate_the_boring_stuff'&gt;Can we automate the boring stuff?&lt;/h1&gt;
+
+&lt;p&gt;One person can easily manage all of the organizational tasks for a group at the cost of having a single point of failure. If the leader goes away it&amp;#8217;s likely that the group will disband. To avoid a single point of failure, why not automate the organizational tasks? We can write a simple program that manages everything that happens in the group. Here&amp;#8217;s how it works:&lt;/p&gt;
+
+&lt;h1 id='suggest_a_ted_talk_when_you_sign_up'&gt;Suggest a TED talk when you sign up.&lt;/h1&gt;
+
+&lt;p&gt;Each person who decides to participate in &amp;#8220;Let&amp;#8217;s Talk TED Talks&amp;#8221; must submit a URL to a TED Talk that they think is particularly interesting along with three related discussion topics. Once ten people have signed up, a group is created and the first ten people that signed up are added to the group. A new group is created after every tenth signup.&lt;/p&gt;
+
+&lt;h1 id='introduce_yourself'&gt;Introduce yourself.&lt;/h1&gt;
+
+&lt;p&gt;Group members receive a notification that ten people have joined. A new discussion topic is created and participants are asked to introduce themselves to the group.&lt;/p&gt;
+
+&lt;h1 id='watch_one_ted_talk_each_week_for_ten_weeks'&gt;Watch one TED Talk each week for ten weeks.&lt;/h1&gt;
+
+&lt;p&gt;Each week follows the same schedule, the only thing that changes is content. The talks and discussion topics were selected by the participants as they signed up.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sunday&lt;/strong&gt;: Participants are sent a link to the TED Talk of the week, and asked to watch it.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Monday&lt;/strong&gt;: Discussion topic one is posted. Participants are notified of discussion activity.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;: Discussion topic two is posted. Participants are notified of discussion activity.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Friday&lt;/strong&gt;: Discussion topic three is posted. Participants are notified of discussion activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At the end of ten weeks, the group disbands and there is a record of participation for each talk and discussion.&lt;/p&gt;
+
+&lt;h1 id='how_should_i_build_this'&gt;How should I build this?&lt;/h1&gt;
+
+&lt;p&gt;This is an example of an application that can facilitate a learning group that will scale with demand. If 100 people sign up, 10 groups will be created. If 1,000 people sign up, 100 groups will be created. I could easily build this as a standalone application, but I think it&amp;#8217;s more interesting to think about this as a single use case for a P2PU API.&lt;/p&gt;
+
+&lt;h1 id='lets_expose_a_p2pu_api'&gt;Let&amp;#8217;s expose a P2PU API.&lt;/h1&gt;
+
+&lt;p&gt;We don&amp;#8217;t need a ton of API functionality to make this possible. Here&amp;#8217;s list of the minimal API primitives required to build this.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Registration (&amp;amp; confirmation)&lt;/li&gt;
+
+&lt;li&gt;Group&lt;/li&gt;
+
+&lt;li&gt;Discussion&lt;/li&gt;
+
+&lt;li&gt;Notification&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id='about_p2pu'&gt;About P2PU&lt;/h1&gt;
+&lt;a class='cta-button' href='http://bit.ly/lets-talk-ted-talks-form' target='_new'&gt;Sign up for &quot;Let's Talk TED Talks&quot;&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;a href='http://p2pu.org'&gt;Peer 2 Peer University&lt;/a&gt; is a grassroots open education project that organizes learning outside of institutional walls and gives learners recognition for their achievements. P2PU creates a model for lifelong learning alongside traditional formal higher education. Leveraging the internet and educational materials openly available online, P2PU enables high-quality low-cost education opportunities.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Things I Hate About Skype</title>
+   <link href="http://johndbritton.com/2011/10/19/things-i-hate-about-skype/"/>
+   <updated>2011-10-19T00:00:00+02:00</updated>
+   <id>http://johndbritton.com/2011/10/19/things-i-hate-about-skype</id>
+   <content type="html">&lt;h1 id='its_no_secret_skype_sucks'&gt;It&amp;#8217;s no secret, Skype sucks.&lt;/h1&gt;
+
+&lt;p&gt;Skype has really been driving me nuts lately. I don&amp;#8217;t willingly use it, but because of it&amp;#8217;s popularity and the remote nature of my work I don&amp;#8217;t really have a choice. Here&amp;#8217;s are a couple of problems and how I&amp;#8217;m dealing with them. I&amp;#8217;m currently running Skype version 5.4.0.1217 on OSX Lion 10.7.2.&lt;/p&gt;
+
+&lt;h1 id='microphone_volume_control'&gt;Microphone Volume Control&lt;/h1&gt;
+
+&lt;p&gt;Because I&amp;#8217;m a nomad, I work from coffee shops and restaurants quite frequently. It&amp;#8217;s not uncommon for these places to have loud background music and lots of chatter. I&amp;#8217;ve struggled with communication because my microphone pics up almost all of the background noise. The obvious solution is to lower the microphone volume, but that only works for a few seconds. Skype has a feature called &amp;#8220;automatic gain control&amp;#8221; that listens to the level of your microphone and adjusts sensitivity accordingly. The problem is that it cannot be disabled and the adjustments it makes are just plain wrong. From my reading, there used to be a setting to control this in Skype&amp;#8217;s preferences but it has been removed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The fix&lt;/strong&gt;: Edit &lt;code&gt;~/Library/Application Support/Skype/shared.xml&lt;/code&gt; and add &lt;code&gt;&amp;lt;AGC&amp;gt;0&amp;lt;/AGC&amp;gt;&lt;/code&gt; inside the &lt;code&gt;&amp;lt;VoiceEng&amp;gt;&amp;lt;/VoiceEng&amp;gt;&lt;/code&gt; element. This will disable automatic gain control.&lt;/p&gt;
+
+&lt;h1 id='growl_notifications_are_broken'&gt;Growl Notifications Are Broken&lt;/h1&gt;
+
+&lt;p&gt;I recently upgraded to &lt;a href='http://growl.info/'&gt;Growl&lt;/a&gt; 1.3, it adds the ability to pause notifications and also rolls up missed notifications after a period of inactivity. Now Skype&amp;#8217;s notifications aren&amp;#8217;t sent through growl. Usually I would blame this on the Growl developers for breaking backward compatibility, but I&amp;#8217;m pretty sure Skype is at fault here since every other Growl enabled application I use works with the new version.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The fix&lt;/strong&gt;: Disable all notifications in Skype. I don&amp;#8217;t use it for chat, so I&amp;#8217;m not missing anything but the sign-on and sign-off messages.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Webcraft Story: Caley Woods</title>
@@ -82,7 +226,7 @@
 
 &lt;li&gt;&lt;strong&gt;Polish&lt;/strong&gt; - Living in Warsaw I practice all the time. I spend a few hours a week studying new vocabulary and grammar using Rosetta Stone and I&amp;#8217;m enrolled in a course at the University of Warsaw. The course isn&amp;#8217;t for a certificate, just for some people to practice with.&lt;/li&gt;
 
-&lt;li&gt;&lt;strong&gt;Poetry&lt;/strong&gt; - This is out of my comfort zone, which I think is important. I joined &amp;#8221;&lt;a href='http://p2pu.org/en/groups/breaking-the-rules-a-poetry-workshop/'&gt;Breaking the Rules: a Poetry Workshop&lt;/a&gt;&amp;#8221; at P2PU. &amp;#8220;Five weeks. Five poems. We&amp;#8217;ll look at what makes them tick, and write our own versions.&amp;#8221; I&amp;#8217;m also getting insight into how people use the site.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Poetry&lt;/strong&gt; - This is out of my comfort zone, which I think is important. I joined &amp;#8221;&lt;a href='http://p2pu.org/en/groups/hack-this-poem-a-workshop/'&gt;Hack this Poem: a Workshop&lt;/a&gt;&amp;#8221; at P2PU. &amp;#8220;Take poems you like. Decompose them to find of why. Write your own.&amp;#8221; I&amp;#8217;m also getting insight into how people use the site.&lt;/li&gt;
 
 &lt;li&gt;&lt;strong&gt;Music&lt;/strong&gt; - I&amp;#8217;ve got a &lt;a href='http://monome.org'&gt;Monome&lt;/a&gt; and some crazy software and I&amp;#8217;m experimenting with to make my own music. My goal is to perform something live for friends eventually. I don&amp;#8217;t practice often, but when I do I binge for many hours.&lt;/li&gt;
 
