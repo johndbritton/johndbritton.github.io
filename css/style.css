@@ -201,9 +201,15 @@ header {
 }
 #twitter {
   height: 20px;
-  width: 300px;
+  width: 240px;
   margin-left: 10px;
   float: left;
+
+}
+#github {
+  height: 20px;
+  width: 200px;
+  margin-left: 250px;
 }
 
 /*
