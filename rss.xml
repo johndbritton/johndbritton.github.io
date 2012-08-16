@@ -4,7 +4,7 @@
  <title>johndbritton</title>
  <link href="http://johndbritton.com/feed/" rel="self"/>
  <link href="http://johndbritton.com/"/>
- <updated>2012-06-24T12:45:36+02:00</updated>
+ <updated>2012-08-16T08:44:03-07:00</updated>
  <id>http://johndbritton.com/</id>
  <author>
    <name>John Britton</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>How a Poet Learned to Program</title>
    <link href="http://johndbritton.com/2012/02/03/how-a-poet-learned-to-program/"/>
-   <updated>2012-02-03T00:00:00+01:00</updated>
+   <updated>2012-02-03T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2012/02/03/how-a-poet-learned-to-program</id>
    <content type="html">&lt;p&gt;We recently kicked off a mentoring program at &lt;a href='http://p2pu.org'&gt;P2PU&lt;/a&gt; to help people learn web development. We&amp;#8217;re in the pilot stage, but we&amp;#8217;re looking forward to opening up for everyone very soon. Here&amp;#8217;s a first hand look into what the program is like from the view of one of my mentees.&lt;/p&gt;
 
@@ -69,10 +69,10 @@
  <entry>
    <title>Let's Talk TED Talks</title>
    <link href="http://johndbritton.com/2011/10/27/lets-talk-ted-talks/"/>
-   <updated>2011-10-27T00:00:00+02:00</updated>
+   <updated>2011-10-27T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2011/10/27/lets-talk-ted-talks</id>
    <content type="html">&lt;p&gt;I&amp;#8217;ve had this idea for a while, but I haven&amp;#8217;t really written about it anywhere yet. The 2011 P2PU Workshop in Berlin is right around the corner. Each attendee is supposed to bring at least one concrete idea and make it happen. This is mine. Sign up to join the group when it starts.&lt;/p&gt;
-&lt;a target='_new' class='cta-button' href='http://bit.ly/lets-talk-ted-talks-form'&gt;Sign up for &quot;Let's Talk TED Talks&quot;&lt;/a&gt;
+&lt;a class='cta-button' href='http://bit.ly/lets-talk-ted-talks-form' target='_new'&gt;Sign up for &quot;Let's Talk TED Talks&quot;&lt;/a&gt;
 &lt;h1 id='ted_talks_spark_discussion'&gt;TED Talks spark discussion.&lt;/h1&gt;
 
 &lt;p&gt;Every time I watch a TED Talk I want to discuss it. Inevitably this leads to me telling my friends about it and my related ideas before ending with &amp;#8220;just watch the video.&amp;#8221; Sometimes they watch right away, sometimes they don&amp;#8217;t watch at all. Regardless, I always have to wait before I can find someone to talk to about all my new ideas.&lt;/p&gt;
@@ -128,7 +128,7 @@
 &lt;/ul&gt;
 
 &lt;h1 id='about_p2pu'&gt;About P2PU&lt;/h1&gt;
-&lt;a target='_new' class='cta-button' href='http://bit.ly/lets-talk-ted-talks-form'&gt;Sign up for &quot;Let's Talk TED Talks&quot;&lt;/a&gt;
+&lt;a class='cta-button' href='http://bit.ly/lets-talk-ted-talks-form' target='_new'&gt;Sign up for &quot;Let's Talk TED Talks&quot;&lt;/a&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The &lt;a href='http://p2pu.org'&gt;Peer 2 Peer University&lt;/a&gt; is a grassroots open education project that organizes learning outside of institutional walls and gives learners recognition for their achievements. P2PU creates a model for lifelong learning alongside traditional formal higher education. Leveraging the internet and educational materials openly available online, P2PU enables high-quality low-cost education opportunities.&lt;/p&gt;
 &lt;/blockquote&gt;</content>
@@ -137,7 +137,7 @@
  <entry>
    <title>Things I Hate About Skype</title>
    <link href="http://johndbritton.com/2011/10/19/things-i-hate-about-skype/"/>
-   <updated>2011-10-19T00:00:00+02:00</updated>
+   <updated>2011-10-19T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2011/10/19/things-i-hate-about-skype</id>
    <content type="html">&lt;h1 id='its_no_secret_skype_sucks'&gt;It&amp;#8217;s no secret, Skype sucks.&lt;/h1&gt;
 
@@ -159,7 +159,7 @@
  <entry>
    <title>Webcraft Story: Caley Woods</title>
    <link href="http://johndbritton.com/2011/10/03/webcraft-story-caley-woods/"/>
-   <updated>2011-10-03T00:00:00+02:00</updated>
+   <updated>2011-10-03T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2011/10/03/webcraft-story-caley-woods</id>
    <content type="html">&lt;p&gt;&lt;a href='http://caleywoods.posterous.com/'&gt;Caley Woods&lt;/a&gt; is a P2PU community member from Brookfield, Missouri. He&amp;#8217;s participated in two courses in the &lt;a href='http://p2pu.org/webcraft'&gt;School of Webcraft&lt;/a&gt;. This is his story in his words.&lt;/p&gt;
 &lt;hr /&gt;
@@ -191,7 +191,7 @@
  <entry>
    <title>Consciously Deciding to Learn</title>
    <link href="http://johndbritton.com/2011/09/30/consciously-deciding-to-learn/"/>
-   <updated>2011-09-30T00:00:00+02:00</updated>
+   <updated>2011-09-30T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2011/09/30/consciously-deciding-to-learn</id>
    <content type="html">&lt;h1 id='dropping_out_of_college'&gt;Dropping Out of College&lt;/h1&gt;
 
@@ -245,7 +245,7 @@
  <entry>
    <title>Always Changing: What is P2PU Today?</title>
    <link href="http://johndbritton.com/2011/06/07/always-changing-what-is-p2pu-today/"/>
-   <updated>2011-06-07T00:00:00+02:00</updated>
+   <updated>2011-06-07T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2011/06/07/always-changing-what-is-p2pu-today</id>
    <content type="html">&lt;p&gt;Someone asked me to explain &lt;a href='http://p2pu.org'&gt;P2PU&lt;/a&gt; and &lt;a href='http://p2pu.org/webcraft'&gt;School of Webcraft&lt;/a&gt; in an email. My description is always changing, this is what I came up with today:&lt;/p&gt;
 
@@ -261,7 +261,7 @@
  <entry>
    <title>School of Webcraft at Open Source Bridge in Portland</title>
    <link href="http://johndbritton.com/2011/06/03/school-of-webcraft-at-open-source-bridge-in-portland/"/>
-   <updated>2011-06-03T00:00:00+02:00</updated>
+   <updated>2011-06-03T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2011/06/03/school-of-webcraft-at-open-source-bridge-in-portland</id>
    <content type="html">&lt;p&gt;&lt;a href='http://opensourcebridge.org/sessions/62'&gt;&lt;img alt='Open Source Bridge Badge' src='http://opensourcebridge.org/badges/2011/speak125.png' /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -275,7 +275,7 @@
  <entry>
    <title>Look Out for Big Brother - They're Watching You</title>
    <link href="http://johndbritton.com/2011/04/20/look-out-for-big-brother-theyre-watching-you/"/>
-   <updated>2011-04-20T00:00:00+02:00</updated>
+   <updated>2011-04-20T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2011/04/20/look-out-for-big-brother-theyre-watching-you</id>
    <content type="html">&lt;p&gt;I love to travel and I love visualizations of the places I go. I love the visualizations so much that I go out of my way to manually add all of my trips to a map using (the acquired by Nokia and now abandoned) service Dopplr. I&amp;#8217;m actually writing this article from the &lt;a href='https://foursquare.com/johndbritton/checkin/4daf42c54df00ee01d361c99?s=l3IyiHiLQGEd5vQbkYBf15n06LQ'&gt;Detroit airport&lt;/a&gt; and am on my way to Oklahoma City for the &lt;a href='http://reddirtrubyconf.com'&gt;Red Dirt Ruby Conference&lt;/a&gt;.&lt;/p&gt;
 
@@ -305,7 +305,7 @@
  <entry>
    <title>NYHacker Presents Music Hack Day New York</title>
    <link href="http://johndbritton.com/2011/01/11/nyhacker-presents-music-hack-day-new-york/"/>
-   <updated>2011-01-11T00:00:00+01:00</updated>
+   <updated>2011-01-11T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2011/01/11/nyhacker-presents-music-hack-day-new-york</id>
    <content type="html">&lt;p&gt;&lt;a href='http://nyc.musichackday.org'&gt;&lt;img alt='NYHacker Presents Music Hack Day New York' src='http://farm6.static.flickr.com/5087/5346211755_9b117d2966.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -355,13 +355,13 @@ our goal is to support one another in work and play; to grow nyc as a tech hub; 
 &lt;p&gt;Contact &lt;a href='mailto:public@johndbritton.com'&gt;John Britton&lt;/a&gt; to inquire about sponsorship opportunities.&lt;/p&gt;
 
 &lt;h1 id='video'&gt;Video&lt;/h1&gt;
-&lt;iframe height='281' frameborder='0' width='500' src='http://player.vimeo.com/video/13701170?title=0&amp;amp;byline=0&amp;amp;portrait=0'&gt;.&lt;/iframe&gt;</content>
+&lt;iframe frameborder='0' height='281' src='http://player.vimeo.com/video/13701170?title=0&amp;amp;byline=0&amp;amp;portrait=0' width='500'&gt;.&lt;/iframe&gt;</content>
  </entry>
  
  <entry>
    <title>P2PU Sign-up Opens Today - Cycle 3</title>
    <link href="http://johndbritton.com/2010/08/26/p2pu-sign-up-opens-today-cycle-3/"/>
-   <updated>2010-08-26T00:00:00+02:00</updated>
+   <updated>2010-08-26T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/08/26/p2pu-sign-up-opens-today-cycle-3</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4688979186/'&gt;&lt;img alt='P2PU Logo' src='http://farm2.static.flickr.com/1308/4688979186_baf9401e14.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;We just opened signups for the third cycle of courses at P2PU which are starting in September. This is our third, and largest cycle yet. We had 6 courses in the first, 16 in the second, and &lt;strong&gt;23 so far&lt;/strong&gt; for the third cycle. I&amp;#8217;m organizing a course called &amp;#8221;&lt;a href='http://bit.ly/c4AYU4'&gt;Web 200: The Anatomy of a Request&lt;/a&gt;&amp;#8221; as part of the School of Webcraft. Here&amp;#8217;s the story from the &lt;a href='http://blogs.p2pu.org/blog/2010/08/26/sign-up-opens/'&gt;P2PU blog&lt;/a&gt;:&lt;/p&gt;
@@ -385,7 +385,7 @@ our goal is to support one another in work and play; to grow nyc as a tech hub; 
  <entry>
    <title>Vote for Mozilla and P2PU at the SXSW Interactive Festival</title>
    <link href="http://johndbritton.com/2010/08/12/vote-for-mozilla-and-p2pu-at-the-sxsw-interactive-festival/"/>
-   <updated>2010-08-12T00:00:00+02:00</updated>
+   <updated>2010-08-12T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/08/12/vote-for-mozilla-and-p2pu-at-the-sxsw-interactive-festival</id>
    <content type="html">&lt;p&gt;&lt;a href='http://bit.ly/sxsw_webcraft'&gt;&lt;img alt='SXSW Panel Picker' src='http://farm5.static.flickr.com/4076/4885042021_576e2be13c_m.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -417,7 +417,7 @@ our goal is to support one another in work and play; to grow nyc as a tech hub; 
  <entry>
    <title>P2PU Invterview on Udemy Blog</title>
    <link href="http://johndbritton.com/2010/08/11/p2pu-invterview-on-udemy-blog/"/>
-   <updated>2010-08-11T00:00:00+02:00</updated>
+   <updated>2010-08-11T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/08/11/p2pu-invterview-on-udemy-blog</id>
    <content type="html">&lt;p&gt;Udemy just posted a short interview with me about my experience with P2PU:&lt;/p&gt;
 
@@ -431,7 +431,7 @@ our goal is to support one another in work and play; to grow nyc as a tech hub; 
  <entry>
    <title>7 Tips for Demoing at the New York Tech Meetup</title>
    <link href="http://johndbritton.com/2010/08/05/7-tips-for-demoing-at-the-new-york-tech-meetup/"/>
-   <updated>2010-08-05T00:00:00+02:00</updated>
+   <updated>2010-08-05T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/08/05/7-tips-for-demoing-at-the-new-york-tech-meetup</id>
    <content type="html">&lt;p&gt;Here are 7 Tips for demoing at the &lt;a href='http://nytm.org'&gt;New York Tech Meetup&lt;/a&gt;. This list is definitely not exhaustive, but it should help people out a bit. In the spirit of the advice I'm going to give, I'm going to get right to the tips.&lt;/p&gt;&lt;strong&gt;1. Intro in Under 30 Seconds&lt;/strong&gt;&lt;p&gt;No one cares who your partners are, they just want to see cool tech now.&lt;/p&gt;&lt;strong&gt;2. Always be Demoing&lt;/strong&gt;&lt;p&gt;This is the &lt;em&gt;most important&lt;/em&gt; thing I can tell you. People don't give a damn about your Steve Jobs-esque Keynote deck, make sure everything you do shows off your product for real.&lt;/p&gt;&lt;strong&gt;3. Make the Crowd Do Something&lt;/strong&gt;&lt;p&gt;You want to avoid a distracted audience, the best way to do that is to have them do something that requires thinking and physical activity, even if it's just something small like raising a hand.&lt;/p&gt;&lt;strong&gt;4. Play Off the Crowd&lt;/strong&gt;&lt;p&gt;Sometimes things don't go as planned, take my little typo for example. Pay attention to the crowd and use their reactions to your advantage.&lt;/p&gt;&lt;strong&gt;5. Be Unexpected&lt;/strong&gt;&lt;p&gt;If the audience knows where you're going they may get bored. Also it's great to catch people off-guard and give them something to remember.&lt;/p&gt;&lt;strong&gt;6. Do Magic&lt;/strong&gt;&lt;p&gt;Literally. I have to thank &lt;a href='http://www.daniellemorrill.com/'&gt;Danielle&lt;/a&gt; for this tip because I tend to be a teacher. The crowd doesn't have to understand how things work to be amazed. The fact that they know it works is enough to get them to use your product.&lt;/p&gt;&lt;strong&gt;7. Have a Damn Good Product&lt;/strong&gt;&lt;p&gt;You're demoing to &lt;em&gt;The New York Tech Meetup&lt;/em&gt;, your product better be good. If it's not, don't do a demo until it is. You've got more important things to do.&lt;/p&gt;&lt;strong&gt;Why You Should Care&lt;/strong&gt;&lt;p&gt;I gave a demo of &lt;a href='http://www.twilio.com'&gt;Twilio&lt;/a&gt; at the August 2010 NYTM and it went over pretty well. See my &lt;a href='/post/2010/august/04/live_coding_demo_new_york_tech_meetup'&gt;summary blog post&lt;/a&gt; for a video and recap.&lt;/p&gt;</content>
  </entry>
@@ -439,9 +439,9 @@ our goal is to support one another in work and play; to grow nyc as a tech hub; 
  <entry>
    <title>Live Coding Demo at New York Tech Meetup</title>
    <link href="http://johndbritton.com/2010/08/04/live-coding-demo-at-new-york-tech-meetup/"/>
-   <updated>2010-08-04T00:00:00+02:00</updated>
+   <updated>2010-08-04T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/08/04/live-coding-demo-at-new-york-tech-meetup</id>
-   <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4859983013/'&gt;&lt;img alt='New York Tech Meetup Logo' src='http://farm5.static.flickr.com/4120/4859983013_30d807d236_m.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;Quick Recap&lt;/strong&gt;&lt;p&gt;&lt;a href='http://www.meetup.com/ny-tech/calendar/12976148/'&gt;Tuesday night&lt;/a&gt; I gave a &lt;a href='http://www.johndbritton.com/post/2010/august/04/live_coding_demo_new_york_tech_meetup'&gt;demo&lt;/a&gt; of &lt;a href='http://www.twilio.com'&gt;Twilio&lt;/a&gt; to a crowd of around 850 people at the &lt;a href='http://nytm.org'&gt;New York Tech Meetup&lt;/a&gt;. The event was a ton of fun and jam packed with great demos. I'd like to thank &lt;a href='http://www.yourstartupsucks.com/'&gt;Brandon Diamond&lt;/a&gt;, &lt;a href='http://innonate.com/'&gt;Nate Westheimer&lt;/a&gt;, and the rest of the &lt;a href='http://nytm.org/the-board/'&gt;NYTM people&lt;/a&gt; for putting on such a great event. I can't wait to come back and demo some more cool stuff, these guys are awesome.&lt;/p&gt;&lt;object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' height='306' id='lsplayer' width='500'&gt;&lt;param value='http://cdn.livestream.com/grid/LSPlayer.swf?channel=nytechmeetup&amp;amp;clip=pla_8b03ead8-b68f-4f04-9744-2e0e85274b03&amp;amp;color=0xe7e7e7&amp;amp;autoPlay=false&amp;amp;mute=false' name='movie' /&gt;&lt;param value='always' name='allowScriptAccess' /&gt;&lt;param value='true' name='allowFullScreen' /&gt;&lt;embed allowScriptAccess='always' name='lsplayer' height='306' type='application/x-shockwave-flash' allowFullScreen='true' wmode='transparent' width='500' src='http://cdn.livestream.com/grid/LSPlayer.swf?channel=nytechmeetup&amp;amp;clip=pla_8b03ead8-b68f-4f04-9744-2e0e85274b03&amp;amp;color=0xe7e7e7&amp;amp;autoPlay=false&amp;amp;mute=false' /&gt;&lt;/object&gt;&lt;p&gt;The demo went over really well. &lt;a href='http://twitter.com/heif/status/20318468582'&gt;Here&lt;/a&gt; &lt;a href='http://twitter.com/magnusvk/status/20262356381'&gt;are&lt;/a&gt; &lt;a href='http://twitter.com/smartocci/status/20262313434'&gt;a&lt;/a&gt; &lt;a href='http://twitter.com/papillonc/status/20262054050'&gt;few&lt;/a&gt; &lt;a href='http://twitter.com/justinjustin/status/20262167875'&gt;of&lt;/a&gt; &lt;a href='http://twitter.com/kende/status/20262093075'&gt;my&lt;/a&gt; &lt;a href='http://twitter.com/nickbaily/status/20262163562'&gt;favorite&lt;/a&gt; &lt;a href='http://twitter.com/marksbirch/status/20262236069'&gt;tweets&lt;/a&gt; &lt;a href='http://twitter.com/mattlehrer/status/20263195286'&gt;from&lt;/a&gt; &lt;a href='http://twitter.com/brad_felix/status/20278689158'&gt;the&lt;/a&gt; &lt;a href='http://twitter.com/FilipSzy/status/20262037468'&gt;evening&lt;/a&gt;. There were a lot more than I could list here, check out the &lt;a href='http://search.twitter.com/search?q=nytm+twilio'&gt;Twitter search&lt;/a&gt;.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/4866485834/'&gt;&lt;img alt='John Coding in Nano on a 30 foot screen' src='http://farm5.static.flickr.com/4123/4866485834_e022e06730.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;Some Press Coverage&lt;/strong&gt;&lt;p&gt;&lt;a href='http://www.businessinsider.com/what-you-missed-at-last-nights-new-york-tech-meetup-2010-8'&gt;Silicon Alley Insider&lt;/a&gt; called it &quot;the best demo we've ever seen&quot; and Fred Wilson from Union Square Ventures featured it in a blog post called &quot;&lt;a href='http://www.avc.com/a_vc/2010/08/how-to-pitch-a-product.html'&gt;How to Pitch a Product&lt;/a&gt;.&quot; Scott Heiferman, the guy who started NYTM, &lt;a href='http://twitter.com/heif/status/20318468582'&gt;cited&lt;/a&gt; it as his reason for starting NYTM. &lt;a href='http://www.readwriteweb.com/start/2010/08/perfect-pitch-twilios-john-bri.php'&gt;Read Write Web&lt;/a&gt;, &lt;a href='http://blogs.villagevoice.com/runninscared/archives/2010/08/ny_tech_meetup.php'&gt;The Village Voice&lt;/a&gt;, and &lt;a href='http://technoverseblog.com/2010/08/nytm-8310-shirky-rebutted-social-shopping-and-semantic-web/'&gt;Technoverse&lt;/a&gt; blogs also covered the event.&lt;/p&gt;&lt;p&gt;Fred's blog post was picked up on &lt;a href='http://news.ycombinator.com/item?id=1577340'&gt;Hacker News&lt;/a&gt; and then I posted it to &lt;a href='http://www.reddit.com/r/programming/comments/cxm4b/how_to_pitch_a_product_live_coding_in_front_of/'&gt;Reddit&lt;/a&gt;. The article was on the front page of both sites for most of Wednesday night and Thursday. I eventually started an &lt;a href='http://www.reddit.com/r/programming/comments/cxtw9/dial_into_the_reddit_conference_line_live_coded/'&gt;open conference call&lt;/a&gt; for anyone on the web who wanted to see the demo... I'll be calling everyone back later with a special message.&lt;/p&gt;&lt;strong&gt;Other Stuff&lt;/strong&gt;&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+   <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4859983013/'&gt;&lt;img alt='New York Tech Meetup Logo' src='http://farm5.static.flickr.com/4120/4859983013_30d807d236_m.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;Quick Recap&lt;/strong&gt;&lt;p&gt;&lt;a href='http://www.meetup.com/ny-tech/calendar/12976148/'&gt;Tuesday night&lt;/a&gt; I gave a &lt;a href='http://www.johndbritton.com/post/2010/august/04/live_coding_demo_new_york_tech_meetup'&gt;demo&lt;/a&gt; of &lt;a href='http://www.twilio.com'&gt;Twilio&lt;/a&gt; to a crowd of around 850 people at the &lt;a href='http://nytm.org'&gt;New York Tech Meetup&lt;/a&gt;. The event was a ton of fun and jam packed with great demos. I'd like to thank &lt;a href='http://www.yourstartupsucks.com/'&gt;Brandon Diamond&lt;/a&gt;, &lt;a href='http://innonate.com/'&gt;Nate Westheimer&lt;/a&gt;, and the rest of the &lt;a href='http://nytm.org/the-board/'&gt;NYTM people&lt;/a&gt; for putting on such a great event. I can't wait to come back and demo some more cool stuff, these guys are awesome.&lt;/p&gt;&lt;object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' height='306' id='lsplayer' width='500'&gt;&lt;param name='movie' value='http://cdn.livestream.com/grid/LSPlayer.swf?channel=nytechmeetup&amp;amp;clip=pla_8b03ead8-b68f-4f04-9744-2e0e85274b03&amp;amp;color=0xe7e7e7&amp;amp;autoPlay=false&amp;amp;mute=false' /&gt;&lt;param name='allowScriptAccess' value='always' /&gt;&lt;param name='allowFullScreen' value='true' /&gt;&lt;embed allowFullScreen='true' allowScriptAccess='always' height='306' name='lsplayer' src='http://cdn.livestream.com/grid/LSPlayer.swf?channel=nytechmeetup&amp;amp;clip=pla_8b03ead8-b68f-4f04-9744-2e0e85274b03&amp;amp;color=0xe7e7e7&amp;amp;autoPlay=false&amp;amp;mute=false' type='application/x-shockwave-flash' width='500' wmode='transparent' /&gt;&lt;/object&gt;&lt;p&gt;The demo went over really well. &lt;a href='http://twitter.com/heif/status/20318468582'&gt;Here&lt;/a&gt; &lt;a href='http://twitter.com/magnusvk/status/20262356381'&gt;are&lt;/a&gt; &lt;a href='http://twitter.com/smartocci/status/20262313434'&gt;a&lt;/a&gt; &lt;a href='http://twitter.com/papillonc/status/20262054050'&gt;few&lt;/a&gt; &lt;a href='http://twitter.com/justinjustin/status/20262167875'&gt;of&lt;/a&gt; &lt;a href='http://twitter.com/kende/status/20262093075'&gt;my&lt;/a&gt; &lt;a href='http://twitter.com/nickbaily/status/20262163562'&gt;favorite&lt;/a&gt; &lt;a href='http://twitter.com/marksbirch/status/20262236069'&gt;tweets&lt;/a&gt; &lt;a href='http://twitter.com/mattlehrer/status/20263195286'&gt;from&lt;/a&gt; &lt;a href='http://twitter.com/brad_felix/status/20278689158'&gt;the&lt;/a&gt; &lt;a href='http://twitter.com/FilipSzy/status/20262037468'&gt;evening&lt;/a&gt;. There were a lot more than I could list here, check out the &lt;a href='http://search.twitter.com/search?q=nytm+twilio'&gt;Twitter search&lt;/a&gt;.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/4866485834/'&gt;&lt;img alt='John Coding in Nano on a 30 foot screen' src='http://farm5.static.flickr.com/4123/4866485834_e022e06730.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;Some Press Coverage&lt;/strong&gt;&lt;p&gt;&lt;a href='http://www.businessinsider.com/what-you-missed-at-last-nights-new-york-tech-meetup-2010-8'&gt;Silicon Alley Insider&lt;/a&gt; called it &quot;the best demo we've ever seen&quot; and Fred Wilson from Union Square Ventures featured it in a blog post called &quot;&lt;a href='http://www.avc.com/a_vc/2010/08/how-to-pitch-a-product.html'&gt;How to Pitch a Product&lt;/a&gt;.&quot; Scott Heiferman, the guy who started NYTM, &lt;a href='http://twitter.com/heif/status/20318468582'&gt;cited&lt;/a&gt; it as his reason for starting NYTM. &lt;a href='http://www.readwriteweb.com/start/2010/08/perfect-pitch-twilios-john-bri.php'&gt;Read Write Web&lt;/a&gt;, &lt;a href='http://blogs.villagevoice.com/runninscared/archives/2010/08/ny_tech_meetup.php'&gt;The Village Voice&lt;/a&gt;, and &lt;a href='http://technoverseblog.com/2010/08/nytm-8310-shirky-rebutted-social-shopping-and-semantic-web/'&gt;Technoverse&lt;/a&gt; blogs also covered the event.&lt;/p&gt;&lt;p&gt;Fred's blog post was picked up on &lt;a href='http://news.ycombinator.com/item?id=1577340'&gt;Hacker News&lt;/a&gt; and then I posted it to &lt;a href='http://www.reddit.com/r/programming/comments/cxm4b/how_to_pitch_a_product_live_coding_in_front_of/'&gt;Reddit&lt;/a&gt;. The article was on the front page of both sites for most of Wednesday night and Thursday. I eventually started an &lt;a href='http://www.reddit.com/r/programming/comments/cxtw9/dial_into_the_reddit_conference_line_live_coded/'&gt;open conference call&lt;/a&gt; for anyone on the web who wanted to see the demo... I'll be calling everyone back later with a special message.&lt;/p&gt;&lt;strong&gt;Other Stuff&lt;/strong&gt;&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
 &amp;lt;p&amp;gt;I&amp;apos;d also like to congratulate &amp;lt;a href=&amp;quot;http://www.willowgarage.com/pages/robots/texas/overview&amp;quot;&amp;gt;Texai&amp;lt;/a&amp;gt; and &amp;lt;a href=&amp;quot;http://www.indabamusic.com/&amp;quot;&amp;gt;Indaba&amp;lt;/a&amp;gt; on super-impressive demos. &amp;lt;a href=&amp;quot;http://www.playphilo.com/&amp;quot;&amp;gt;Philo&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;http://www.eventros.com/&amp;quot;&amp;gt;Eventros&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;http://shop.marketpublique.com/&amp;quot;&amp;gt;Market Publique&amp;lt;/a&amp;gt;, and &amp;lt;a href=&amp;quot;http://www.turntonetworks.com/&amp;quot;&amp;gt;Turnto&amp;lt;/a&amp;gt; showed off some pretty cool stuff too. I don&amp;apos;t know how I feel about &amp;lt;a href=&amp;quot;http://bing.com&amp;quot;&amp;gt;Bing&amp;lt;/a&amp;gt;, but they had a &amp;lt;a href=&amp;quot;http://twitter.com/johndbritton/status/20263724149&amp;quot;&amp;gt;great quote&amp;lt;/a&amp;gt;. &amp;lt;a href=&amp;quot;http://www.cleverkoala.com/about-me/&amp;quot;&amp;gt;Mike Lewis&amp;lt;/a&amp;gt; has a &amp;lt;a href=&amp;quot;http://www.cleverkoala.com/2010/08/another-phenomenal-ny-tech-meetup-august/&amp;quot;&amp;gt;blog post&amp;lt;/a&amp;gt; summarizing all the demos, so I won&amp;apos;t duplicate that here.
 
 If you&amp;apos;re interested in catching up about Twilio, check out our &amp;lt;a href=&amp;quot;http://meetup.com/twilio&amp;quot;&amp;gt;Meetup Everywhere&amp;lt;/a&amp;gt; page.&lt;/pre&gt;</content>
@@ -450,7 +450,7 @@ If you&amp;apos;re interested in catching up about Twilio, check out our &amp;lt
  <entry>
    <title>Peer 2 Peer University Call for Courses - Cycle 3</title>
    <link href="http://johndbritton.com/2010/07/23/peer-2-peer-university-call-for-courses-cycle-3/"/>
-   <updated>2010-07-23T00:00:00+02:00</updated>
+   <updated>2010-07-23T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/07/23/peer-2-peer-university-call-for-courses-cycle-3</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4688979186/'&gt;&lt;img alt='P2PU Logo' src='http://farm2.static.flickr.com/1308/4688979186_baf9401e14.jpg' /&gt;&lt;/a&gt;&lt;p&gt;P2PU is going strong. We're getting ready to launch our third cycle of courses, but before we do that we need you to propose them! Join in on the fun, all the cool kids are doing it.&lt;/p&gt;&lt;p&gt;From the &lt;a href='http://blogs.p2pu.org/blog/2010/07/23/p2pu-call-for-courses/'&gt;P2PU Blog&lt;/a&gt;:&lt;/p&gt;&lt;blockquote&gt;
 &lt;p&gt;The  Peer 2 Peer University is gearing up to launch its third cycle of  courses this coming September, and we’re looking for new faces to join  the community. Do you have an idea for a six week course? Whether it’s  Physics 101 or Poker and Strategic Thinking, all ideas are welcome. You  can propose a course at &lt;a href='http://wiki.p2pu.org/Create-a-Course'&gt;http://wiki.p2pu.org/Create-a-Course&lt;/a&gt; (deadline  is August 6, 2010).&lt;/p&gt; 
@@ -481,7 +481,7 @@ If you&amp;apos;re interested in catching up about Twilio, check out our &amp;lt
  <entry>
    <title>Mozilla Drumbeat NYC</title>
    <link href="http://johndbritton.com/2010/07/22/mozilla-drumbeat-nyc/"/>
-   <updated>2010-07-22T00:00:00+02:00</updated>
+   <updated>2010-07-22T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/07/22/mozilla-drumbeat-nyc</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4817154629/'&gt;&lt;img alt='Drumbeat NYC Logo' src='http://farm5.static.flickr.com/4101/4817154629_04d368b432.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;August 7, 2010 - 12:00pm - 5:00pm OpenPlans 148 Lafayette Street New York, NY, 10013 http://www.drumbeat.org/events/drumbeat-new-york&lt;/p&gt;
@@ -503,7 +503,7 @@ If you&amp;apos;re interested in catching up about Twilio, check out our &amp;lt
  <entry>
    <title>Open Video Conference, October 1-2, New York</title>
    <link href="http://johndbritton.com/2010/07/19/open-video-conference-october-1-2-new-york/"/>
-   <updated>2010-07-19T00:00:00+02:00</updated>
+   <updated>2010-07-19T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/07/19/open-video-conference-october-1-2-new-york</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4809622378/'&gt;&lt;img alt='Open Video Conference Logo' src='http://farm5.static.flickr.com/4121/4809622378_d51e240016.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;I&amp;#8217;ll be at the Open Video Conference in NYC, if you&amp;#8217;re in town, you should definitely join. Here&amp;#8217;s a quick message from the organizer:&lt;/p&gt;
@@ -536,9 +536,10 @@ conference@openvideoalliance.org
  <entry>
    <title>Mozilla Summit 2010 Recap</title>
    <link href="http://johndbritton.com/2010/07/12/mozilla-summit-2010-recap/"/>
-   <updated>2010-07-12T00:00:00+02:00</updated>
+   <updated>2010-07-12T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/07/12/mozilla-summit-2010-recap</id>
-   <content type="html">&lt;p&gt;The &lt;a href='http://wiki.mozilla.org/Summit2010'&gt;Mozilla Summit&lt;/a&gt; far surpassed my expectations. The event was personal, technical, creative and inspiring all at once.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/4786488838/'&gt;&lt;img alt='Mozilla Summit 2010 Banner' src='http://farm5.static.flickr.com/4123/4786488838_7d1d1b95ac.jpg' /&gt;&lt;/a&gt;&lt;blockquote&gt;The Mozilla Summit is an invitation-only gathering of some of the most active contributors in the Mozilla community. This year's theme was &quot;Be More Like the Web&quot;.&lt;/blockquote&gt;&lt;p&gt;I was lucky enough to be among those who were invited, due to my involvement with the &lt;a href='http://drumbeat.org'&gt;Drumbeat&lt;/a&gt; project. There were a total of around 600 &lt;a href='http://mozilla.org'&gt;Mozilla&lt;/a&gt; community members at the event: hackers, localizers, testers, marketers, and the individuals formerly known as 'users'.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/4786584540/'&gt;&lt;img alt='Mozilla Firefox Logo' src='http://farm5.static.flickr.com/4075/4786584540_6c954112aa.jpg' /&gt;&lt;/a&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;p&gt;Mozilla is most well known for the open source browser, &lt;a href='http://firefox.com'&gt;Firefox&lt;/a&gt;. In addition to Firefox, there are number of other software projects like &lt;a href='https://jetpack.mozillalabs.com/'&gt;Jetpack&lt;/a&gt; at &lt;a href='https://mozillalabs.com/'&gt;Mozilla Labs&lt;/a&gt;. Although Mozilla has been incredibly successful with open source software, they're ambitious and ready for the next big challenge. As stewards of the open web, Mozillians around the world are banding together through &lt;strong&gt;Drumbeat&lt;/strong&gt;: a collection of practical projects and local events that gather smart, creative people around big ideas that improve the open web. The Summit was our forum to share the project with the greater Mozilla community.&lt;/p&gt;&lt;h3&gt;Day 0: Arrival &amp;amp; Reception&lt;/h3&gt;&lt;p&gt;I flew in from Alaska, direct from my family vacation to Vancouver and then hopped on a bus to Whistler, BC. I arrived on Tuesday afternoon just in time to join the &lt;a href='http://www.mozilla.org/foundation/'&gt;Mozilla Foundation&lt;/a&gt; meeting and presenter's workshop. I spent the better part of the afternoon working on a &lt;a href='http://en.wikipedia.org/wiki/Speed_geeking'&gt;speed geek&lt;/a&gt; with my new partner in crime at P2PU, &lt;a href='http://www.battlecat.net/'&gt;Pippa Buchanan&lt;/a&gt;. We rehearsed our talk a few times and got valuable feedback for the next day.&lt;/p&gt;&lt;p&gt;The rest of the attendees arrived in time for a reception, where we had a chance to get to know each other and kick off the event properly.&lt;/p&gt;&lt;h3&gt;Day 1: Getting Started&lt;/h3&gt;&lt;p&gt;The day started off early with a few inspiring keynote speakers and an extended lunch break to watch some of the World Cup. After lunch I headed to a session from &lt;a href='http://www.mozillamessaging.com'&gt;Mozilla Messaging&lt;/a&gt; where they demoed experimental &lt;a href='http://www.mozillamessaging.com/thunderbird/'&gt;Thunderbird&lt;/a&gt; mail client features.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/17391596@N00/4780760936/in/set-72157624340030567/'&gt;&lt;img alt='John Britton and Pippa Buchanan Throwing Down the Webcraft Gang Sign' src='http://farm5.static.flickr.com/4097/4780760936_a89e54a571.jpg' /&gt;&lt;/a&gt;&lt;em&gt;Photo CC-BY-NC-SA, Nathaniel James&lt;/em&gt;&lt;p&gt;The next session was &quot;Drumbeat in 2100 Seconds,&quot; led by &lt;a href='http://commonspace.wordpress.com/'&gt;Mark Surman&lt;/a&gt;, Executive Director of the Mozilla Foundation. Mark took about four minutes to describe Drumbeat and why it is important to Mozilla before splitting the crowd into groups for the speed geek sessions. All three of the featured Drumbeat projects (&lt;a href='http://www.drumbeat.org/p2pu-webcraft'&gt;P2PU School of Webcraft&lt;/a&gt;, &lt;a href='http://www.drumbeat.org/webmademovies'&gt;Web Made Movies&lt;/a&gt;, &amp;amp &lt;a href='http://www.drumbeat.org/universal-subtitles'&gt;Universal Subtitles&lt;/a&gt;) were represented along with Drumbeat Events and a couple others. The speed geek session went really well; we got a few people to join the project.&lt;/p&gt;&lt;h3&gt;Day 2: In the Groove&lt;/h3&gt;&lt;p&gt;The second day was filled with more sessions, and some especially interesting &lt;a href='http://en.wikipedia.org/wiki/Html5'&gt;HTML5&lt;/a&gt; demos including &lt;a href='http://en.wikipedia.org/wiki/WebGL'&gt;WebGL&lt;/a&gt; and the &amp;lt;audio&amp;gt; and &amp;lt;video&amp;gt; tags. I had a chance to talk to &lt;a href='http://www.benmoskowitz.com/'&gt;Ben Moskowitz&lt;/a&gt; about open video and the upcoming &lt;a href='http://openvideoconference.org'&gt;Open Video Conference&lt;/a&gt; in New York City.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href='http://www.youtube.com/watch?v=VUOIS3jtD8Y'&gt;The Flight of the Navigator&lt;/a&gt;&lt;/em&gt; is a WebGL demo rendered in the browser that built by the Mozilla audio team. The demo pulls in live data and video from the web while rendering. Everyone in the crowd was awe-struck.&lt;/p&gt;&lt;p&gt;I spent the better part of the afternoon at the Summit Science Fair. There were around thirty individual booths showcasing all kinds of software. Everything from accessibility for the blind to a JavaScript framework for building Firefox extensions.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/morgamic/4781382805/'&gt;&lt;img alt='Science Fair' src='http://farm5.static.flickr.com/4115/4781382805_fa04ec6b70.jpg' /&gt;&lt;/a&gt;&lt;em&gt;Photo CC-BY-NC-SA, Michael Morgan&lt;/em&gt;&lt;p&gt;We rounded out the day with the Summit World Expo and International Dinner, where representatives from the over forty countries in attendance showcased their local communities and cultures.&lt;/p&gt;&lt;p&gt;After dinner, there was a late night JetPack hackathon. I built a Firefox extension (more details in a later blog post) in just a few hours. The extension is called '&lt;a href='http://github.com/johndbritton/Clickable-Phone-Numbers'&gt;Clickable Phone Numbers&lt;/a&gt;' and it makes any number on the web into a click-to-call number using the Twilio API.&lt;/p&gt;&lt;h3&gt;Day 3: Grand Finale&lt;/h3&gt;&lt;p&gt;The final day of the conference was a bit more laid back, we talked about the Drumbeat event strategy and did a bit of planning for &lt;a href='http://www.drumbeat.org/events/drumbeat-new-york'&gt;Drumbeat NYC&lt;/a&gt; (August 7th) and the &lt;a href='http://www.drumbeat.org/drumbeat_festival_2010'&gt;Drumbeat Festival&lt;/a&gt; (November 3-5) which is going to be held in Barcelona. I attended a few more lightning talks and a session on the future of client-side debugging.&lt;/p&gt;&lt;p&gt;Pippa and I ran our session on the P2PU School of Webcraft. There was a 10 minute intro, and then we split the audience into four groups with tasks:&lt;/p&gt;&lt;ol&gt;
+   <content type="html">&lt;p&gt;The &lt;a href='http://wiki.mozilla.org/Summit2010'&gt;Mozilla Summit&lt;/a&gt; far surpassed my expectations. The event was personal, technical, creative and inspiring all at once.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/4786488838/'&gt;&lt;img alt='Mozilla Summit 2010 Banner' src='http://farm5.static.flickr.com/4123/4786488838_7d1d1b95ac.jpg' /&gt;&lt;/a&gt;&lt;blockquote&gt;The Mozilla Summit is an invitation-only gathering of some of the most active contributors in the Mozilla community. This year's theme was &quot;Be More Like the Web&quot;.&lt;/blockquote&gt;&lt;p&gt;I was lucky enough to be among those who were invited, due to my involvement with the &lt;a href='http://drumbeat.org'&gt;Drumbeat&lt;/a&gt; project. There were a total of around 600 &lt;a href='http://mozilla.org'&gt;Mozilla&lt;/a&gt; community members at the event: hackers, localizers, testers, marketers, and the individuals formerly known as 'users'.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/4786584540/'&gt;&lt;img alt='Mozilla Firefox Logo' src='http://farm5.static.flickr.com/4075/4786584540_6c954112aa.jpg' /&gt;&lt;/a&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;p&gt;Mozilla is most well known for the open source browser, &lt;a href='http://firefox.com'&gt;Firefox&lt;/a&gt;. In addition to Firefox, there are number of other software projects like &lt;a href='https://jetpack.mozillalabs.com/'&gt;Jetpack&lt;/a&gt; at &lt;a href='https://mozillalabs.com/'&gt;Mozilla Labs&lt;/a&gt;. Although Mozilla has been incredibly successful with open source software, they're ambitious and ready for the next big challenge. As stewards of the open web, Mozillians around the world are banding together through &lt;strong&gt;Drumbeat&lt;/strong&gt;: a collection of practical projects and local events that gather smart, creative people around big ideas that improve the open web. The Summit was our forum to share the project with the greater Mozilla community.&lt;/p&gt;&lt;h3&gt;Day 0: Arrival &amp;amp; Reception&lt;/h3&gt;&lt;p&gt;I flew in from Alaska, direct from my family vacation to Vancouver and then hopped on a bus to Whistler, BC. I arrived on Tuesday afternoon just in time to join the &lt;a href='http://www.mozilla.org/foundation/'&gt;Mozilla Foundation&lt;/a&gt; meeting and presenter's workshop. I spent the better part of the afternoon working on a &lt;a href='http://en.wikipedia.org/wiki/Speed_geeking'&gt;speed geek&lt;/a&gt; with my new partner in crime at P2PU, &lt;a href='http://www.battlecat.net/'&gt;Pippa Buchanan&lt;/a&gt;. We rehearsed our talk a few times and got valuable feedback for the next day.&lt;/p&gt;&lt;p&gt;The rest of the attendees arrived in time for a reception, where we had a chance to get to know each other and kick off the event properly.&lt;/p&gt;&lt;h3&gt;Day 1: Getting Started&lt;/h3&gt;&lt;p&gt;The day started off early with a few inspiring keynote speakers and an extended lunch break to watch some of the World Cup. After lunch I headed to a session from &lt;a href='http://www.mozillamessaging.com'&gt;Mozilla Messaging&lt;/a&gt; where they demoed experimental &lt;a href='http://www.mozillamessaging.com/thunderbird/'&gt;Thunderbird&lt;/a&gt; mail client features.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/17391596@N00/4780760936/in/set-72157624340030567/'&gt;&lt;img alt='John Britton and Pippa Buchanan Throwing Down the Webcraft Gang Sign' src='http://farm5.static.flickr.com/4097/4780760936_a89e54a571.jpg' /&gt;&lt;/a&gt;&lt;em&gt;Photo CC-BY-NC-SA, Nathaniel James&lt;/em&gt;&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;p&amp;gt;The next session was &amp;quot;Drumbeat in 2100 Seconds,&amp;quot; led by &amp;lt;a href=&amp;quot;http://commonspace.wordpress.com/&amp;quot;&amp;gt;Mark Surman&amp;lt;/a&amp;gt;, Executive Director of the Mozilla Foundation. Mark took about four minutes to describe Drumbeat and why it is important to Mozilla before splitting the crowd into groups for the speed geek sessions. All three of the featured Drumbeat projects (&amp;lt;a href=&amp;quot;http://www.drumbeat.org/p2pu-webcraft&amp;quot;&amp;gt;P2PU School of Webcraft&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;http://www.drumbeat.org/webmademovies&amp;quot;&amp;gt;Web Made Movies&amp;lt;/a&amp;gt;, &amp;amp;amp &amp;lt;a href=&amp;quot;http://www.drumbeat.org/universal-subtitles&amp;quot;&amp;gt;Universal Subtitles&amp;lt;/a&amp;gt;) were represented along with Drumbeat Events and a couple others. The speed geek session went really well; we got a few people to join the project.&amp;lt;/p&amp;gt;&lt;/pre&gt;&lt;h3&gt;Day 2: In the Groove&lt;/h3&gt;&lt;p&gt;The second day was filled with more sessions, and some especially interesting &lt;a href='http://en.wikipedia.org/wiki/Html5'&gt;HTML5&lt;/a&gt; demos including &lt;a href='http://en.wikipedia.org/wiki/WebGL'&gt;WebGL&lt;/a&gt; and the &amp;lt;audio&amp;gt; and &amp;lt;video&amp;gt; tags. I had a chance to talk to &lt;a href='http://www.benmoskowitz.com/'&gt;Ben Moskowitz&lt;/a&gt; about open video and the upcoming &lt;a href='http://openvideoconference.org'&gt;Open Video Conference&lt;/a&gt; in New York City.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href='http://www.youtube.com/watch?v=VUOIS3jtD8Y'&gt;The Flight of the Navigator&lt;/a&gt;&lt;/em&gt; is a WebGL demo rendered in the browser that built by the Mozilla audio team. The demo pulls in live data and video from the web while rendering. Everyone in the crowd was awe-struck.&lt;/p&gt;&lt;p&gt;I spent the better part of the afternoon at the Summit Science Fair. There were around thirty individual booths showcasing all kinds of software. Everything from accessibility for the blind to a JavaScript framework for building Firefox extensions.&lt;/p&gt;&lt;a href='http://www.flickr.com/photos/morgamic/4781382805/'&gt;&lt;img alt='Science Fair' src='http://farm5.static.flickr.com/4115/4781382805_fa04ec6b70.jpg' /&gt;&lt;/a&gt;&lt;em&gt;Photo CC-BY-NC-SA, Michael Morgan&lt;/em&gt;&lt;p&gt;We rounded out the day with the Summit World Expo and International Dinner, where representatives from the over forty countries in attendance showcased their local communities and cultures.&lt;/p&gt;&lt;p&gt;After dinner, there was a late night JetPack hackathon. I built a Firefox extension (more details in a later blog post) in just a few hours. The extension is called '&lt;a href='http://github.com/johndbritton/Clickable-Phone-Numbers'&gt;Clickable Phone Numbers&lt;/a&gt;' and it makes any number on the web into a click-to-call number using the Twilio API.&lt;/p&gt;&lt;h3&gt;Day 3: Grand Finale&lt;/h3&gt;&lt;p&gt;The final day of the conference was a bit more laid back, we talked about the Drumbeat event strategy and did a bit of planning for &lt;a href='http://www.drumbeat.org/events/drumbeat-new-york'&gt;Drumbeat NYC&lt;/a&gt; (August 7th) and the &lt;a href='http://www.drumbeat.org/drumbeat_festival_2010'&gt;Drumbeat Festival&lt;/a&gt; (November 3-5) which is going to be held in Barcelona. I attended a few more lightning talks and a session on the future of client-side debugging.&lt;/p&gt;&lt;p&gt;Pippa and I ran our session on the P2PU School of Webcraft. There was a 10 minute intro, and then we split the audience into four groups with tasks:&lt;/p&gt;&lt;ol&gt;
 &lt;li&gt;Design a course for P2PU School of Webcraft&lt;/li&gt;
 &lt;li&gt;Brainstorm a list of core web developer skills&lt;/li&gt;
 &lt;li&gt;Brainstorm a list of 'soft-skills' that employers look for in web developers&lt;/li&gt;
@@ -553,10 +554,11 @@ conference@openvideoalliance.org
  <entry>
    <title>P2PU is in 'The Hindu'</title>
    <link href="http://johndbritton.com/2010/07/11/p2pu-is-in-the-hindu/"/>
-   <updated>2010-07-11T00:00:00+02:00</updated>
+   <updated>2010-07-11T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/07/11/p2pu-is-in-the-hindu</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4784669627/'&gt;&lt;img alt='Screenshot of P2PU Headline in The Hindu' src='http://farm5.static.flickr.com/4141/4784669627_74ddf79074.jpg' /&gt;&lt;/a&gt;
-&lt;p&gt;P2PU just got coverage in &lt;a href='http://www.thehindu.com/news/article509669.ece'&gt;The Hindu&lt;/a&gt;, which, according to &lt;a href='http://en.wikipedia.org/w/index.php?title=The_Hindu&amp;oldid=370224129'&gt;Wikipedia&lt;/a&gt; &amp;#8220;is the second-largest circulated daily English newspaper in India.&amp;#8221; The author, Ajai Sreevatsan, quoted me and mentioned my course &amp;#8220;Mashing Up the Open Web.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;P2PU just got coverage in &lt;a href='http://www.thehindu.com/news/article509669.ece'&gt;The Hindu&lt;/a&gt;, which, according to &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://en.wikipedia.org/w/index.php?title=The_Hindu&amp;amp;oldid=370224129&amp;quot;&amp;gt;Wikipedia&amp;lt;/a&amp;gt;&lt;/pre&gt; &amp;#8220;is the second-largest circulated daily English newspaper in India.&amp;#8221; The author, Ajai Sreevatsan, quoted me and mentioned my course &amp;#8220;Mashing Up the Open Web.&amp;#8221;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;strong&gt;Video discussions&lt;/strong&gt;
 
@@ -569,7 +571,7 @@ The 'class' is very diverse, he says. &quot;We have peers from Korea, Japan, Ind
  <entry>
    <title>Call for Courses - P2PU School of Webcraft</title>
    <link href="http://johndbritton.com/2010/07/01/call-for-courses-p2pu-school-of-webcraft/"/>
-   <updated>2010-07-01T00:00:00+02:00</updated>
+   <updated>2010-07-01T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/07/01/call-for-courses-p2pu-school-of-webcraft</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4752639950/'&gt;&lt;img alt='P2PU School of Webcraft Logo' src='http://farm5.static.flickr.com/4116/4752639950_6313135e3e.jpg' /&gt;&lt;/a&gt;&lt;p&gt;&lt;a href='http://mozilla.org'&gt;Mozilla&lt;/a&gt; and &lt;a href='http://p2pu.org'&gt;Peer 2 Peer University&lt;/a&gt; are creating the &lt;a href='http://p2pu.org/webcraft'&gt;P2PU School of Webcraft&lt;/a&gt;, the ultimate environment in which to learn the craft of open and standards-based web development.&lt;/p&gt;&lt;p&gt;This coming September we'll be launching our first cycle of six week courses including &lt;em&gt;Introduction to HTML5&lt;/em&gt; and &lt;em&gt;Building Social with the Open Web&lt;/em&gt;. We still have space for a few more courses, so whether you can teach a class for novice web developers, or run a workshop for web developers managing thousands of user accounts, we'd love to have you involved.&lt;/p&gt;&lt;p&gt;Following on the delivery model developed by P2PU, course organizers volunteer to take existing open learning materials or develop their own content and lead a group of peers through 6 weeks of online classes. Courses focus on project based learning in a peer environment and are proposed, created and led by members of the web development community &amp;mdash; so the content will always be up to date with the latest technologies.&lt;/p&gt;&lt;p&gt;Over the next 18 months we'll be developing a new way of assessing and recognizing skills, hacker attitudes and knowledge that rewards project portfolios and realistic developer challenges, rather than hours spent cramming for a meaningless exam.&lt;/p&gt;&lt;p&gt;We'd love for you to become a part of this project and until July 18 we're inviting course proposals for P2PU School of Webcraft. We've made it really easy to get started, just fill out the proposal form, it takes less than 5 minutes!&lt;/p&gt;&lt;p&gt;&lt;a href='https://spreadsheets.google.com/viewform?formkey=dEdtSFFDeUM3MzBVTzhBd2E4anRwU0E6MQ'&gt;Propose a Course&lt;/a&gt;&lt;/p&gt;&lt;p&gt;If you're unable to commit to organising a course this September, there are other great ways to become a part of the community whether as a curriculum adviser, web development guru and of course, as a student.&lt;/p&gt;&lt;p&gt;&lt;a href='http://spreadsheets.google.com/viewform?formkey=dG0waTVHcnZkZ2gyTnJTVXJBbHJub0E6MQ'&gt;Participate in a Course&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href='http://groups.google.com/group/p2pu-open-web/'&gt;Join the P2PU Webcraft community&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href='http://p2pu.org/webcraft'&gt;Find out more about P2PU School of Webcraft&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Mozilla Drumbeat is a global community of people who use web technology in new ways that help them understand, participate, improve and take control of their online lives. The P2PU School of Webcraft is just one of many exciting projects that Drumbeat supports. Find out more &lt;a href='http://drumbeat.org/'&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Mozilla Drumbeat: Innovation on the open web. Powered by everybody.&amp;lt;/p&amp;gt;&lt;/p&gt;</content>
@@ -578,7 +580,7 @@ The 'class' is very diverse, he says. &quot;We have peers from Korea, Japan, Ind
  <entry>
    <title>Mozilla Drumbeat Festival: Learning, Freedom and the Web</title>
    <link href="http://johndbritton.com/2010/06/23/mozilla-drumbeat-festival-learning-freedom-and-the-web/"/>
-   <updated>2010-06-23T00:00:00+02:00</updated>
+   <updated>2010-06-23T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/06/23/mozilla-drumbeat-festival-learning-freedom-and-the-web</id>
    <content type="html">&lt;p&gt;The Mozilla &lt;a href='http://www.drumbeat.org/drumbeat_festival_2010'&gt;Drumbeat Festival&lt;/a&gt; is going to be happening in Barcelona right around the same time as the P2PU workshop and the Open Education Conference. I&amp;#8217;d say it&amp;#8217;s very likely that I&amp;#8217;ll be there, you should come too. Spread the word.&lt;/p&gt;
 &lt;a href='http://www.flickr.com/photos/johndbritton/4688338359/'&gt;&lt;img alt='Mozilla Drumbeat Logo' src='http://farm5.static.flickr.com/4017/4688338359_c08bc89755.jpg' /&gt;&lt;/a&gt;&lt;blockquote&gt;
@@ -625,7 +627,7 @@ The Festival will take place on November 4 + 5 in Barcelona, with an opening key
  <entry>
    <title>Summer of Code Meetup at Google San Francisco</title>
    <link href="http://johndbritton.com/2010/06/10/summer-of-code-meetup-at-google-san-francisco/"/>
-   <updated>2010-06-10T00:00:00+02:00</updated>
+   <updated>2010-06-10T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/06/10/summer-of-code-meetup-at-google-san-francisco</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4689138735'&gt;&lt;img alt='GSoC Meetup SFnGroup Photo' src='http://farm5.static.flickr.com/4021/4689138735_2e605da9fd.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;I&amp;#8217;m in San Francisco for the month of June getting ramped up at my new job with &lt;a href='http://www.twilio.com'&gt;Twilio&lt;/a&gt; and it just so happend that Google hosted a Summer of Code Meetup at &lt;a href='http://foursquare.com/venue/70298'&gt;their office&lt;/a&gt; just a few blocks down the road.&lt;/p&gt;
@@ -654,7 +656,7 @@ We rounded out the day with a trip to a pub on the waterfront overlooking the Ba
  <entry>
    <title>The Catalyst Campaign: Donate Now to Help Fund CC's Catalyst Grants</title>
    <link href="http://johndbritton.com/2010/05/31/the-catalyst-campaign-donate-now-to-help-fund-ccs-catalyst-grants/"/>
-   <updated>2010-05-31T00:00:00+02:00</updated>
+   <updated>2010-05-31T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/05/31/the-catalyst-campaign-donate-now-to-help-fund-ccs-catalyst-grants</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4658730496/'&gt;&lt;img alt='Creative Commons Catalyst Campaign Banner' src='http://farm5.static.flickr.com/4026/4658730496_0c0bae7b98.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;Some friends over at &lt;a href='http://creativecommons.org'&gt;Creative Commons&lt;/a&gt; tell me that they&amp;#8217;re launching a new grant program. The awards range from $1,000&amp;#8212;$10,000. They&amp;#8217;re going to start distributing funds as early as August, so apply right away if you&amp;#8217;ve got a good idea. I&amp;#8217;m really psyched to see them making funding available to the general public like this. I&amp;#8217;ve got a couple ideas of my own that might be eligible so be ready for some tough competition.&lt;/p&gt;
@@ -677,7 +679,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>P2PU: Mashing Up the Open Web Recap</title>
    <link href="http://johndbritton.com/2010/05/27/p2pu-mashing-up-the-open-web-recap/"/>
-   <updated>2010-05-27T00:00:00+02:00</updated>
+   <updated>2010-05-27T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/05/27/p2pu-mashing-up-the-open-web-recap</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/gi/121409547/'&gt;&lt;img alt='Photo of libre sign' src='http://farm1.static.flickr.com/47/121409547_e33344f47c.jpg' /&gt;&lt;/a&gt;&lt;em&gt;Photo CC-BY-SA &lt;a href='http://www.flickr.com/photos/gi/'&gt;gi&lt;/a&gt;&lt;/em&gt;
 &lt;p&gt;As I mentioned in my &lt;a href='/post/2010/may/27/p2pu_how_it_all_started'&gt;previous post&lt;/a&gt;, my course, &lt;a href='http://p2pu.org/mashing-open-web-mar-2010'&gt;Mashing Up the Open Web&lt;/a&gt;, was a huge success. Since I started participating in &lt;a href='http://p2pu.org'&gt;P2PU&lt;/a&gt;, I&amp;#8217;ve wanted to organize a course. I haven&amp;#8217;t yet taken part in a course that someone else has organized, although that is on my todo list. I really would have liked to join in on &lt;a href='http://p2pu.org/kitchen-science-mar-2010'&gt;Kitchen Science&lt;/a&gt;, but alas my schedule did not permit it.&lt;/p&gt;
@@ -706,13 +708,14 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
 &lt;strong&gt;What Next?&lt;/strong&gt;
 &lt;p&gt;We&amp;#8217;re working on a whole series of courses like Mashing Up the Open Web. The goal is to create an entire academy within P2PU where anyone can come and learn all the requisite skills of an open web developer for free. We&amp;#8217;re also working on a way to provide recognition of accomplishments and certification for the participants who want it. We&amp;#8217;re not quite sure what that&amp;#8217;s going to look like yet, but we&amp;#8217;re working with Mozilla and a panel of experts to give it some real weight.&lt;/p&gt;
 &lt;strong&gt;Sign Me Up!&lt;/strong&gt;
-&lt;p&gt;If you&amp;#8217;re interested in getting involved with planning and organizing courses you should join the &lt;a href='http://groups.google.com/group/p2pu-open-web'&gt;mailing list&lt;/a&gt; and introduce yourself. If you&amp;#8217;re not quite ready to organize a course, but want to be notified when we release our next round, please fill out this &lt;a href='http://spreadsheets.google.com/viewform?hl=en&amp;formkey=dG0waTVHcnZkZ2gyTnJTVXJBbHJub0E6MQ#gid=0'&gt;very short form&lt;/a&gt;. I promise to keep your data safe. You can also fill out the form if you have a course idea that you&amp;#8217;d like to share with us.&lt;/p&gt;</content>
+&lt;p&gt;If you&amp;#8217;re interested in getting involved with planning and organizing courses you should join the &lt;a href='http://groups.google.com/group/p2pu-open-web'&gt;mailing list&lt;/a&gt; and introduce yourself. If you&amp;#8217;re not quite ready to organize a course, but want to be notified when we release our next round, please fill out this &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://spreadsheets.google.com/viewform?hl=en&amp;amp;formkey=dG0waTVHcnZkZ2gyTnJTVXJBbHJub0E6MQ#gid=0&amp;quot;&amp;gt;very short form&amp;lt;/a&amp;gt;&lt;/pre&gt;. I promise to keep your data safe. You can also fill out the form if you have a course idea that you&amp;#8217;d like to share with us.&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>P2PU: How it All Started</title>
    <link href="http://johndbritton.com/2010/05/27/p2pu-how-it-all-started/"/>
-   <updated>2010-05-27T00:00:00+02:00</updated>
+   <updated>2010-05-27T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/05/27/p2pu-how-it-all-started</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/4170987860/'&gt;&lt;img alt='P2PU is Social Wrapper Cartoon' src='http://farm3.static.flickr.com/2783/4170987860_bff3b6c491.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;CC-BY-SA Alison Jean Cole&lt;/strong&gt;&lt;p&gt;A few years ago, I had an idea: I wanted to travel around the world and meet interesting people who I could learn from in exchange for sharing my skills. I remember having the idea very vividly. I was on an airplane, as I &lt;a href='http://www.dopplr.com/traveller/johndbritton'&gt;often&lt;/a&gt; was back in those days, and I was scribbling as fast as I could in my notebook. There was going to be an online component to a mostly offline experience. People would be able to lend resources such as classrooms, domain knowledge, books, supplies, and equipment. I was convinced something like this should already exist, so I did what you'd expect, I scoured the net high and low. As I searched I came across a number of different communities and resources but couldn't find exactly what I was looking for.&lt;/p&gt;&lt;p&gt;Sure there was &lt;a href='http://www.couchsurfing.org'&gt;CouchSurfing&lt;/a&gt;, but that was mainly focused on the travel community with a very minor attempt at a skill sharing system. I also found things like &lt;a href='http://ocw.mit.edu/'&gt;MIT's Open Course Ware&lt;/a&gt;, but there was something lacking, the community, &lt;strong&gt;the people&lt;/strong&gt;. In my searching I came across a new term, &lt;a href='http://en.wikipedia.org/wiki/Open_education'&gt;Open Education&lt;/a&gt;. I had long known of &lt;a href='http://en.wikipedia.org/wiki/FLOSS'&gt;FLOSS&lt;/a&gt;, so the concept of open education was pretty natural to me. Further down the road I heard about the annual &lt;a href='http://openedconference.org'&gt;Open Education Conference&lt;/a&gt;, so in 2008, I &lt;a href='/post/2009/february/04/open_education_2008_celebrating_ten_years_open_content'&gt;attended&lt;/a&gt;. My trip was kindly funded by the &lt;a href='http://hewlett.org'&gt;William &amp;amp; Flora Hewlett Foundation&lt;/a&gt; based on my intent to share the idea. As it turned out, I wasn't alone in my thinking and I met &lt;a href='http://bokaap.net'&gt;Philipp&lt;/a&gt;, &lt;a href='http://reganmian.net/'&gt;Stian&lt;/a&gt;, and &lt;a href='http://cnx.org/member_profile/thierstj'&gt;Joel&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;At this point, tons of ideas were brewing for all of us. There were a million directions that we could go. Different people had different ideas and we took a slow growth route in order to solidify what it was we were trying to accomplish.&lt;/p&gt;&lt;p&gt;Fast forward two years and you've got &lt;a href='http://p2pu.org'&gt;Peer 2 Peer University&lt;/a&gt;, a thriving community of individuals passionate about learning. Our &lt;a href='http://p2pu.org/values'&gt;core values&lt;/a&gt; are clear. We're an open community for peer learning. We're here to facilitate learning groups and give participants the recognition they deserve. P2PU encourages experimentation, and I love experiments.&lt;/p&gt;&lt;p&gt;As of now we've run more than twenty &lt;a href='http://p2pu.org/courses'&gt;courses&lt;/a&gt; in two cycles. In the most recent cycle, I organized my first course, &lt;a href='http://p2pu.org/mashing-open-web-mar-2010'&gt;Mashing Up the Open Web&lt;/a&gt;. Mashing up The Open Web is the first course in a &lt;a href='http://www.drumbeat.org/project/p2p-university-open-web-career-track'&gt;series of Open Web courses&lt;/a&gt; that we're working on in conjunction with &lt;a href='http://www.mozilla.org'&gt;Mozilla&lt;/a&gt; as part of the &lt;a href='http://www.drumbeat.org'&gt;Drumbeat&lt;/a&gt; initiative. I'll save the details for a later post, but I will say that the course was an amazing success and that I absolutely enjoyed every minute of it. I've always had the idea of becoming a teacher in the back of my mind, P2PU has helped me prove that idea is a good one.&lt;/p&gt;</content>
  </entry>
@@ -720,7 +723,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>ccSalon New York &amp; San Francisco Events on Open Education</title>
    <link href="http://johndbritton.com/2010/05/11/ccsalon-new-york-and-san-francisco-events-on-open-education/"/>
-   <updated>2010-05-11T00:00:00+02:00</updated>
+   <updated>2010-05-11T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/05/11/ccsalon-new-york-and-san-francisco-events-on-open-education</id>
    <content type="html">&lt;p&gt;It&amp;#8217;s been a busy couple of months working with &lt;a href='http://creativecommons.org'&gt;Creative Commons&lt;/a&gt;. Back in March, Jane Park and I organized &lt;a href='http://creativecommons.org/weblog/entry/20499'&gt;ccSalon New York&lt;/a&gt; and exactly one month later I was lucky enough to attend &lt;a href='http://creativecommons.org/weblog/entry/21691'&gt;ccSalon San Francisco&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -754,7 +757,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Using Titanium Mobile</title>
    <link href="http://johndbritton.com/2010/05/09/using-titanium-mobile/"/>
-   <updated>2010-05-09T00:00:00+02:00</updated>
+   <updated>2010-05-09T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/05/09/using-titanium-mobile</id>
    <content type="html">&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
 &amp;lt;object id=&amp;quot;doc_312628330646763&amp;quot; name=&amp;quot;doc_312628330646763&amp;quot; height=&amp;quot;500&amp;quot; width=&amp;quot;100%&amp;quot; type=&amp;quot;application/x-shockwave-flash&amp;quot; data=&amp;quot;http://d1.scribdassets.com/ScribdViewer.swf&amp;quot; style=&amp;quot;outline:none;&amp;quot; rel=&amp;quot;media:presentation&amp;quot; resource=&amp;quot;http://d1.scribdassets.com/ScribdViewer.swf?document_id=31118485&amp;amp;amp;access_key=key-l76exl75nd4wp34jefl&amp;amp;amp;page=1&amp;amp;amp;viewMode=slideshow&amp;quot; xmlns:media=&amp;quot;http://search.yahoo.com/searchmonkey/media/&amp;quot; xmlns:dc=&amp;quot;http://purl.org/dc/terms/&amp;quot; &amp;gt; &amp;lt;param name=&amp;quot;movie&amp;quot; value=&amp;quot;http://d1.scribdassets.com/ScribdViewer.swf&amp;quot;&amp;gt; &amp;lt;param name=&amp;quot;wmode&amp;quot; value=&amp;quot;opaque&amp;quot;&amp;gt; &amp;lt;param name=&amp;quot;bgcolor&amp;quot; value=&amp;quot;#ffffff&amp;quot;&amp;gt; &amp;lt;param name=&amp;quot;allowFullScreen&amp;quot; value=&amp;quot;true&amp;quot;&amp;gt; &amp;lt;param name=&amp;quot;allowScriptAccess&amp;quot; value=&amp;quot;always&amp;quot;&amp;gt; &amp;lt;param name=&amp;quot;FlashVars&amp;quot; value=&amp;quot;document_id=31118485&amp;amp;amp;access_key=key-l76exl75nd4wp34jefl&amp;amp;amp;page=1&amp;amp;amp;viewMode=slideshow&amp;quot;&amp;gt; &amp;lt;embed id=&amp;quot;doc_312628330646763&amp;quot; name=&amp;quot;doc_312628330646763&amp;quot; src=&amp;quot;http://d1.scribdassets.com/ScribdViewer.swf?document_id=31118485&amp;amp;amp;access_key=key-l76exl75nd4wp34jefl&amp;amp;amp;page=1&amp;amp;amp;viewMode=slideshow&amp;quot; type=&amp;quot;application/x-shockwave-flash&amp;quot; allowscriptaccess=&amp;quot;always&amp;quot; allowfullscreen=&amp;quot;true&amp;quot; height=&amp;quot;500&amp;quot; width=&amp;quot;100%&amp;quot; wmode=&amp;quot;opaque&amp;quot; bgcolor=&amp;quot;#ffffff&amp;quot;&amp;gt;&amp;lt;/embed&amp;gt; &amp;lt;/object&amp;gt;&lt;/pre&gt;
@@ -768,7 +771,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>P2PU Open Web at Drumbeat Toronto</title>
    <link href="http://johndbritton.com/2010/04/16/p2pu-open-web-at-drumbeat-toronto/"/>
-   <updated>2010-04-16T00:00:00+02:00</updated>
+   <updated>2010-04-16T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/04/16/p2pu-open-web-at-drumbeat-toronto</id>
    <content type="html">&lt;p&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/4525641205/'&gt;&lt;img alt='Hack Web Education poster' src='http://farm5.static.flickr.com/4066/4525641205_abca9cea2c.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -782,7 +785,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>More Than Code, It's a Community Too</title>
    <link href="http://johndbritton.com/2010/04/07/more-than-code-its-a-community-too/"/>
-   <updated>2010-04-07T00:00:00+02:00</updated>
+   <updated>2010-04-07T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2010/04/07/more-than-code-its-a-community-too</id>
    <content type="html">&lt;p&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/4409577762/'&gt;&lt;img alt='Photo of John and Robin at Google Bangalore' src='http://farm5.static.flickr.com/4049/4409577762_29dba3d703.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -792,7 +795,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>P2PU Course: Mashing Up the Open Web</title>
    <link href="http://johndbritton.com/2010/03/02/p2pu-course-mashing-up-the-open-web/"/>
-   <updated>2010-03-02T00:00:00+01:00</updated>
+   <updated>2010-03-02T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2010/03/02/p2pu-course-mashing-up-the-open-web</id>
    <content type="html">&lt;p&gt;Are you interested in learning more about the Open Web? Then sign up for my course, &lt;a href='http://p2pu.org/mashing-open-web-mar-2010'&gt;Mashing Up the Open Web&lt;/a&gt; at P2PU. Sign-ups close on 3 March officially, but if you&amp;#8217;re really keen on taking the course, &lt;a href='/contact'&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 
@@ -812,7 +815,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>United Arab Emirates &amp; India</title>
    <link href="http://johndbritton.com/2010/02/11/united-arab-emirates-and-india/"/>
-   <updated>2010-02-11T00:00:00+01:00</updated>
+   <updated>2010-02-11T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2010/02/11/united-arab-emirates-and-india</id>
    <content type="html">&lt;p&gt;Today I&amp;#8217;m taking off for a trip to the United Arab Emirates and India. I&amp;#8217;m traveling with a good friend and we&amp;#8217;ll be &lt;a href='http://www.couchsurfing.org'&gt;Couch Surfing&lt;/a&gt; the whole time. Last year I took a similar trip to go to &lt;a href='http://ewb2009.hct.ac.ae'&gt;Education Without Borders&lt;/a&gt; in &lt;a href='http://www.flickr.com/photos/johndbritton/sets/72157616511276242'&gt;Dubai&lt;/a&gt; followed by a short trip to &lt;a href='http://www.flickr.com/photos/johndbritton/sets/72157616511248962/'&gt;Mumbai&lt;/a&gt;. This year, there&amp;#8217;s no conference to attend and I&amp;#8217;ll be staying offline as much as possible. While I&amp;#8217;m traveling I&amp;#8217;ll be thinking about things like the upcoming &lt;a href='http://creativecommons.org/weblog/entry/20499'&gt;NYC Creative Commons Salon&lt;/a&gt; and &lt;a href='http://tedxnyed.com/'&gt;TEDxNYED&lt;/a&gt; along with preparing to run my &lt;a href='http://p2pu.org'&gt;Peer 2 Peer University&lt;/a&gt; course &amp;#8221;&lt;a href='https://wiki.mozilla.org/Drumbeat/p2pu/Mashing_Up_The_Open_Web'&gt;Mashing Up the Open Web&lt;/a&gt;&amp;#8221;.&lt;/p&gt;
 
@@ -822,14 +825,14 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>P2PU &amp; Drumbeat Open Web Career Track</title>
    <link href="http://johndbritton.com/2010/02/01/p2pu-and-drumbeat-open-web-career-track/"/>
-   <updated>2010-02-01T00:00:00+01:00</updated>
+   <updated>2010-02-01T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2010/02/01/p2pu-and-drumbeat-open-web-career-track</id>
    <content type="html">&lt;div id='__ss_3047992' style='width:500px;margin:auto;'&gt;
   &lt;object height='420' style='margin:0px' width='500'&gt;
-    &lt;param value='http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=p2pu-drumbeat-community-call-1-february-2010-100201113750-phpapp01&amp;amp;rel=0&amp;amp;stripped_title=p2pu-drumbeat-open-web-career-track-mozilla-drumbeat-community-call-1-february-2010' name='movie' /&gt;
-    &lt;param value='true' name='allowFullScreen' /&gt;
-    &lt;param value='always' name='allowScriptAccess' /&gt;
-    &lt;embed allowscriptaccess='always' type='application/x-shockwave-flash' height='420' allowfullscreen='true' width='500' src='http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=p2pu-drumbeat-community-call-1-february-2010-100201113750-phpapp01&amp;amp;rel=0&amp;amp;stripped_title=p2pu-drumbeat-open-web-career-track-mozilla-drumbeat-community-call-1-february-2010'&gt;
+    &lt;param name='movie' value='http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=p2pu-drumbeat-community-call-1-february-2010-100201113750-phpapp01&amp;amp;rel=0&amp;amp;stripped_title=p2pu-drumbeat-open-web-career-track-mozilla-drumbeat-community-call-1-february-2010' /&gt;
+    &lt;param name='allowFullScreen' value='true' /&gt;
+    &lt;param name='allowScriptAccess' value='always' /&gt;
+    &lt;embed allowfullscreen='true' allowscriptaccess='always' height='420' src='http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=p2pu-drumbeat-community-call-1-february-2010-100201113750-phpapp01&amp;amp;rel=0&amp;amp;stripped_title=p2pu-drumbeat-open-web-career-track-mozilla-drumbeat-community-call-1-february-2010' type='application/x-shockwave-flash' width='500'&gt;
     &lt;/embed&gt;
   &lt;/object&gt;
 &lt;/div&gt;
@@ -877,7 +880,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Great Firewall of China, Stopping Contribution to Open Source</title>
    <link href="http://johndbritton.com/2010/01/25/great-firewall-of-china-stopping-contribution-to-open-source/"/>
-   <updated>2010-01-25T00:00:00+01:00</updated>
+   <updated>2010-01-25T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2010/01/25/great-firewall-of-china-stopping-contribution-to-open-source</id>
    <content type="html">&lt;p&gt;I just received the email below on the Google Summer of Code Students mailing list. In 2008 I worked on &lt;a href='http://gallery.menalto.com'&gt;Gallery&lt;/a&gt; as part of &lt;a href='http://code.google.com/soc'&gt;Google&amp;#8217;s Summer of Code&lt;/a&gt;. I did the bulk of my work while I was on exchange in Beijing, China. Luckily, at the time, the Summer of Code management application wasn&amp;#8217;t censored, apparently it is now.&lt;/p&gt;
 
@@ -901,7 +904,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Google Wave Invites</title>
    <link href="http://johndbritton.com/2009/10/23/google-wave-invites/"/>
-   <updated>2009-10-23T00:00:00+02:00</updated>
+   <updated>2009-10-23T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/10/23/google-wave-invites</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/kratiu/4011122595/'&gt;&lt;img alt='Google Wave' src='http://farm4.static.flickr.com/3522/4011122595_379ef8962c.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;I just got a bunch of Google Wave invites. Post a comment here if you want one, be sure to include your email in the form (it won&amp;#8217;t be displayed).&lt;/p&gt;</content>
@@ -910,10 +913,11 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>P2PU Sign-up Closed, 227 Applicants in 7 Courses</title>
    <link href="http://johndbritton.com/2009/08/27/p2pu-sign-up-closed-227-applicants-in-7-courses/"/>
-   <updated>2009-08-27T00:00:00+02:00</updated>
+   <updated>2009-08-27T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/08/27/p2pu-sign-up-closed-227-applicants-in-7-courses</id>
    <content type="html">&lt;p&gt;On August 26, 2009 at midnight EST we closed applications to the first cycle at the &lt;a href='http://p2pu.org'&gt;Peer 2 Peer University (P2PU)&lt;/a&gt; with a total of 227 applicants across 7 courses. The six week pilot phase will begin on September 9, 2009 (09/09/09). Each of the 7 courses has a maximum enrollment of 8 - 15 students. All applicants will be notified of their status within a week.&lt;/p&gt;
-&lt;h3&gt;P2PU Course Application Distribution&lt;/h3&gt;&lt;img alt='P2PU Course Application Distribution Pie Chart' src='http://chart.apis.google.com/chart?chtt=P2PU+Course+Application+Distribution&amp;chts=000000,12&amp;chs=500x250&amp;chf=bg,s,ffffff&amp;cht=p&amp;chd=t:23.78,14.97,21.14,13.21,11.01,7.04,8.81&amp;chl=Copyright+for+Educators|Land+Restoration+and+A...|Behavioral+Economics|Open+Creative+Nonficti...|Cyberpunk+Literature|Neuroethics+and+Intern...|Poker+and+Strategic+Th...&amp;chco=ffcc00,339933,ff9933,00ffff,9933ff,0033cc,ff0000' /&gt;&lt;h3&gt;Number of Applicants to Each P2PU Course&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;P2PU Course Application Distribution&lt;/h3&gt;&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;img src=&amp;quot;http://chart.apis.google.com/chart?chtt=P2PU+Course+Application+Distribution&amp;amp;chts=000000,12&amp;amp;chs=500x250&amp;amp;chf=bg,s,ffffff&amp;amp;cht=p&amp;amp;chd=t:23.78,14.97,21.14,13.21,11.01,7.04,8.81&amp;amp;chl=Copyright+for+Educators|Land+Restoration+and+A...|Behavioral+Economics|Open+Creative+Nonficti...|Cyberpunk+Literature|Neuroethics+and+Intern...|Poker+and+Strategic+Th...&amp;amp;chco=ffcc00,339933,ff9933,00ffff,9933ff,0033cc,ff0000&amp;quot; alt=&amp;quot;P2PU Course Application Distribution Pie Chart&amp;quot; /&amp;gt;&lt;/pre&gt;&lt;h3&gt;Number of Applicants to Each P2PU Course&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;54 - &lt;a href='http://p2pu.org/CE1-Outline'&gt;Copyright for Educators&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;48 - &lt;a href='http://p2pu.org/BE-Outline'&gt;Behavioral Economics and Decision Making&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;34 - &lt;a href='http://p2pu.org/LA-Land%C2%A0Outline'&gt;Land Restoration and Afforestation&lt;/a&gt;&lt;/li&gt;
@@ -928,7 +932,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>P2PU - Enroll Now, Classes Start 09/09/09</title>
    <link href="http://johndbritton.com/2009/08/12/p2pu-enroll-now-classes-start-09-09-09/"/>
-   <updated>2009-08-12T00:00:00+02:00</updated>
+   <updated>2009-08-12T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/08/12/p2pu-enroll-now-classes-start-09-09-09</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/3815329932/'&gt;&lt;img alt='P2PU Badge' src='http://farm4.static.flickr.com/3038/3815329932_fd52a4d57e_o.png' /&gt;&lt;/a&gt;
 &lt;p&gt;Today at the Open Education Conference in Vancouver, Canada we will open applications to &lt;a href='http://p2pu.org'&gt;The Peer 2 Peer University (P2PU)&lt;/a&gt;.&lt;/p&gt;
@@ -947,7 +951,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Fast Company Article on Open Education</title>
    <link href="http://johndbritton.com/2009/08/12/fast-company-article-on-open-education/"/>
-   <updated>2009-08-12T00:00:00+02:00</updated>
+   <updated>2009-08-12T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/08/12/fast-company-article-on-open-education</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/bionicteaching/2533948716/'&gt;&lt;img alt='Jim Groom as EDUPUNK' src='http://farm3.static.flickr.com/2417/2533948716_ab180179c4.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;Photo: &lt;a href='http://www.flickr.com/photos/bionicteaching/2533948716'&gt;CC-BY-SA&lt;/a&gt;&lt;/strong&gt;
 &lt;p&gt;Fast Company has &lt;a href='http://www.fastcompany.com/magazine/138/who-needs-harvard.html'&gt;an interesting article&lt;/a&gt; about &lt;a href='http://en.wikipedia.org/wiki/Edupunk'&gt;Edupunk&lt;/a&gt;. It covers &lt;a href='http://academicearth.org/'&gt;Academic Earth&lt;/a&gt;, &lt;a href='http://www.flatworldknowledge.com'&gt;Flat World Knowledge&lt;/a&gt;, and &lt;a href='http://p2pu.org'&gt;Peer2Peer University (P2PU)&lt;/a&gt;.&lt;/p&gt;
@@ -958,7 +962,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Wiki-Conference New York</title>
    <link href="http://johndbritton.com/2009/07/25/wiki-conference-new-york/"/>
-   <updated>2009-07-25T00:00:00+02:00</updated>
+   <updated>2009-07-25T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/07/25/wiki-conference-new-york</id>
    <content type="html">&lt;p&gt;This weekend is Wiki-Conference New York. I&amp;#8217;ll be there to kick start the Open Sessions on Saturday. Hope you can make it! I&amp;#8217;m also going to lead two sessions: &amp;#8216;Steering Communities of Practice&amp;#8217; and &amp;#8216;Using Wikipedia as a Translation Engine&amp;#8217;.&lt;/p&gt;
 &lt;h3&gt;The Nitty-Gritty&lt;/h3&gt;&lt;ul&gt;
@@ -972,7 +976,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Open Education Conference 2009 Vancouver, Canada - Scholarship Application</title>
    <link href="http://johndbritton.com/2009/06/30/open-education-conference-2009-vancouver-canada-scholarship-application/"/>
-   <updated>2009-06-30T00:00:00+02:00</updated>
+   <updated>2009-06-30T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/06/30/open-education-conference-2009-vancouver-canada-scholarship-application</id>
    <content type="html">&lt;em&gt;This blog post is my application for a travel scholarship to attend &lt;a href='http://openedconference.org/archives/324'&gt;OpenEd 2009&lt;/a&gt;.&lt;/em&gt;
 &lt;p&gt;Last year I &lt;a href='/post/2009/february/04/open_education_2008_celebrating_ten_years_open_content'&gt;applied&lt;/a&gt; for, and was awarded a scholarship to attend OpenEd in Logan, Utah. I came all the way from Hong Kong, and I&amp;#8217;m tremendously glad that I did. My experience at OpenEd has made an enormous impact on my life. I met &lt;a href='http://www.haishuolee.com/'&gt;some&lt;/a&gt; &lt;a href='http://reganmian.net'&gt;great&lt;/a&gt; &lt;a href='http://bokaap.net'&gt;people&lt;/a&gt;, found a great &lt;a href='http://peer2peeruniversity.org'&gt;project&lt;/a&gt;, and subsequently landed an excellent &lt;a href='http://www.flatworldknowledge.com'&gt;job&lt;/a&gt; in Open Education.&lt;/p&gt;
@@ -989,7 +993,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Couch Surfing Day 2009 - Beijingers Featured in Wanderlust</title>
    <link href="http://johndbritton.com/2009/06/27/couch-surfing-day-2009-beijingers-featured-in-wanderlust/"/>
-   <updated>2009-06-27T00:00:00+02:00</updated>
+   <updated>2009-06-27T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/06/27/couch-surfing-day-2009-beijingers-featured-in-wanderlust</id>
    <content type="html">&lt;p&gt;Last year I organized a &lt;a href='/post/2008/june/21/international_couch_surfing_day_2008_beijing_china'&gt;gathering&lt;/a&gt; in Beijing&amp;#8217;s Beihai Park for Couch Surfing Day 2008. This year we were featured in the Wanderlust Newsletter. Check it out! &lt;a href='http://www.flickr.com/photos/johndbritton/3665700961/'&gt;&lt;img alt='Screenshot of Wanderlust Newsletter' src='http://farm3.static.flickr.com/2605/3665700961_22edf37497.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
@@ -997,7 +1001,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>CAKE, Live at Terminal 5 in NYC</title>
    <link href="http://johndbritton.com/2009/05/31/cake-live-at-terminal-5-in-nyc/"/>
-   <updated>2009-05-31T00:00:00+02:00</updated>
+   <updated>2009-05-31T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/05/31/cake-live-at-terminal-5-in-nyc</id>
    <content type="html">&lt;p&gt;This past Friday a few friends and I ventured in to New York City to see a live performance by CAKE (&lt;a href='http://www.cakemusic.com/'&gt;Official Site&lt;/a&gt;, &lt;a href='http://en.wikipedia.org/wiki/Cake_(band)'&gt;Wikipedia&lt;/a&gt;). It was everything I could have hoped for. Back during my freshman year at &lt;a href='http://www.rpi.edu'&gt;RPI&lt;/a&gt;, CAKE came to Albany and I&amp;#8217;ve been kicking myself ever since I missed my chance to see them live.&lt;/p&gt;
 
@@ -1009,13 +1013,14 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Open Everything NYC Tentative Schedule</title>
    <link href="http://johndbritton.com/2009/04/16/open-everything-nyc-tentative-schedule/"/>
-   <updated>2009-04-16T00:00:00+02:00</updated>
+   <updated>2009-04-16T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/04/16/open-everything-nyc-tentative-schedule</id>
-   <content type="html">&lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;There hasn't been much use of the &lt;a href='http://openeverything.wik.is/New_York/New_York_City'&gt; Open Everything NYC Wiki&lt;/a&gt;, feel free to dive in and add content before, during, and after the event.&lt;/li&gt;
-&lt;li&gt;As per Philip Ashlock's suggestion, there is now a page on the Open Everything &lt;a href='http://openeverything.wik.is'&gt;Wiki&lt;/a&gt; to post &lt;a href='http://openeverything.wik.is/New_York/New_York_City/Suggested_Topics'&gt;suggested topics for Open Everything NYC&lt;/a&gt; - Thanks Phil!&lt;/li&gt;
-&lt;li&gt;For &lt;a href='http://www.un.org/'&gt;United Nations&lt;/a&gt; security reasons, we will stop accepting new registrations for Open Everything NYC as of noon, Friday 17 April. As of now there are 200 registered attendees, we're capping attendance at 250. Please &lt;a href='http://spreadsheets.google.com/viewform?hl=en&amp;formkey=cEYzbkdPeEMzOEFISkw0U0VySGtRV0E6MA'&gt;register&lt;/a&gt; as soon as possible.&lt;/li&gt;
-&lt;/ul&gt;
+   <content type="html">&lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC&lt;/a&gt;&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;There hasn&amp;apos;t been much use of the &amp;lt;a href=&amp;quot;http://openeverything.wik.is/New_York/New_York_City&amp;quot;&amp;gt; Open Everything NYC Wiki&amp;lt;/a&amp;gt;, feel free to dive in and add content before, during, and after the event.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;As per Philip Ashlock&amp;apos;s suggestion, there is now a page on the Open Everything &amp;lt;a href=&amp;quot;http://openeverything.wik.is&amp;quot;&amp;gt;Wiki&amp;lt;/a&amp;gt; to post &amp;lt;a href=&amp;quot;http://openeverything.wik.is/New_York/New_York_City/Suggested_Topics&amp;quot;&amp;gt;suggested topics for Open Everything NYC&amp;lt;/a&amp;gt; - Thanks Phil!&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;For &amp;lt;a href=&amp;quot;http://www.un.org/&amp;quot;&amp;gt;United Nations&amp;lt;/a&amp;gt; security reasons, we will stop accepting new registrations for Open Everything NYC as of noon, Friday 17 April. As of now there are 200 registered attendees, we&amp;apos;re capping attendance at 250. Please &amp;lt;a href=&amp;quot;http://spreadsheets.google.com/viewform?hl=en&amp;amp;formkey=cEYzbkdPeEMzOEFISkw0U0VySGtRV0E6MA&amp;quot;&amp;gt;register&amp;lt;/a&amp;gt; as soon as possible.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&lt;/pre&gt;
 &lt;p&gt;Doors to the event open at 8:00AM, the program will begin promptly at 9:00AM. We&amp;#8217;ll start with a welcome and introduction to the event and a short talk by Schuyler Erle who is working with &lt;a href='unicefinnovation.org/'&gt;UNICEF Innovation&lt;/a&gt; on &lt;a href='http://www.unicefinnovation.org/mobile-and-sms.php'&gt;RapidSMS&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;After the brief introduction, we&amp;#8217;ll dive right into planning the open sessions. The vast majority of the Open Everything event will be crowd generated, so please come prepared to participate. In an organized, but uncontrolled, fashion we&amp;#8217;ll scribble down ideas for various sessions and create our schedule for the day. We have space for five concurrent sessions (maybe more if necessary) and there will be eight open session slots for a total of 40 possible topics.&lt;/p&gt;
@@ -1065,7 +1070,7 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
  <entry>
    <title>Screening &quot;RIP: A REMIX MANIFESTO&quot; at Open Everything NYC Afterparty</title>
    <link href="http://johndbritton.com/2009/04/15/screening-rip-a-remix-manifesto-at-open-everything-nyc-afterparty/"/>
-   <updated>2009-04-15T00:00:00+02:00</updated>
+   <updated>2009-04-15T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/04/15/screening-rip-a-remix-manifesto-at-open-everything-nyc-afterparty</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/3444464056/'&gt;&lt;img alt='RIP: A REMIX MANIFESTO poster' src='http://farm4.static.flickr.com/3604/3444464056_90a148da55.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;We&amp;#8217;ll be screening &amp;#8221;&lt;a href='http://www.ripremix.com'&gt;RIP: A REMIX MANIFESTO&lt;/a&gt;&amp;#8221;, an open source documentary about copyright and remix culture at the Open Everything NYC after party.&lt;/p&gt;
@@ -1079,13 +1084,13 @@ In RiP: A remix manifesto, Web activist and filmmaker Brett Gaylor explores issu
 &lt;p&gt;A participatory media experiment, from day one, Brett shares his raw footage at opensourcecinema.org, for anyone to remix. This movie-as-mash-up method allows these remixes to become an integral part of the film. With RiP: A remix manifesto, Gaylor and Girl Talk sound an urgent alarm and draw the lines of battle.&lt;/p&gt;
 
 &lt;p&gt;Which side of the ideas war are you on? &amp;lt;/blockquote&amp;gt;&lt;/p&gt;
-&lt;embed allowscriptaccess='always' type='application/x-shockwave-flash' height='300' allowfullscreen='true' width='500' src='http://blip.tv/play/gdwq0cI7iFY' /&gt;</content>
+&lt;embed allowfullscreen='true' allowscriptaccess='always' height='300' src='http://blip.tv/play/gdwq0cI7iFY' type='application/x-shockwave-flash' width='500' /&gt;</content>
  </entry>
  
  <entry>
    <title>Free Book: &quot;The New Craft of Intelligence: Personal, Public, &amp; Politcal&quot;</title>
    <link href="http://johndbritton.com/2009/04/15/free-book-the-new-craft-of-intelligence-personal-public-and-politcal/"/>
-   <updated>2009-04-15T00:00:00+02:00</updated>
+   <updated>2009-04-15T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/04/15/free-book-the-new-craft-of-intelligence-personal-public-and-politcal</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/3444576735/'&gt;&lt;img alt='The New Craft of Intelligence Cover' src='http://farm4.static.flickr.com/3645/3444576735_a415918ea8.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;Robert David Steele, one of the featured speakers at &lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC&lt;/a&gt;, has decided to distribute copies of his book &amp;#8221;&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
@@ -1095,7 +1100,7 @@ In RiP: A remix manifesto, Web activist and filmmaker Brett Gaylor explores issu
  <entry>
    <title>Wikipedia License Update - GNU FDL + CC-BY-SA</title>
    <link href="http://johndbritton.com/2009/04/14/wikipedia-license-update-gnu-fdl-cc-by-sa/"/>
-   <updated>2009-04-14T00:00:00+02:00</updated>
+   <updated>2009-04-14T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/04/14/wikipedia-license-update-gnu-fdl-cc-by-sa</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/theresasthompson/2999130055/'&gt;&lt;img alt='Vote graphic' src='http://farm4.static.flickr.com/3034/2999130055_8697986e51.jpg' /&gt;&lt;/a&gt;&lt;a href='http://creativecommons.org/licenses/by/2.0/deed.en'&gt;CC-BY 2.0&lt;/a&gt;
 &lt;p&gt;The &lt;a href='http://wikimedia.org'&gt;Wikimedia Foundation&lt;/a&gt; is currently holding a &lt;a href='http://en.wikipedia.org/wiki/Special:SecurePoll/vote/1'&gt;vote&lt;/a&gt; on the &lt;a href='http://meta.wikimedia.org/wiki/Licensing_update'&gt;possibility of dual licensing&lt;/a&gt; the content of the various Wikipedias. To qualify to vote you must hold a Wikipedia account with at least 25 edits prior to March 15. If the vote passes, there will no longer be a licensing conflict between Wikipedia and CC licensed works.&lt;/p&gt;
@@ -1139,9 +1144,10 @@ KlKmMW93gLO2xIhcOX9qLxYWQYqeOsDpUWyPopKFBORHF8RXDMm8tBSe5pw=
  <entry>
    <title>Open Everything NYC 2009 Featured Speaker: Robert David Steele - OSS.net</title>
    <link href="http://johndbritton.com/2009/04/10/open-everything-nyc-2009-featured-speaker-robert-david-steele-oss-net/"/>
-   <updated>2009-04-10T00:00:00+02:00</updated>
+   <updated>2009-04-10T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/04/10/open-everything-nyc-2009-featured-speaker-robert-david-steele-oss-net</id>
-   <content type="html">&lt;p&gt;I&amp;#8217;m happy to announce the second featured speaker for &lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC 2009&lt;/a&gt;. We&amp;#8217;ve got just over one week before the big day; space is going quickly. Spread the word and &lt;a href='http://spreadsheets.google.com/viewform?hl=en&amp;formkey=cEYzbkdPeEMzOEFISkw0U0VySGtRV0E6MA'&gt;register&lt;/a&gt; now!&lt;/p&gt;
+   <content type="html">&lt;p&gt;I&amp;#8217;m happy to announce the second featured speaker for &lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC 2009&lt;/a&gt;. We&amp;#8217;ve got just over one week before the big day; space is going quickly. Spread the word and &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://spreadsheets.google.com/viewform?hl=en&amp;amp;formkey=cEYzbkdPeEMzOEFISkw0U0VySGtRV0E6MA&amp;quot;&amp;gt;register&amp;lt;/a&amp;gt;&lt;/pre&gt; now!&lt;/p&gt;
 &lt;img alt='Photo of Robert David Steele' src='http://farm4.static.flickr.com/3328/3429251248_cea74c1c3d_m.jpg' /&gt;
 &lt;p&gt;Robert David Steele Vivas, 56, is a former US spy, co-founder of the US Marine Corps Intelligence Center (today a Command), and CEO of Open Source Solutions Network (OSS.Net, Inc.) as well as pro bono CEO and angel funder of Earth Intelligence Network, a 501c3 Public Charity that creates public intelligence (decision-support) in the public interest. For 20 years he has been the foremost international proponent for Open Source Intelligence (OSINT), and offers 30,000 pages of free information online from 750 international authorities, all easily accessed via &lt;a href='http://www.oss.net/BASIC'&gt;www.oss.net/BASIC&lt;/a&gt; and &lt;a href='http://www.oss.net/LIBRARY'&gt;www.oss.net/LIBRARY&lt;/a&gt;. Since 2002 he has helped pioneer peace intelligence and is the originator of he proposal for a United Nations Open-Source Decision-Support Information Network (UNODIN) to be funded by the United States of America, and to include an Assistant Secretary General for Decision-Support, a Multinational Decision-Support Centre that relies exclusively on open sources of information that can be easily shared with Non-Governmental Organizations (NGO) and other stakeholders, and a diplomatic Office of Information Sharing Treaties and Agreements.&lt;/p&gt;
 
@@ -1151,9 +1157,9 @@ KlKmMW93gLO2xIhcOX9qLxYWQYqeOsDpUWyPopKFBORHF8RXDMm8tBSe5pw=
  <entry>
    <title>Open Everything NYC Updates</title>
    <link href="http://johndbritton.com/2009/04/09/open-everything-nyc-updates/"/>
-   <updated>2009-04-09T00:00:00+02:00</updated>
+   <updated>2009-04-09T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/04/09/open-everything-nyc-updates</id>
-   <content type="html">&lt;img style='float:right' alt='Open Everything NYC Logo' src='http://farm4.static.flickr.com/3425/3357390240_17253fa97d_m.jpg' /&gt;&lt;h2&gt;Outline&lt;/h2&gt;&lt;ol&gt;
+   <content type="html">&lt;img alt='Open Everything NYC Logo' src='http://farm4.static.flickr.com/3425/3357390240_17253fa97d_m.jpg' style='float:right' /&gt;&lt;h2&gt;Outline&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;Volunteers needed&lt;/li&gt;
 &lt;li&gt;Arrive on time&lt;/li&gt;
 &lt;li&gt;Free lunch&lt;/li&gt;
@@ -1173,7 +1179,7 @@ KlKmMW93gLO2xIhcOX9qLxYWQYqeOsDpUWyPopKFBORHF8RXDMm8tBSe5pw=
  <entry>
    <title>One Year Anniversary</title>
    <link href="http://johndbritton.com/2009/04/09/one-year-anniversary/"/>
-   <updated>2009-04-09T00:00:00+02:00</updated>
+   <updated>2009-04-09T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/04/09/one-year-anniversary</id>
    <content type="html">&lt;p&gt;It has been exactly one year since I &lt;a href='/post/2008/april/09/website_update'&gt;re-launched&lt;/a&gt; this site using Drupal. That&amp;#8217;s one year of blogging, and quite a lot has happened.&lt;/p&gt;
 &lt;code language='bash'&gt;localhost:~ whois johndbritton.com
@@ -1197,7 +1203,7 @@ Expiration Date: 03-dec-2009
  <entry>
    <title>Announcing the &quot;Just Plane Fare Award&quot;</title>
    <link href="http://johndbritton.com/2009/04/08/announcing-the-just-plane-fare-award/"/>
-   <updated>2009-04-08T00:00:00+02:00</updated>
+   <updated>2009-04-08T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/04/08/announcing-the-just-plane-fare-award</id>
    <content type="html">&lt;p&gt;I&amp;#8217;d like to officially announce the &lt;a href='/just_plane_fare_award'&gt;Just Plane Fare Award&lt;/a&gt;. I&amp;#8217;m now accepting applications from &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
 &amp;lt;a href=&amp;quot;&amp;quot;http://www.bhrsd.org/mmrhs/mmhome/m_index.htm&amp;quot;&amp;gt;MMRHS&amp;lt;/a&amp;gt;&lt;/pre&gt; students planning international travel during the summer of 2009. One winner will receive free round trip airfare to anywhere in the world to go and &lt;strong&gt;do&lt;/strong&gt; &lt;em&gt;something&lt;/em&gt;.&lt;/p&gt;
@@ -1212,7 +1218,7 @@ Expiration Date: 03-dec-2009
  <entry>
    <title>Madison, WI to Hold OpenCamp (an Open Everything Event)</title>
    <link href="http://johndbritton.com/2009/03/22/madison-wi-to-hold-opencamp-an-open-everything-event/"/>
-   <updated>2009-03-22T00:00:00+01:00</updated>
+   <updated>2009-03-22T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/03/22/madison-wi-to-hold-opencamp-an-open-everything-event</id>
    <content type="html">&lt;p&gt;Madison, Wisconsin based Douglas Whitfield is organizing &lt;a href='http://openeverything.wik.is/Madison%2c_WI/OEMad_2009'&gt;OpenCamp: an Open Everything Event&lt;/a&gt; to be held on April 18, 2009 (that&amp;#8217;s the same date as &lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC&lt;/a&gt;). If you&amp;#8217;re in the area you should definitely stop by.&lt;/p&gt;</content>
  </entry>
@@ -1220,9 +1226,10 @@ Expiration Date: 03-dec-2009
  <entry>
    <title>Open Everything 2009 Featured Speaker: Leslie Hawthorn - Google, Inc.</title>
    <link href="http://johndbritton.com/2009/03/20/open-everything-2009-featured-speaker-leslie-hawthorn-google-inc/"/>
-   <updated>2009-03-20T00:00:00+01:00</updated>
+   <updated>2009-03-20T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/03/20/open-everything-2009-featured-speaker-leslie-hawthorn-google-inc</id>
-   <content type="html">&lt;p&gt;I&amp;#8217;m happy to announce the first of two featured speakers for &lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC 2009&lt;/a&gt;. The event is just under a month away and space is limited, so please &lt;a href='http://spreadsheets.google.com/viewform?hl=en&amp;formkey=cEYzbkdPeEMzOEFISkw0U0VySGtRV0E6MA'&gt;register&lt;/a&gt;. Don&amp;#8217;t forget to tell your friends!&lt;/p&gt;
+   <content type="html">&lt;p&gt;I&amp;#8217;m happy to announce the first of two featured speakers for &lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC 2009&lt;/a&gt;. The event is just under a month away and space is limited, so please &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://spreadsheets.google.com/viewform?hl=en&amp;amp;formkey=cEYzbkdPeEMzOEFISkw0U0VySGtRV0E6MA&amp;quot;&amp;gt;register&amp;lt;/a&amp;gt;&lt;/pre&gt;. Don&amp;#8217;t forget to tell your friends!&lt;/p&gt;
 &lt;h2&gt;Leslie Hawthorn&lt;/h2&gt;&lt;a href='http://www.flickr.com/photos/johndbritton/3370745222/'&gt;&lt;img alt='Leslie Hawthorn - Google, Inc.' src='http://farm4.static.flickr.com/3433/3370745222_bc7caa3e8d.jpg' /&gt;&lt;/a&gt;
 &lt;p&gt;Leslie Hawthorn is a Program Manager for Google&amp;#8217;s Open Source Programs Office, where she&amp;#8217;s the Community Manager for the &lt;a href='http://code.google.com/soc/'&gt;Google Summer of Code&lt;/a&gt; community. She recently conceived, launched and managed the &lt;a href='http://code.google.com/opensource/ghop/'&gt;Google Highly Open Participation Contest&lt;/a&gt;, the world&amp;#8217;s first global initiative to get pre-university students involved in all aspects of Open Source software development. Leslie has also organized more than 100 open source conferences and hackathons, most held at Google&amp;#8217;s Corporate Headquarters in Mountain View, California, USA. When not wrangling FOSS developers, she&amp;#8217;s usually speaking about Open Source, FOSS in education, and community building or writing for the &lt;a href='http://google-opensource.blogspot.com/'&gt;Google Open Source Blog&lt;/a&gt;. Prior to joining Google, Leslie got her feet wet in Silicon Valley high tech at a small communications semiconductor startup, where she worked in Marketing and Public Relations. She holds a Honors B.A. in English Language and Literature from U.C. Berkeley and her personal website is http://www.hawthornlandings.org.&lt;/p&gt;</content>
  </entry>
@@ -1230,7 +1237,7 @@ Expiration Date: 03-dec-2009
  <entry>
    <title>Mozilla and Creative Commons Teach Practical Open Education Skills</title>
    <link href="http://johndbritton.com/2009/03/17/mozilla-and-creative-commons-teach-practical-open-education-skills/"/>
-   <updated>2009-03-17T00:00:00+01:00</updated>
+   <updated>2009-03-17T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/03/17/mozilla-and-creative-commons-teach-practical-open-education-skills</id>
    <content type="html">&lt;p&gt;From the &lt;a href='https://wiki.mozilla.org/Education/EduCourse/Announcement'&gt;Mozilla wiki&lt;/a&gt;: &lt;blockquote&gt;
 Mozilla (in collaboration with ccLearn and the Peer 2 Peer University) launches a practical online seminar on open education. This six week course is targeted at educators who will gain basic skills in open licensing, open technology, and open pedagogy; work on prototypes of innovative open education projects; and get input from some of the world leading innovators along the way. 
@@ -1242,7 +1249,7 @@ Mozilla (in collaboration with ccLearn and the Peer 2 Peer University) launches 
  <entry>
    <title>Announcing Open Everything NYC 2009</title>
    <link href="http://johndbritton.com/2009/03/17/announcing-open-everything-nyc-2009/"/>
-   <updated>2009-03-17T00:00:00+01:00</updated>
+   <updated>2009-03-17T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/03/17/announcing-open-everything-nyc-2009</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/3357390240'&gt;&lt;img alt='Open Everything NYC 2009 Logo' src='http://farm4.static.flickr.com/3425/3357390240_17253fa97d.jpg' /&gt;&lt;/a&gt;&lt;a href='http://nyc.openeverything.us'&gt;Open Everything NYC&lt;/a&gt;
 &lt;p&gt;The event will be 100% free and open to the public on a first come first serve basis, &lt;a href='http://nyc.openeverything.us/#registration'&gt;online pre-registration&lt;/a&gt; is required. The main hall can hold up to 250 guests.&lt;/p&gt;
@@ -1257,7 +1264,7 @@ Mozilla (in collaboration with ccLearn and the Peer 2 Peer University) launches 
  <entry>
    <title>National Circus</title>
    <link href="http://johndbritton.com/2009/03/15/national-circus/"/>
-   <updated>2009-03-15T00:00:00+01:00</updated>
+   <updated>2009-03-15T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2009/03/15/national-circus</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/johndbritton/3347725223/'&gt;&lt;img alt='National Circus' src='http://farm4.static.flickr.com/3427/3347725223_55893f5c0c.jpg' /&gt;&lt;/a&gt;</content>
  </entry>
@@ -1265,7 +1272,7 @@ Mozilla (in collaboration with ccLearn and the Peer 2 Peer University) launches 
  <entry>
    <title>Got Couch? - American Apparel Brown Ringer Tee - Official Order Form</title>
    <link href="http://johndbritton.com/2009/02/24/got-couch-american-apparel-brown-ringer-tee-official-order-form/"/>
-   <updated>2009-02-24T00:00:00+01:00</updated>
+   <updated>2009-02-24T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2009/02/24/got-couch-american-apparel-brown-ringer-tee-official-order-form</id>
    <content type="html">&lt;strong&gt;The order form may not be visible in your RSS reader, see &lt;a href='/post/2009/february/24/got_couch_american_apparel_brown_ringer_tee_official_order_form'&gt;the full post&lt;/a&gt;&lt;/strong&gt;
 &lt;p&gt;The design has been finalized, here it is:&lt;/p&gt;
@@ -1278,18 +1285,19 @@ Mozilla (in collaboration with ccLearn and the Peer 2 Peer University) launches 
  <entry>
    <title>Kiva - Loans That Change Lives, Again</title>
    <link href="http://johndbritton.com/2009/02/13/kiva-loans-that-change-lives-again/"/>
-   <updated>2009-02-13T00:00:00+01:00</updated>
+   <updated>2009-02-13T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2009/02/13/kiva-loans-that-change-lives-again</id>
    <content type="html">&lt;a href='https://www.kiva.org/lender/johndbritton'&gt;I'm a Kiva lender&lt;/a&gt;
 &lt;p&gt;The gift certificates are just special links you can follow that will give you $25.00 of credit in your new Kiva account to lend to the borrower of your choosing. The gift certificate is available to &lt;em&gt;whomever claims it first&lt;/em&gt;.&lt;/p&gt;
 &lt;strong&gt;Please don't claim the gift certificate if you're not new to Kiva, I'm hoping this will get someone new involved.&lt;/strong&gt;
-&lt;p&gt;To claim the gift certificate &lt;a href='http://www.kiva.org/redeem?purchaserEmail=public@johndbritton.com&amp;giftCode=5242832482645'&gt;click this link&lt;/a&gt; and follow the instructions to open a new account. Once you&amp;#8217;ve created your account make sure to lend the funds to an entrepreneur, otherwise the money will just sit there for a year before becoming a donation to cover Kiva&amp;#8217;s operating costs.&lt;/p&gt;</content>
+&lt;p&gt;To claim the gift certificate &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://www.kiva.org/redeem?purchaserEmail=public@johndbritton.com&amp;amp;giftCode=5242832482645&amp;quot;&amp;gt;click this link&amp;lt;/a&amp;gt;&lt;/pre&gt; and follow the instructions to open a new account. Once you&amp;#8217;ve created your account make sure to lend the funds to an entrepreneur, otherwise the money will just sit there for a year before becoming a donation to cover Kiva&amp;#8217;s operating costs.&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Other Uses of &quot;Open Everything&quot;</title>
    <link href="http://johndbritton.com/2009/02/11/other-uses-of-open-everything/"/>
-   <updated>2009-02-11T00:00:00+01:00</updated>
+   <updated>2009-02-11T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2009/02/11/other-uses-of-open-everything</id>
    <content type="html">&lt;p&gt;I just came across &lt;a href='http://devel2.njit.edu/serendipity/index.php?/archives/1282-Open-Everything-Goes-Global.html'&gt;this post&lt;/a&gt; by &lt;a href='http://ronkowitz.com'&gt;Kenneth Ronkowitz&lt;/a&gt; about the term &amp;#8220;Open Everything&amp;#8221;. It seems he&amp;#8217;s been using the term &lt;a href='http://devel2.njit.edu/serendipity/index.php?/categories/38-Open-Everything'&gt;on his blog&lt;/a&gt; since the beginning of 2008. He managed to find his way from the (now deleted) &lt;a href='http://en.wikipedia.org/wiki/Open_everything'&gt;Wikipedia article&lt;/a&gt;, to the &lt;a href='http://openeverything.net'&gt;Open Everything Wiki&lt;/a&gt;, to the &lt;a href='http://openeverything.hk'&gt;Open Everything Hong Kong&lt;/a&gt; website all the way back to my blog. The interesting part was that he was able to connect me with &lt;a href='http://www.peer2peeruniversity.org'&gt;P2PU&lt;/a&gt; and some other topics he&amp;#8217;d been blogging about recently. The internet is getting smaller, I swear.&lt;/p&gt;</content>
  </entry>
@@ -1297,10 +1305,10 @@ Mozilla (in collaboration with ccLearn and the Peer 2 Peer University) launches 
  <entry>
    <title>Couch Surfing - &quot;Got Couch&quot; T-Shirt</title>
    <link href="http://johndbritton.com/2009/02/08/couch-surfing-got-couch-t-shirt/"/>
-   <updated>2009-02-08T00:00:00+01:00</updated>
+   <updated>2009-02-08T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2009/02/08/couch-surfing-got-couch-t-shirt</id>
    <content type="html">&lt;p&gt;Back when &lt;a href='/post/2008/june/21/international_couch_surfing_day_2008_beijing_china'&gt;I was in Beijing&lt;/a&gt;, &lt;a href='http://www.couchsurfing.com/people/alainsojourner'&gt;Alain&lt;/a&gt; sent me a really cool design for a Couch Surfing T-Shirt. I&amp;#8217;m not really sure who did the design, but I really love it. My plan was to print it and give them out to my surfers, but I just haven&amp;#8217;t gotten around to that yet.&lt;/p&gt;
-&lt;a href='http://www.flickr.com/photos/johndbritton/3262859632/' title='Couch Surfing - Got Couch T-Shirt Design'&gt;&lt;img height='240' alt='Couch Surfing - Got Couch T-Shirt Design' width='188' src='http://farm4.static.flickr.com/3356/3262859632_951d8a343a_m.jpg' /&gt;&lt;/a&gt;
+&lt;a href='http://www.flickr.com/photos/johndbritton/3262859632/' title='Couch Surfing - Got Couch T-Shirt Design'&gt;&lt;img alt='Couch Surfing - Got Couch T-Shirt Design' height='240' src='http://farm4.static.flickr.com/3356/3262859632_951d8a343a_m.jpg' width='188' /&gt;&lt;/a&gt;
 &lt;p&gt;With &lt;a href='http://www.couchcrashfestival.com/'&gt;Couch Crash NYC&lt;/a&gt; coming up in just a couple weeks, I thought it&amp;#8217;d be a perfect time to get some made. If you&amp;#8217;ll be at Couch Crash NYC and want a T-shirt, just leave a comment on this post with your shirt size. Also please fill in your real email address on the comment form (it won&amp;#8217;t be published) so I can get in touch with you if necessary.&lt;/p&gt;
 
 &lt;p&gt;I don&amp;#8217;t know what the cost of the shirts will be yet, but there will be &lt;strong&gt;NO PRICE MARKUP&lt;/strong&gt;, you just pay the cost of the printed shirt.&lt;/p&gt;
@@ -1315,7 +1323,7 @@ Mozilla (in collaboration with ccLearn and the Peer 2 Peer University) launches 
  <entry>
    <title>Kiva - Loans That Change Lives</title>
    <link href="http://johndbritton.com/2009/02/06/kiva-loans-that-change-lives/"/>
-   <updated>2009-02-06T00:00:00+01:00</updated>
+   <updated>2009-02-06T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2009/02/06/kiva-loans-that-change-lives</id>
    <content type="html">&lt;p&gt;According to the &lt;a href='http://en.wikipedia.org/wiki/Kiva'&gt;Wikipedia Article&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1344,15 +1352,17 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
 &lt;/p&gt;
 &lt;/blockquote&gt;&lt;/p&gt;
 &lt;a href='https://www.kiva.org/lender/johndbritton'&gt;I'm a Kiva lender&lt;/a&gt;&lt;strong&gt;Please don't claim the gift certificate if you're not new to Kiva, I'm hoping this will get someone new involved.&lt;/strong&gt;
-&lt;p&gt;To claim the gift certificate &lt;a href='http://www.kiva.org/redeem?purchaserEmail=public@johndbritton.com&amp;giftCode=8354562245479'&gt;click this link&lt;/a&gt; and follow the instructions to open a new account. Once you&amp;#8217;ve created your account make sure to lend the funds to an entrepreneur, otherwise the money will just sit there for a year before becoming a donation to cover Kiva&amp;#8217;s operating costs.&lt;/p&gt;
+&lt;p&gt;To claim the gift certificate &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://www.kiva.org/redeem?purchaserEmail=public@johndbritton.com&amp;amp;giftCode=8354562245479&amp;quot;&amp;gt;click this link&amp;lt;/a&amp;gt;&lt;/pre&gt; and follow the instructions to open a new account. Once you&amp;#8217;ve created your account make sure to lend the funds to an entrepreneur, otherwise the money will just sit there for a year before becoming a donation to cover Kiva&amp;#8217;s operating costs.&lt;/p&gt;
 
-&lt;p&gt;The next Kiva gift certificate link will be posted on &lt;a href='http://www.timeanddate.com/worldclock/fixedtime.html?month=2&amp;day=13&amp;year=2009&amp;hour=12&amp;min=0&amp;sec=0&amp;p1=179'&gt;Friday, 13 February 2009 between 12:00-13:00 EST&lt;/a&gt;. I&amp;#8217;m telling you this now to give you an advantage over the other internet dwellers, come back later to claim your gift certificate too!&lt;/p&gt;</content>
+&lt;p&gt;The next Kiva gift certificate link will be posted on &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://www.timeanddate.com/worldclock/fixedtime.html?month=2&amp;amp;day=13&amp;amp;year=2009&amp;amp;hour=12&amp;amp;min=0&amp;amp;sec=0&amp;amp;p1=179&amp;quot;&amp;gt;Friday, 13 February 2009 between 12:00-13:00 EST&amp;lt;/a&amp;gt;&lt;/pre&gt;. I&amp;#8217;m telling you this now to give you an advantage over the other internet dwellers, come back later to claim your gift certificate too!&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Open Education 2008: Celebrating Ten Years of Open Content</title>
    <link href="http://johndbritton.com/2009/02/04/open-education-2008-celebrating-ten-years-of-open-content/"/>
-   <updated>2009-02-04T00:00:00+01:00</updated>
+   <updated>2009-02-04T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2009/02/04/open-education-2008-celebrating-ten-years-of-open-content</id>
    <content type="html">&lt;em&gt;This post is long overdue (September 2008); I just found it sitting in my blog's queue. I had been trying to polish it off and must have forgotten about it, sorry for the delay.&lt;/em&gt;&lt;a href='http://gallery.johndbritton.com/v/2008/utah/logan/open_education_conference/IMG_0050.JPG.html'&gt;&lt;img alt='Open Education Conference Sign' src='http://gallery.johndbritton.com/d/72420-5/IMG_0050.JPG' /&gt;&lt;/a&gt;
 &lt;p&gt;Thanks to the &lt;a href='http://opencontent.org/blog/archives/552'&gt;generous support&lt;/a&gt; of &lt;a href='http://www.hewlett.org'&gt;The William and Flora Hewlett Foundation&lt;/a&gt; I was able to travel from Hong Kong to &lt;a href='http://gallery.johndbritton.com/v/2008/utah/logan/'&gt;Logan, UT&lt;/a&gt; for the &lt;a href='http://cosl.usu.edu/events/opened2008/'&gt;Open Education 2008&lt;/a&gt; conference.&lt;/p&gt;
@@ -1371,9 +1381,9 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>See You at Drupalcon DC 2009</title>
    <link href="http://johndbritton.com/2008/12/15/see-you-at-drupalcon-dc-2009/"/>
-   <updated>2008-12-15T00:00:00+01:00</updated>
+   <updated>2008-12-15T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2008/12/15/see-you-at-drupalcon-dc-2009</id>
-   <content type="html">&lt;a href='http://dc2009.drupalcon.org/user/johndbritton'&gt;&lt;img style='border:0px;' alt='Drupalcon Badge' src='http://dc2009.drupalcon.org/sites/all/themes/dcdc/badges/badge_imgoing.gif' /&gt;&lt;/a&gt;
+   <content type="html">&lt;a href='http://dc2009.drupalcon.org/user/johndbritton'&gt;&lt;img alt='Drupalcon Badge' src='http://dc2009.drupalcon.org/sites/all/themes/dcdc/badges/badge_imgoing.gif' style='border:0px;' /&gt;&lt;/a&gt;
 &lt;p&gt;I&amp;#8217;m going to &lt;a href='http://dc2009.drupalcon.org'&gt;Drupalcon DC 2009&lt;/a&gt;! I managed to get my ticket at the early-bird price of $125, tickets are now $250 each.&lt;/p&gt;
 
 &lt;p&gt;I&amp;#8217;m really looking forward to the trip. I&amp;#8217;ve been to the capital of at least twenty other countries, but I&amp;#8217;ve never actually seen &lt;a href='http://wikitravel.org/en/Washington_(D.C.)'&gt;Washington, DC&lt;/a&gt;. This will be a great opportunity for me to see my nation&amp;#8217;s capital city.&lt;/p&gt;
@@ -1384,7 +1394,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>What Happened at Open Everything Hong Kong</title>
    <link href="http://johndbritton.com/2008/12/14/what-happened-at-open-everything-hong-kong/"/>
-   <updated>2008-12-14T00:00:00+01:00</updated>
+   <updated>2008-12-14T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2008/12/14/what-happened-at-open-everything-hong-kong</id>
    <content type="html">&lt;p&gt;I&amp;#8217;ve spent the last week decompressing my brain from &lt;a href='/post/2008/november/25/announcing_open_everything_hong_kong_2008'&gt;organizing&lt;/a&gt; this year&amp;#8217;s &lt;a href='http://openeverything.hk/2008'&gt;Open Everything Hong Kong&lt;/a&gt;, so I apologize for the delay in posting this recap story.&lt;/p&gt;
 &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
@@ -1418,7 +1428,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Enrolled in David Wiley's Introduction to Open Education 2009 Course</title>
    <link href="http://johndbritton.com/2008/12/02/enrolled-in-david-wileys-introduction-to-open-education-2009-course/"/>
-   <updated>2008-12-02T00:00:00+01:00</updated>
+   <updated>2008-12-02T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2008/12/02/enrolled-in-david-wileys-introduction-to-open-education-2009-course</id>
    <content type="html">&lt;p&gt;I&amp;#8217;ve just signed up for &lt;a href='http://opencontent.org/blog'&gt;David Wiley&lt;/a&gt;&amp;#8217;s &lt;a href='http://opencontent.org/wiki/index.php?title=Introduction_to_Open_Education_2009'&gt;Introduction to Open Education 2009&lt;/a&gt; course that is being offered at &lt;a href='http://www.byu.edu'&gt;Brigham Young University&lt;/a&gt; during the upcoming term. I&amp;#8217;m not a student at BYU, but &amp;#8220;the course will be open again this year, meaning anyone, anywhere is welcome to participate. And yes, &lt;span&gt;David&lt;/span&gt; will print and mail completion certificates again for those who earn and want them.&amp;#8221;&lt;/p&gt;
 
@@ -1428,7 +1438,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Announcing Open Everything Hong Kong 2008</title>
    <link href="http://johndbritton.com/2008/11/25/announcing-open-everything-hong-kong-2008/"/>
-   <updated>2008-11-25T00:00:00+01:00</updated>
+   <updated>2008-11-25T00:00:00-08:00</updated>
    <id>http://johndbritton.com/2008/11/25/announcing-open-everything-hong-kong-2008</id>
    <content type="html">&lt;a href='http://openeverything.hk/2008'&gt;&lt;img alt='Open Everything HK Banner' src='http://gallery.johndbritton.com/d/78765-2/openeverythinghongkong2008.png' /&gt;&lt;/a&gt;&lt;dl&gt;
  &lt;dt&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;6 December 2008&lt;/dd&gt;
@@ -1444,7 +1454,8 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
 
 &lt;p&gt;At Open Everything Hong Kong 2008 there will be two invited guest speakers and four open sessions left in the hands of attendees. Feel free to come prepared with a topic to share, discuss, or present. Also feel free to act spontaneously and lead a group discussion with no preparation at all. The magic of the event is that it is open and we&amp;#8217;re all free to contribute as we desire.&lt;/p&gt;
 
-&lt;p&gt;The event is free and open to the public, we do kindly ask that you &lt;a href='http://spreadsheets.google.com/viewform?key=pF3nGOxC38AHL77VKspOvDA&amp;hl=en'&gt;register&lt;/a&gt; so we can give you a fancy name badge and maybe even a T-shirt. We&amp;#8217;d also like to know how many people to expect so that we&amp;#8217;re prepared.&lt;/p&gt;
+&lt;p&gt;The event is free and open to the public, we do kindly ask that you &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://spreadsheets.google.com/viewform?key=pF3nGOxC38AHL77VKspOvDA&amp;amp;hl=en&amp;quot;&amp;gt;register&amp;lt;/a&amp;gt;&lt;/pre&gt; so we can give you a fancy name badge and maybe even a T-shirt. We&amp;#8217;d also like to know how many people to expect so that we&amp;#8217;re prepared.&lt;/p&gt;
 
 &lt;p&gt;Sister events will be held in &lt;a href='http://openeverything.wik.is/Berlin'&gt;Berlin, Germany&lt;/a&gt; and &lt;a href='http://openeverything.wik.is/Madison,_WI'&gt;Madison, WI, USA&lt;/a&gt; on the same day. We&amp;#8217;re expecting to have some sort of video link to hand over between timezones. Wish your city had an event? Join the &lt;a href='http://groups.google.com/group/open-everything-discuss'&gt;discussion&lt;/a&gt; and we&amp;#8217;ll be happy to help you organize an Open Everything of your very own ;).&lt;/p&gt;
 
@@ -1454,7 +1465,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Backstage Shadow</title>
    <link href="http://johndbritton.com/2008/10/04/backstage-shadow/"/>
-   <updated>2008-10-04T00:00:00+02:00</updated>
+   <updated>2008-10-04T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/10/04/backstage-shadow</id>
    <content type="html">&lt;a href='http://gallery.johndbritton.com/v/2008/south_korea/seoul/korea_traditional_performing_arts_festival/IMG_1732.JPG.html'&gt;&lt;img src='http://gallery.johndbritton.com/d/71408-3/IMG_1732.JPG' /&gt;&lt;/a&gt;</content>
  </entry>
@@ -1462,9 +1473,9 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Barcamp Hong Kong 2008</title>
    <link href="http://johndbritton.com/2008/09/11/barcamp-hong-kong-2008/"/>
-   <updated>2008-09-11T00:00:00+02:00</updated>
+   <updated>2008-09-11T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/09/11/barcamp-hong-kong-2008</id>
-   <content type="html">&lt;a href='http://www.barcamp.hk'&gt;&lt;img style='display: block; margin: auto;' src='http://gallery.johndbritton.com/d/67356-1/BarcampHKLogo.png' /&gt;&lt;/a&gt;
+   <content type="html">&lt;a href='http://www.barcamp.hk'&gt;&lt;img src='http://gallery.johndbritton.com/d/67356-1/BarcampHKLogo.png' style='display: block; margin: auto;' /&gt;&lt;/a&gt;
 &lt;p&gt;This past Saturday was &lt;a href='http://www.barcamp.hk'&gt;Barcamp Hong Kong&lt;/a&gt; (&lt;a href='http://gallery.johndbritton.com/v/2008/china/hong_kong/barcamp'&gt;photos&lt;/a&gt;). If you&amp;#8217;ve never heard of Barcamp you should check out &lt;a href='http://en.wikipedia.org/wiki/BarCamp'&gt;the Wikipedia article&lt;/a&gt;. The event was organized by technologists from the area and was hosted by &lt;a href='http://www.turner.com/'&gt;Turner Broadcasting System, Inc.&lt;/a&gt; at their location in &lt;a href='http://en.wikipedia.org/wiki/Quarry_Bay'&gt;Quarry Bay&lt;/a&gt;.&lt;/p&gt;
 &lt;a href='http://gallery.johndbritton.com/v/2008/china/hong_kong/barcamp/IMG_2463.JPG.html'&gt;&lt;img src='http://gallery.johndbritton.com/d/67102-3/IMG_2463.JPG' /&gt;&lt;/a&gt;
 &lt;p&gt;There were five rooms available during each of six time slots for a total of 30 possible sessions. I attended six:&lt;/p&gt;
@@ -1488,7 +1499,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Mr. Flatland Wins RPI Game Jam, &quot;Best Game Overall&quot; and &quot;Most Fun&quot;</title>
    <link href="http://johndbritton.com/2008/09/10/mr-flatland-wins-rpi-game-jam-best-game-overall-and-most-fun/"/>
-   <updated>2008-09-10T00:00:00+02:00</updated>
+   <updated>2008-09-10T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/09/10/mr-flatland-wins-rpi-game-jam-best-game-overall-and-most-fun</id>
    <content type="html">&lt;p&gt;Just before the end of the 2008 Spring semester the &lt;a href='http://www.rpi.edu'&gt;RPI&lt;/a&gt; Game Development Club hosted a Game Jam. Brian McDonald, Peter Mueller and I formed a team to develop a fully functional themed game in eight hours.&lt;/p&gt;
 
@@ -1506,7 +1517,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>&quot;Hong Kong Riding High&quot;, Pay it Forward: Winners</title>
    <link href="http://johndbritton.com/2008/08/06/hong-kong-riding-high-pay-it-forward-winners/"/>
-   <updated>2008-08-06T00:00:00+02:00</updated>
+   <updated>2008-08-06T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/08/06/hong-kong-riding-high-pay-it-forward-winners</id>
    <content type="html">&lt;a href='http://gallery.johndbritton.com/v/2008/china/hong_kong/last_night_with_cuhk_iss/IMG_2098.JPG.html'&gt;&lt;img alt='Olympic Countdown Clock' src='http://gallery.johndbritton.com/d/64513-3/IMG_2098.JPG' /&gt;&lt;/a&gt;
 &lt;p&gt;About a week ago I announced an &lt;a href='http://www.johndbritton.com/post/2008/july/29/pay_it_forward_free_olympic_tickets'&gt;Olympic Ticket Giveaway&lt;/a&gt;. The time has come to announce the winners and runners-up. Although there is no way for me to verify you&amp;#8217;ve done your good deed, I hope that you will follow through even if you didn&amp;#8217;t win the tickets.&lt;/p&gt;
@@ -1550,7 +1561,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Pay it Forward: Free Olympic Tickets</title>
    <link href="http://johndbritton.com/2008/07/29/pay-it-forward-free-olympic-tickets/"/>
-   <updated>2008-07-29T00:00:00+02:00</updated>
+   <updated>2008-07-29T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/07/29/pay-it-forward-free-olympic-tickets</id>
    <content type="html">&lt;strong&gt;UPDATE: This giveaway has ended, see &lt;a href='http://www.johndbritton.com/post/2008/august/06/hong_kong_riding_high_pay_it_forward_winners'&gt;the results&lt;/a&gt;.&lt;/strong&gt;
 &lt;p&gt;I have a surplus of tickets to the Olympics; rather than scalp them for crazy prices I&amp;#8217;ve decided to give them away free of charge. There are three pairs of tickets available (six tickets total).&lt;/p&gt;
@@ -1585,7 +1596,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Mai Po Wetlands</title>
    <link href="http://johndbritton.com/2008/07/27/mai-po-wetlands/"/>
-   <updated>2008-07-27T00:00:00+02:00</updated>
+   <updated>2008-07-27T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/07/27/mai-po-wetlands</id>
    <content type="html">&lt;a href='http://gallery.johndbritton.com/v/2008/china/hong_kong/mai_po_wetlands_world_wildlife_fund_preserve/IMG_1858.JPG.html'&gt;&lt;img alt='Mai Po' src='http://gallery.johndbritton.com/d/62807-3/IMG_1858.JPG' /&gt;&lt;/a&gt;</content>
  </entry>
@@ -1593,7 +1604,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>ThoughtWorks Presents: Agile Hong Kong - Continuous Integration with Chris Stevenson</title>
    <link href="http://johndbritton.com/2008/07/16/thoughtworks-presents-agile-hong-kong-continuous-integration-with-chris-stevenson/"/>
-   <updated>2008-07-16T00:00:00+02:00</updated>
+   <updated>2008-07-16T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/07/16/thoughtworks-presents-agile-hong-kong-continuous-integration-with-chris-stevenson</id>
    <content type="html">&lt;a href='http://gallery.johndbritton.com/v/2008/china/hong_kong/thought_works_presents_agile_hong_kong_continuous_integration_with_chris_stevenson/IMG_1767.JPG.html'&gt;&lt;img alt='Agile HongKong banner' src='http://gallery.johndbritton.com/d/62232-3/IMG_1767.JPG' /&gt;&lt;/a&gt;
 &lt;p&gt;This past Tuesday evening &lt;a href='http://www.skizz.biz'&gt;Chris Stevenson&lt;/a&gt; gave a &lt;a href='http://agilehongkong.com/2008/07/09/continuous-integration/'&gt;talk&lt;/a&gt; on &lt;a href='http://www.wikipedia.org/wiki/Continuous_integration'&gt;Continuous Integration&lt;/a&gt; at the &lt;a href='http://www.thoughtworks.com'&gt;ThoughtWorks&lt;/a&gt; Hong Kong &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
@@ -1615,7 +1626,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Sha Tin Hoi (沙田海)</title>
    <link href="http://johndbritton.com/2008/07/14/sha-tin-hoi/"/>
-   <updated>2008-07-14T00:00:00+02:00</updated>
+   <updated>2008-07-14T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/07/14/sha-tin-hoi</id>
    <content type="html">&lt;a href='http://gallery.johndbritton.com/v/2008/china/hong_kong/imelda_philippe_and_pin_visit/IMG_1755.JPG.html'&gt;&lt;img src='http://gallery.johndbritton.com/d/62145-3/IMG_1755.JPG' /&gt;&lt;/a&gt;</content>
  </entry>
@@ -1623,11 +1634,12 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>International Couch Surfing Day 2008 - Beijing China</title>
    <link href="http://johndbritton.com/2008/06/21/international-couch-surfing-day-2008-beijing-china/"/>
-   <updated>2008-06-21T00:00:00+02:00</updated>
+   <updated>2008-06-21T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/06/21/international-couch-surfing-day-2008-beijing-china</id>
    <content type="html">&lt;p&gt;Last week &lt;a href='http://en.wikipedia.org/wiki/CouchSurfing'&gt;Couch Surfers&lt;/a&gt; (from around the world) gathered in Beijing, China at &lt;a href='http://en.wikipedia.org/wiki/Beihai_Park'&gt;Beihai Park (北海公园)&lt;/a&gt; to celebrate International Couch Surfing Day. Although the weather was sub-optimal at first, we had a pretty strong turnout. We met at noon for a potluck picnic in the &lt;a href='http://en.wikipedia.org/wiki/Long_Corridor'&gt;Long Corridor&lt;/a&gt;. We spent the afternoon chatting about travel, life, philosophy, trust, Couch Surfing, Beijing, and more. After the picnic we made a &lt;a href='http://gallery.johndbritton.com/v/2008/china/beijing/couch_surfer/080614+009.jpg.html'&gt;&quot;Got Couch?&quot;&lt;/a&gt; poster and took some photos around the park. My &lt;a href='http://gallery.johndbritton.com/v/2008/china/beijing/couch_surfer/IMG_2909.jpg.html'&gt;favorite group shot&lt;/a&gt; was taken by &lt;a href='http://www.couchsurfing.com/people/alainsojourner'&gt;Alain&lt;/a&gt; at the White Pagoda. We spend the rest of our time in the park tossing around a football and playing &lt;a href='http://en.wikipedia.org/wiki/Jianzi'&gt;Jianzi (毽子)&lt;/a&gt;. After the park we went to a Mexican restaurant in &lt;a href='http://en.wikipedia.org/wiki/Sanlitun'&gt;Sanlitun (三里屯)&lt;/a&gt; for dinner. People came and went throughout the day, all in all we had 18 people attend.&lt;/p&gt;
 
-&lt;p&gt;If you have any photos from this event, please &lt;a href='http://gallery.johndbritton.com/main.php?g2_view=core.ItemAdmin&amp;g2_subView=core.ItemAdd&amp;g2_itemId=52588&amp;g2_return=%2Fv%2F2008%2Fchina%2Fbeijing%2Fcouch_surfer%2F%3F'&gt;share them&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any photos from this event, please &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;a href=&amp;quot;http://gallery.johndbritton.com/main.php?g2_view=core.ItemAdmin&amp;amp;g2_subView=core.ItemAdd&amp;amp;g2_itemId=52588&amp;amp;g2_return=%2Fv%2F2008%2Fchina%2Fbeijing%2Fcouch_surfer%2F%3F&amp;quot;&amp;gt;share them&amp;lt;/a&amp;gt;&lt;/pre&gt;.&lt;/p&gt;
 
 &lt;p&gt;Check out &lt;a href='http://gallery.johndbritton.com/v/2008/china/beijing/john/couch_surfing_day_beijing_2008_beihai_park/'&gt;my photos&lt;/a&gt; and the &lt;a href='http://gallery.johndbritton.com/v/2008/china/beijing/couch_surfer/'&gt;photos by others&lt;/a&gt;.&lt;/p&gt;
 &lt;a href='http://gallery.johndbritton.com/v/2008/china/beijing/couch_surfer/080614+007.jpg.html'&gt;&lt;img src='http://gallery.johndbritton.com/d/52983-2/080614+007.jpg' /&gt;&lt;/a&gt;&lt;h3&gt;Attendees (in no particular order):&lt;/h3&gt;
@@ -1637,7 +1649,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Simatai Rice Terrace</title>
    <link href="http://johndbritton.com/2008/06/11/simatai-rice-terrace/"/>
-   <updated>2008-06-11T00:00:00+02:00</updated>
+   <updated>2008-06-11T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/06/11/simatai-rice-terrace</id>
    <content type="html">&lt;a href='http://gallery.johndbritton.com/v/2008/china/beijing/john/simatai_to_jinshanling/IMG_1117.JPG.html'&gt;&lt;img src='http://gallery.johndbritton.com/d/50936-3/IMG_1117.JPG' /&gt;&lt;/a&gt;</content>
  </entry>
@@ -1645,7 +1657,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>An Apathetic Crabmonger</title>
    <link href="http://johndbritton.com/2008/06/01/an-apathetic-crabmonger/"/>
-   <updated>2008-06-01T00:00:00+02:00</updated>
+   <updated>2008-06-01T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/06/01/an-apathetic-crabmonger</id>
    <content type="html">&lt;a href='http://gallery.johndbritton.com/v/2008/china/beijing/john/downtown_with_cure_ivor_and_wei/IMG_0915.JPG.html'&gt;&lt;img src='http://gallery.johndbritton.com/d/47035-3/IMG_0915.JPG' /&gt;&lt;/a&gt;</content>
  </entry>
@@ -1653,7 +1665,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Electronics Shopping in Beijing</title>
    <link href="http://johndbritton.com/2008/05/26/electronics-shopping-in-beijing/"/>
-   <updated>2008-05-26T00:00:00+02:00</updated>
+   <updated>2008-05-26T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/05/26/electronics-shopping-in-beijing</id>
    <content type="html">&lt;p&gt;I’ve been in &lt;a href='http://gallery.johndbritton.com/v/2008/china/beijing/'&gt;Beijing&lt;/a&gt; for about a week. I’ve had plenty of adventures so far, and I’m sure there are many more to come. The trip here wasn’t too bad; it was a nice to relax after the stress of packing and moving. My flight left JFK at 6AM on May 18 with a short layover in SFO. I slept a good portion of the trip, and managed to avoid jet lag. A somewhat positive side effect of the time change is that I’ve been waking up without an alarm between 6:00 and 8:00 AM every day.&lt;/p&gt;
 
@@ -1671,7 +1683,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>GPS Flight Log Animation</title>
    <link href="http://johndbritton.com/2008/04/30/gps-flight-log-animation/"/>
-   <updated>2008-04-30T00:00:00+02:00</updated>
+   <updated>2008-04-30T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/04/30/gps-flight-log-animation</id>
    <content type="html">&lt;p&gt;I created a &lt;a href='http://earth.google.com/'&gt;Google Earth&lt;/a&gt; &lt;a href='http://gallery.johndbritton.com/v/2008/matt_and_rhae_visit_troy/flightpath.flv.html'&gt;animation&lt;/a&gt; from my GPS tracklogs of our flight above &lt;a href='http://en.wikipedia.org/wiki/Albany,_New_York'&gt;Albany&lt;/a&gt; and &lt;a href='http://en.wikipedia.org/wiki/Troy,_New_York'&gt;Troy&lt;/a&gt;. I logged the flight using my &lt;a href='http://wiki.openstreetmap.org/index.php/GPS_Reviews/Wintec_and_Woxter#Wintec_WBT-201_.28G-Rays_2.29'&gt;WBT-201&lt;/a&gt;, configured the data collection settings on my mac using &lt;a href='http://www.zen35309.zen.co.uk/gps/'&gt;gtk-g-rays-2&lt;/a&gt;, and exported the data to Google&amp;#8217;s &lt;a href='http://en.wikipedia.org/wiki/Keyhole_Markup_Language'&gt;KML&lt;/a&gt; using &lt;a href='http://www.gpsbabel.org/'&gt;GPSBabel+&lt;/a&gt;. I used the screencasting software &lt;a href='http://www.shinywhitebox.com/home/home.html'&gt;iShowU&lt;/a&gt; to create the video, converted it to FLV using &lt;a href='http://homepage.mac.com/major4/'&gt;ffmpegx&lt;/a&gt;, and finally delivered it for your viewing pleasure using &lt;a href='http://gallery.menalto.com'&gt;Gallery2&lt;/a&gt; and &lt;a href='http://drupal.org'&gt;Drupal&lt;/a&gt;. Enjoy.&lt;/p&gt;</content>
  </entry>
@@ -1679,7 +1691,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>A Shot in the Dark</title>
    <link href="http://johndbritton.com/2008/04/29/a-shot-in-the-dark/"/>
-   <updated>2008-04-29T00:00:00+02:00</updated>
+   <updated>2008-04-29T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/04/29/a-shot-in-the-dark</id>
    <content type="html">&lt;a href='http://gallery.johndbritton.com/v/2004/niles_visits_the_dorm/IMG_0919.jpg.html'&gt;&lt;img src='http://gallery.johndbritton.com/d/3293-5/IMG_0919.jpg' /&gt;&lt;/a&gt;</content>
  </entry>
@@ -1687,7 +1699,7 @@ When you browse entrepreneurs' profiles on the site, choose someone to lend to, 
  <entry>
    <title>Burn Your Drupal 6 RSS Feeds with FeedBurner &amp; Apache mod_rewrite</title>
    <link href="http://johndbritton.com/2008/04/25/burn-your-drupal-6-rss-feeds-with-feedburner-and-apache-mod_rewrite/"/>
-   <updated>2008-04-25T00:00:00+02:00</updated>
+   <updated>2008-04-25T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/04/25/burn-your-drupal-6-rss-feeds-with-feedburner-and-apache-mod_rewrite</id>
    <content type="html">&lt;p&gt;As it stands the &lt;a href='http://www.drupal.org'&gt;Drupal&lt;/a&gt; &lt;a href='http://www.feedburner.com'&gt;FeedBurner&lt;/a&gt; &lt;a href='http://drupal.org/project/feedburner'&gt;module&lt;/a&gt; is not yet ready for the 6.x series. A simple workaround is to redirect Drupal feed requests (default: /rss.xml) to FeedBurner based on the &lt;a href='http://en.wikipedia.org/wiki/User_agent'&gt;useragent&lt;/a&gt; using Apache&amp;#8217;s mod_rewrite. The trick is to redirect all requests for the feed, with the exception of those made by the FeedBurner bot, to the &lt;q&gt;Burned&lt;/q&gt; feed. You can repeat this for as many feeds as is necessary. Thanks to &lt;a href='http://ckdake.com'&gt;ckdake&lt;/a&gt; for the tip.&lt;/p&gt;
 &lt;strong&gt;Example .htaccess snippet:&lt;/strong&gt;&lt;code language='apache'&gt;
@@ -1700,7 +1712,7 @@ RewriteRule rss\.xml http://feeds.feedburner.com/johndbritton [L]
  <entry>
    <title>GMC Front Page</title>
    <link href="http://johndbritton.com/2008/04/23/gmc-front-page/"/>
-   <updated>2008-04-23T00:00:00+02:00</updated>
+   <updated>2008-04-23T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/04/23/gmc-front-page</id>
    <content type="html">&lt;p&gt;The Gallery team has announced the &lt;a href='http://gallery.menalto.com/summer_of_code/2008/projects'&gt;selected students for the 2008 Summer of Code&lt;/a&gt; on GMC (&lt;a href='http://gallery.menalto.com'&gt;gallery.menalto.com&lt;/a&gt;). I am one of two lucky students to be selected. The other student, &lt;a href='http://phinze.com'&gt;Paul Hinze&lt;/a&gt;, will be working on &lt;em&gt;Facebook/Flickr Style Image Region Based Tagging&lt;/em&gt;.&lt;/p&gt;</content>
  </entry>
@@ -1708,7 +1720,7 @@ RewriteRule rss\.xml http://feeds.feedburner.com/johndbritton [L]
  <entry>
    <title>Implementing a Web Based Translation Interface for Gallery2</title>
    <link href="http://johndbritton.com/2008/04/21/implementing-a-web-based-translation-interface-for-gallery2/"/>
-   <updated>2008-04-21T00:00:00+02:00</updated>
+   <updated>2008-04-21T00:00:00-07:00</updated>
    <id>http://johndbritton.com/2008/04/21/implementing-a-web-based-translation-interface-for-gallery2</id>
    <content type="html">&lt;p&gt;My application to Google&amp;#8217;s 2008 &lt;a href='http://code.google.com/soc/2008/'&gt;Summer of Code&lt;/a&gt; program has been accepted, see below:&lt;/p&gt;
 &lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
@@ -1718,7 +1730,7 @@ RewriteRule rss\.xml http://feeds.feedburner.com/johndbritton [L]
  <entry>
    <title>HDR - Canon G9 Auto-Bracketing, First Attempt</title>
    <link href="http://johndbritton.com/2008/04/09/hdr-canon-g9-auto-bracketing-first-attempt/"/>
-   <updated>2008-04-09T11:26:58+02:00</updated>
+   <updated>2008-04-09T02:26:58-07:00</updated>
    <id>http://johndbritton.com/2008/04/09/hdr-canon-g9-auto-bracketing-first-attempt</id>
    <content type="html">&lt;p&gt;I recently purchased a Canon PowerShot G9 digital camera. It has quite a few more features than my previous camera (Canon SD300) at the cost of a somewhat larger size. Features worth mentioning: RAW support, jog dial interface, quick startup time, 12.1MP, RAW+JPG shooting mode, and auto-bracketing. So far I&amp;#8217;ve only come across one &lt;em&gt;minor&lt;/em&gt; drawback, you can&amp;#8217;t save RAW images in AUTO mode.&lt;/p&gt;
 
@@ -1733,9 +1745,9 @@ RewriteRule rss\.xml http://feeds.feedburner.com/johndbritton [L]
  
  <entry>
    <title>Website Update:</title>
-   <link href="http://johndbritton.com/2008/04/09/website-update/"/>
-   <updated>2008-04-09T07:11:44+02:00</updated>
-   <id>http://johndbritton.com/2008/04/09/website-update</id>
+   <link href="http://johndbritton.com/2008/04/08/website-update/"/>
+   <updated>2008-04-08T22:11:44-07:00</updated>
+   <id>http://johndbritton.com/2008/04/08/website-update</id>
    <content type="html">&lt;p&gt;Not too long ago &lt;a href='http://gallery.johndbritton.com/v/2008/drupalcon_boston'&gt;I attended&lt;/a&gt; &lt;a href='http://boston2008.drupalcon.org'&gt;Drupalcon Boston&lt;/a&gt;. While I was there I realized that as an internet professional I needed to revamp my online image. My &lt;a href='/nostalgia'&gt;meek homepage&lt;/a&gt; has remained fairly unchanged since 2005, serving only as a &lt;a href='/contact'&gt;contact&lt;/a&gt; reference. I&amp;#8217;ve been working on quite a few projects that may be of interest to some of you, so keep an eye out here. I make no promise as to the frequency of updates but I will be sure to produce quality content when I do decide to share.&lt;/p&gt;</content>
  </entry>
  
