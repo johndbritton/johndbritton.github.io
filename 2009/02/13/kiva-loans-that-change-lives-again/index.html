@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,50 +51,47 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Kiva - Loans That Change Lives, Again</h1>
-    </div>
-    <div id="post-body">
-      <a href='https://www.kiva.org/lender/johndbritton'>I'm a Kiva lender</a>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Kiva - Loans That Change Lives, Again</h1>
+      </div>
+      <div id="post-body">
+        <a href='https://www.kiva.org/lender/johndbritton'>I'm a Kiva lender</a>
 <p>The gift certificates are just special links you can follow that will give you $25.00 of credit in your new Kiva account to lend to the borrower of your choosing. The gift certificate is available to <em>whomever claims it first</em>.</p>
 <strong>Please don't claim the gift certificate if you're not new to Kiva, I'm hoping this will get someone new involved.</strong>
 <p>To claim the gift certificate <pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'>REXML could not parse this XML/HTML: 
 &lt;a href=&quot;http://www.kiva.org/redeem?purchaserEmail=public@johndbritton.com&amp;giftCode=5242832482645&quot;&gt;click this link&lt;/a&gt;</pre> and follow the instructions to open a new account. Once you&#8217;ve created your account make sure to lend the funds to an entrepreneur, otherwise the money will just sit there for a year before becoming a donation to cover Kiva&#8217;s operating costs.</p>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">06 Feb 2009</span> &raquo; <a href="/2009/02/06/kiva-loans-that-change-lives/">Kiva - Loans That Change Lives</a></li>
-      
-        <li><span class="date">06 Aug 2008</span> &raquo; <a href="/2008/08/06/hong-kong-riding-high-pay-it-forward-winners/">"Hong Kong Riding High", Pay it Forward: Winners</a></li>
-      
-        <li><span class="date">29 Jul 2008</span> &raquo; <a href="/2008/07/29/pay-it-forward-free-olympic-tickets/">Pay it Forward: Free Olympic Tickets</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

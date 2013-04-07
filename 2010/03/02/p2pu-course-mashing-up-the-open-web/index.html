@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>P2PU Course: Mashing Up the Open Web</h1>
-    </div>
-    <div id="post-body">
-      <p>Are you interested in learning more about the Open Web? Then sign up for my course, <a href='http://p2pu.org/mashing-open-web-mar-2010'>Mashing Up the Open Web</a> at P2PU. Sign-ups close on 3 March officially, but if you&#8217;re really keen on taking the course, <a href='/contact'>contact me</a>.</p>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>P2PU Course: Mashing Up the Open Web</h1>
+      </div>
+      <div id="post-body">
+        <p>Are you interested in learning more about the Open Web? Then sign up for my course, <a href='http://p2pu.org/mashing-open-web-mar-2010'>Mashing Up the Open Web</a> at P2PU. Sign-ups close on 3 March officially, but if you&#8217;re really keen on taking the course, <a href='/contact'>contact me</a>.</p>
 
 <p><a href='http://www.flickr.com/photos/iphilipp/3830451513'><img alt='Photo of John' src='http://farm4.static.flickr.com/3520/3830451513_629146f204.jpg' /></a></p>
 
@@ -80,30 +79,27 @@
 <p>The course will include discussions on the Open Web and help participants understand the importance of keeping the web open. Aside from practical web skills like HTML, CSS, and JavaScript participants will be introduced to a number of free and open data visualization tools. Participants will learn how to find open data and use those resources in creating a web mashup.</p>
 
 <p>What are you waiting for? <a href='http://p2pu.org/mashing-open-web-mar-2010'>Sign-up Now</a>!</p>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">07 Jun 2011</span> &raquo; <a href="/2011/06/07/always-changing-what-is-p2pu-today/">Always Changing: What is P2PU Today?</a></li>
-      
-        <li><span class="date">01 Feb 2010</span> &raquo; <a href="/2010/02/01/p2pu-and-drumbeat-open-web-career-track/">P2PU & Drumbeat Open Web Career Track</a></li>
-      
-        <li><span class="date">26 Aug 2010</span> &raquo; <a href="/2010/08/26/p2pu-sign-up-opens-today-cycle-3/">P2PU Sign-up Opens Today - Cycle 3</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

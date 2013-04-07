@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,51 +51,48 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Got Couch? - American Apparel Brown Ringer Tee - Official Order Form</h1>
-    </div>
-    <div id="post-body">
-      <strong>The order form may not be visible in your RSS reader, see <a href='/post/2009/february/24/got_couch_american_apparel_brown_ringer_tee_official_order_form'>the full post</a></strong>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Got Couch? - American Apparel Brown Ringer Tee - Official Order Form</h1>
+      </div>
+      <div id="post-body">
+        <strong>The order form may not be visible in your RSS reader, see <a href='/post/2009/february/24/got_couch_american_apparel_brown_ringer_tee_official_order_form'>the full post</a></strong>
 <p>The design has been finalized, here it is:</p>
 <a href='http://flickr.com/photos/johndbritton/3306679125'><img alt='Got Couch? Tee' src='http://farm4.static.flickr.com/3646/3306679125_7091ac6be4.jpg?v=0' /></a>
 <p>Available in S, M, L, XL, &amp; XXL sizes at a price of $20.00 USD each. This is a high quality tee, the consensus was that we&#8217;d prefer pay a little more for a more comfortable shirt.</p>
 
 <p>To get your very own shirt just <strike>use the order form below</strike> <a href='/contact'>contact</a> me.</p>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">11 Feb 2010</span> &raquo; <a href="/2010/02/11/united-arab-emirates-and-india/">United Arab Emirates & India</a></li>
-      
-        <li><span class="date">27 Jun 2009</span> &raquo; <a href="/2009/06/27/couch-surfing-day-2009-beijingers-featured-in-wanderlust/">Couch Surfing Day 2009 - Beijingers Featured in Wanderlust</a></li>
-      
-        <li><span class="date">08 Feb 2009</span> &raquo; <a href="/2009/02/08/couch-surfing-got-couch-t-shirt/">Couch Surfing - "Got Couch" T-Shirt</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

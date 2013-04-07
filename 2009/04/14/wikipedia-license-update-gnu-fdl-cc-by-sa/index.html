@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Wikipedia License Update - GNU FDL + CC-BY-SA</h1>
-    </div>
-    <div id="post-body">
-      <a href='http://www.flickr.com/photos/theresasthompson/2999130055/'><img alt='Vote graphic' src='http://farm4.static.flickr.com/3034/2999130055_8697986e51.jpg' /></a><a href='http://creativecommons.org/licenses/by/2.0/deed.en'>CC-BY 2.0</a>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Wikipedia License Update - GNU FDL + CC-BY-SA</h1>
+      </div>
+      <div id="post-body">
+        <a href='http://www.flickr.com/photos/theresasthompson/2999130055/'><img alt='Vote graphic' src='http://farm4.static.flickr.com/3034/2999130055_8697986e51.jpg' /></a><a href='http://creativecommons.org/licenses/by/2.0/deed.en'>CC-BY 2.0</a>
 <p>The <a href='http://wikimedia.org'>Wikimedia Foundation</a> is currently holding a <a href='http://en.wikipedia.org/wiki/Special:SecurePoll/vote/1'>vote</a> on the <a href='http://meta.wikimedia.org/wiki/Licensing_update'>possibility of dual licensing</a> the content of the various Wikipedias. To qualify to vote you must hold a Wikipedia account with at least 25 edits prior to March 15. If the vote passes, there will no longer be a licensing conflict between Wikipedia and CC licensed works.</p>
 
 <p>You should vote. I did and here&#8217;s the proof:</p>
@@ -104,30 +103,27 @@ KlKmMW93gLO2xIhcOX9qLxYWQYqeOsDpUWyPopKFBORHF8RXDMm8tBSe5pw=
 =YQp8
 -----END PGP MESSAGE-----
 </code>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">11 May 2010</span> &raquo; <a href="/2010/05/11/ccsalon-new-york-and-san-francisco-events-on-open-education/">ccSalon New York & San Francisco Events on Open Education</a></li>
-      
-        <li><span class="date">15 Apr 2009</span> &raquo; <a href="/2009/04/15/screening-rip-a-remix-manifesto-at-open-everything-nyc-afterparty/">Screening "RIP: A REMIX MANIFESTO" at Open Everything NYC Afterparty</a></li>
-      
-        <li><span class="date">31 May 2010</span> &raquo; <a href="/2010/05/31/the-catalyst-campaign-donate-now-to-help-fund-ccs-catalyst-grants/">The Catalyst Campaign: Donate Now to Help Fund CC's Catalyst Grants</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

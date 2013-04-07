@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Open Everything NYC Tentative Schedule</h1>
-    </div>
-    <div id="post-body">
-      <a href='http://nyc.openeverything.us'>Open Everything NYC</a><pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'>REXML could not parse this XML/HTML: 
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Open Everything NYC Tentative Schedule</h1>
+      </div>
+      <div id="post-body">
+        <a href='http://nyc.openeverything.us'>Open Everything NYC</a><pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'>REXML could not parse this XML/HTML: 
 &lt;ul&gt;
 &lt;li&gt;There hasn&apos;t been much use of the &lt;a href=&quot;http://openeverything.wik.is/New_York/New_York_City&quot;&gt; Open Everything NYC Wiki&lt;/a&gt;, feel free to dive in and add content before, during, and after the event.&lt;/li&gt;
 &lt;li&gt;As per Philip Ashlock&apos;s suggestion, there is now a page on the Open Everything &lt;a href=&quot;http://openeverything.wik.is&quot;&gt;Wiki&lt;/a&gt; to post &lt;a href=&quot;http://openeverything.wik.is/New_York/New_York_City/Suggested_Topics&quot;&gt;suggested topics for Open Everything NYC&lt;/a&gt; - Thanks Phil!&lt;/li&gt;
@@ -117,30 +116,27 @@
 &lt;tr&gt;&lt;td&gt;18:00&lt;/td&gt;&lt;td&gt;Group walk to &lt;a href=&quot;http://www.mcfaddens42.com/&quot;&gt;McFadden&apos;s Pub&lt;/a&gt;, 800 2&lt;sup&gt;nd&lt;/sup&gt; Avenue - 1/2 off all drinks and appetizers for Open Everything participants&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;19:00&lt;/td&gt;&lt;td&gt;Screening of &quot;&lt;a href=&quot;http://www.ripremix.com&quot;&gt;RIP: A REMIX MANIFESTO&lt;/a&gt;&quot; at McFadden&apos;s&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;</pre>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">15 Apr 2009</span> &raquo; <a href="/2009/04/15/free-book-the-new-craft-of-intelligence-personal-public-and-politcal/">Free Book: "The New Craft of Intelligence: Personal, Public, & Politcal"</a></li>
-      
-        <li><span class="date">10 Apr 2009</span> &raquo; <a href="/2009/04/10/open-everything-nyc-2009-featured-speaker-robert-david-steele-oss-net/">Open Everything NYC 2009 Featured Speaker: Robert David Steele - OSS.net</a></li>
-      
-        <li><span class="date">09 Apr 2009</span> &raquo; <a href="/2009/04/09/open-everything-nyc-updates/">Open Everything NYC Updates</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

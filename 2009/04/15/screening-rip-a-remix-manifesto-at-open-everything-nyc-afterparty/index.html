@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Screening "RIP: A REMIX MANIFESTO" at Open Everything NYC Afterparty</h1>
-    </div>
-    <div id="post-body">
-      <a href='http://www.flickr.com/photos/johndbritton/3444464056/'><img alt='RIP: A REMIX MANIFESTO poster' src='http://farm4.static.flickr.com/3604/3444464056_90a148da55.jpg' /></a>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Screening "RIP: A REMIX MANIFESTO" at Open Everything NYC Afterparty</h1>
+      </div>
+      <div id="post-body">
+        <a href='http://www.flickr.com/photos/johndbritton/3444464056/'><img alt='RIP: A REMIX MANIFESTO poster' src='http://farm4.static.flickr.com/3604/3444464056_90a148da55.jpg' /></a>
 <p>We&#8217;ll be screening &#8221;<a href='http://www.ripremix.com'>RIP: A REMIX MANIFESTO</a>&#8221;, an open source documentary about copyright and remix culture at the Open Everything NYC after party.</p>
 
 <p>From the RIP REMIX website: <pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'>REXML could not parse this XML/HTML: 
@@ -80,30 +79,27 @@ In RiP: A remix manifesto, Web activist and filmmaker Brett Gaylor explores issu
 
 <p>Which side of the ideas war are you on? &lt;/blockquote&gt;</p>
 <embed allowfullscreen='true' allowscriptaccess='always' height='300' src='http://blip.tv/play/gdwq0cI7iFY' type='application/x-shockwave-flash' width='500' />
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">16 Apr 2009</span> &raquo; <a href="/2009/04/16/open-everything-nyc-tentative-schedule/">Open Everything NYC Tentative Schedule</a></li>
-      
-        <li><span class="date">15 Apr 2009</span> &raquo; <a href="/2009/04/15/free-book-the-new-craft-of-intelligence-personal-public-and-politcal/">Free Book: "The New Craft of Intelligence: Personal, Public, & Politcal"</a></li>
-      
-        <li><span class="date">10 Apr 2009</span> &raquo; <a href="/2009/04/10/open-everything-nyc-2009-featured-speaker-robert-david-steele-oss-net/">Open Everything NYC 2009 Featured Speaker: Robert David Steele - OSS.net</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

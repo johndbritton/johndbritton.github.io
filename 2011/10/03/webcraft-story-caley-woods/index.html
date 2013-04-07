@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Webcraft Story: Caley Woods</h1>
-    </div>
-    <div id="post-body">
-      <p><a href='http://caleywoods.posterous.com/'>Caley Woods</a> is a P2PU community member from Brookfield, Missouri. He&#8217;s participated in two courses in the <a href='http://p2pu.org/webcraft'>School of Webcraft</a>. This is his story in his words.</p>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Webcraft Story: Caley Woods</h1>
+      </div>
+      <div id="post-body">
+        <p><a href='http://caleywoods.posterous.com/'>Caley Woods</a> is a P2PU community member from Brookfield, Missouri. He&#8217;s participated in two courses in the <a href='http://p2pu.org/webcraft'>School of Webcraft</a>. This is his story in his words.</p>
 <hr />
 <p>I believe this whole thing started when I saw a tweet where someone linked the live coding video from John Britton&#8217;s <a href='http://www.johndbritton.com/post/2010/august/04/live_coding_demo_new_york_tech_meetup'>Twilio presentation at the New York Tech Meetup</a>. I thought the clip was neat so I started following John on twitter and keeping up with what he was doing.</p>
 
@@ -92,30 +91,27 @@
 <h1 id='opinions_on_p2pu'>Opinions on P2PU</h1>
 
 <p>I think P2PU will continue evolve and I would wholeheartedly recommend it to <em>anyone</em> looking to learn a new skill or pickup a hobby. The School of Webcraft is just one aspect of P2PU; there are so many other subjects being taught. I&#8217;ve seen courses on gardening, literature, and economics. I also wouldn&#8217;t simply recommend it to someone who is unable to take conventional courses, I would advocate seeing what you can get from P2PU before you look elsewhere.</p>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">03 Feb 2012</span> &raquo; <a href="/2012/02/03/how-a-poet-learned-to-program/">How a Poet Learned to Program</a></li>
-      
-        <li><span class="date">07 Jun 2011</span> &raquo; <a href="/2011/06/07/always-changing-what-is-p2pu-today/">Always Changing: What is P2PU Today?</a></li>
-      
-        <li><span class="date">26 Aug 2010</span> &raquo; <a href="/2010/08/26/p2pu-sign-up-opens-today-cycle-3/">P2PU Sign-up Opens Today - Cycle 3</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

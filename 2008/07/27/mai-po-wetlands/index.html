@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,46 +51,43 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Mai Po Wetlands</h1>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Mai Po Wetlands</h1>
+      </div>
+      <div id="post-body">
+        <a href='http://gallery.johndbritton.com/v/2008/china/hong_kong/mai_po_wetlands_world_wildlife_fund_preserve/IMG_1858.JPG.html'><img alt='Mai Po' src='http://gallery.johndbritton.com/d/62807-3/IMG_1858.JPG' /></a>
+      </div>
     </div>
-    <div id="post-body">
-      <a href='http://gallery.johndbritton.com/v/2008/china/hong_kong/mai_po_wetlands_world_wildlife_fund_preserve/IMG_1858.JPG.html'><img alt='Mai Po' src='http://gallery.johndbritton.com/d/62807-3/IMG_1858.JPG' /></a>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">14 Jul 2008</span> &raquo; <a href="/2008/07/14/sha-tin-hoi/">Sha Tin Hoi (æ²ç°æµ·)</a></li>
-      
-        <li><span class="date">11 Jun 2008</span> &raquo; <a href="/2008/06/11/simatai-rice-terrace/">Simatai Rice Terrace</a></li>
-      
-        <li><span class="date">01 Jun 2008</span> &raquo; <a href="/2008/06/01/an-apathetic-crabmonger/">An Apathetic Crabmonger</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

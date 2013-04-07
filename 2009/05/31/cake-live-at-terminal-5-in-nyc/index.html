@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,50 +51,47 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>CAKE, Live at Terminal 5 in NYC</h1>
-    </div>
-    <div id="post-body">
-      <p>This past Friday a few friends and I ventured in to New York City to see a live performance by CAKE (<a href='http://www.cakemusic.com/'>Official Site</a>, <a href='http://en.wikipedia.org/wiki/Cake_(band)'>Wikipedia</a>). It was everything I could have hoped for. Back during my freshman year at <a href='http://www.rpi.edu'>RPI</a>, CAKE came to Albany and I&#8217;ve been kicking myself ever since I missed my chance to see them live.</p>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>CAKE, Live at Terminal 5 in NYC</h1>
+      </div>
+      <div id="post-body">
+        <p>This past Friday a few friends and I ventured in to New York City to see a live performance by CAKE (<a href='http://www.cakemusic.com/'>Official Site</a>, <a href='http://en.wikipedia.org/wiki/Cake_(band)'>Wikipedia</a>). It was everything I could have hoped for. Back during my freshman year at <a href='http://www.rpi.edu'>RPI</a>, CAKE came to Albany and I&#8217;ve been kicking myself ever since I missed my chance to see them live.</p>
 
 <p>The show was sold out, but I was able to snag a couple tickets off eBay. The crowd was good fun, I could tell there were tons of die-hard fans there. They played a good variety of tunes, but I was disappointed they didn&#8217;t play &#8221;<a href='http://www.last.fm/music/Cake/_/Mr.+Mastodon+Farm'>Mr. Mastodon Farm</a>&#8221; even though I knew it was unlikely.</p>
 
 <p>I streamed a few live videos of the show from my iPhone using the <a href='http://qik.com'>Qik</a> application. <a href='/qik'>Check them out</a>, and keep an eye out for my future live streams.</p>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">11 Jan 2011</span> &raquo; <a href="/2011/01/11/nyhacker-presents-music-hack-day-new-york/">NYHacker Presents Music Hack Day New York</a></li>
-      
-        <li><span class="date">05 Aug 2010</span> &raquo; <a href="/2010/08/05/7-tips-for-demoing-at-the-new-york-tech-meetup/">7 Tips for Demoing at the New York Tech Meetup</a></li>
-      
-        <li><span class="date">04 Aug 2010</span> &raquo; <a href="/2010/08/04/live-coding-demo-at-new-york-tech-meetup/">Live Coding Demo at New York Tech Meetup</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

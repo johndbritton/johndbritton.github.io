@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Luci Mino - Just Plane Fare 2012</h1>
-    </div>
-    <div id="post-body">
-      <h1 id='my_first_trip_abroad'>My First Trip Abroad</h1>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Luci Mino - Just Plane Fare 2012</h1>
+      </div>
+      <div id="post-body">
+        <h1 id='my_first_trip_abroad'>My First Trip Abroad</h1>
 
 <p>In 2007 I went on a trip to Costa Rica with my high school Spanish class. It was a huge deal for me and set me on a mission to see the world. I managed to save enough to cover nearly half of the cost of the trip, but there was no way I was going to be able to get the rest of the money myself. As the final payment due date approached, a few of the teachers in my school raised over a thousand dollars and paid the remainder of the cost for me.</p>
 
@@ -100,30 +99,27 @@
 <p>As of now, I am teaching four group music classes two times a week, four group art classes two times a week, and an average of twenty five private music lessons throughout the week. I also help to cook breakfast for thirty five people, parent, clean, and do anything else that needs to be done. My next project is to start teaching English as well.</p>
 
 <p>The weather here is beautiful and sunny&#8230; it doesn&#8217;t feel anything like fall in the Berkshires. Instead of leaves blowing in the wind, we have hundreds of butterflies! They&#8217;re everywhere in many different colors&#8230; red, yellow, orange, purple, black, brown, the list goes on. With the arrival of the butterflies, I have seen the interest of the boys heighten and they beg me every day for extra classes. They all have such potential to do great and wonderful things in their lives. They just need to be given the chance!</p>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">06 Aug 2008</span> &raquo; <a href="/2008/08/06/hong-kong-riding-high-pay-it-forward-winners/">"Hong Kong Riding High", Pay it Forward: Winners</a></li>
-      
-        <li><span class="date">29 Jul 2008</span> &raquo; <a href="/2008/07/29/pay-it-forward-free-olympic-tickets/">Pay it Forward: Free Olympic Tickets</a></li>
-      
-        <li><span class="date">08 Apr 2009</span> &raquo; <a href="/2009/04/08/announcing-the-just-plane-fare-award/">Announcing the "Just Plane Fare Award"</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>How a Poet Learned to Program</h1>
-    </div>
-    <div id="post-body">
-      <p>We recently kicked off a mentoring program at <a href='http://p2pu.org'>P2PU</a> to help people learn web development. We&#8217;re in the pilot stage, but we&#8217;re looking forward to opening up for everyone very soon. Here&#8217;s a first hand look into what the program is like from the view of one of my mentees.</p>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>How a Poet Learned to Program</h1>
+      </div>
+      <div id="post-body">
+        <p>We recently kicked off a mentoring program at <a href='http://p2pu.org'>P2PU</a> to help people learn web development. We&#8217;re in the pilot stage, but we&#8217;re looking forward to opening up for everyone very soon. Here&#8217;s a first hand look into what the program is like from the view of one of my mentees.</p>
 
 <p><a href='http://vanessagennarelli.com/'>Vanessa Gennarelli</a> is a P2PU community member from Chicago, IL. She&#8217;s an Editor at <a href='http://flatworldknowledge.com'>Flat World Knowledge</a>, serving up open textbooks. She has facilitated two groups at P2PU: <a href='http://archive.p2pu.org/general/open-creative-nonfiction'>Open Creative Nonfiction</a> and <a href='http://p2pu.org/en/groups/hack-this-poem-a-workshop/'>Hack this Poem</a>.</p>
 <hr />
@@ -114,30 +113,27 @@
 <p>Online assessments usually track student performance in terms of achievement&#8211;and that data is visualized in rows, a convention left over from gradebooks. I’m interested in visualizing how learning communities evolve together over time&#8211;so in the spring of 2012 I’ll be working on a prototype of a different kind of instructor dashboard. Using Processing. Hang on to your hats!</p>
 
 <p>All of this good karma built up by School of Webcraft &amp; John, this is time I’ll pay forward with my own efforts volunteering for <a href='http://p2pu.org'>P2PU</a>. And you should too! Check out the <a href='http://p2pu.org/en/schools/school-of-webcraft'>School of Webcraft’s</a> Challenges, review submissions for folks to earn badges, and chip in to help folks be more curious.</p>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">03 Oct 2011</span> &raquo; <a href="/2011/10/03/webcraft-story-caley-woods/">Webcraft Story: Caley Woods</a></li>
-      
-        <li><span class="date">07 Jun 2011</span> &raquo; <a href="/2011/06/07/always-changing-what-is-p2pu-today/">Always Changing: What is P2PU Today?</a></li>
-      
-        <li><span class="date">26 Aug 2010</span> &raquo; <a href="/2010/08/26/p2pu-sign-up-opens-today-cycle-3/">P2PU Sign-up Opens Today - Cycle 3</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

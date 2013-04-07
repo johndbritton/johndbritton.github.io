@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>The Catalyst Campaign: Donate Now to Help Fund CC's Catalyst Grants</h1>
-    </div>
-    <div id="post-body">
-      <a href='http://www.flickr.com/photos/johndbritton/4658730496/'><img alt='Creative Commons Catalyst Campaign Banner' src='http://farm5.static.flickr.com/4026/4658730496_0c0bae7b98.jpg' /></a>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>The Catalyst Campaign: Donate Now to Help Fund CC's Catalyst Grants</h1>
+      </div>
+      <div id="post-body">
+        <a href='http://www.flickr.com/photos/johndbritton/4658730496/'><img alt='Creative Commons Catalyst Campaign Banner' src='http://farm5.static.flickr.com/4026/4658730496_0c0bae7b98.jpg' /></a>
 <p>Some friends over at <a href='http://creativecommons.org'>Creative Commons</a> tell me that they&#8217;re launching a new grant program. The awards range from $1,000&#8212;$10,000. They&#8217;re going to start distributing funds as early as August, so apply right away if you&#8217;ve got a good idea. I&#8217;m really psyched to see them making funding available to the general public like this. I&#8217;ve got a couple ideas of my own that might be eligible so be ready for some tough competition.</p>
 <strong>UPDATE: If you like the program, you should support it by <a href='https://support.creativecommons.org/donate'>donating</a> today!</strong>
 <p>Here&#8217;s the official announcement: <pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'>REXML could not parse this XML/HTML: 
@@ -83,30 +82,27 @@ We’re thrilled today to announce the launch of the Catalyst Campaign – from 
 <p>Advocate: Take a moment to spread the word about the Catalyst Campaign and Grants program on your blog and social networks with our <a href='http://wiki.creativecommons.org/Catalyst_Campaign_Fundraising_Toolkit/Banners'>banners</a> and <a href='https://support.creativecommons.org/widget'>buttons</a>.</p>
 
 <p>Donate: If you give $75 or more, you can become the proud owner of one of these bright and cheerful, limited edition “I Love to Share” t-shirts. Every bit helps so <a href='https://support.creativecommons.org/donate'>give what you can today</a> to ignite openness and innovation around the world! &lt;/blockquote&gt;</p>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">29 Oct 2012</span> &raquo; <a href="/2012/10/29/luci-mino-just-plane-fare-2012/">Luci Mino - Just Plane Fare 2012</a></li>
-      
-        <li><span class="date">11 May 2010</span> &raquo; <a href="/2010/05/11/ccsalon-new-york-and-san-francisco-events-on-open-education/">ccSalon New York & San Francisco Events on Open Education</a></li>
-      
-        <li><span class="date">15 Apr 2009</span> &raquo; <a href="/2009/04/15/screening-rip-a-remix-manifesto-at-open-everything-nyc-afterparty/">Screening "RIP: A REMIX MANIFESTO" at Open Everything NYC Afterparty</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>

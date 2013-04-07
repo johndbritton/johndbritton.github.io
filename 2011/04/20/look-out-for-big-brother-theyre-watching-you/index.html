@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="/css/style.css?v=2">
-  <link rel="stylesheet" media="handheld" href="/css/handheld.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
   <!-- start Mixpanel -->
     <script type="text/javascript">var mpq=[];mpq.push(["init","60bd70ca6694591c403aebb3d1ba0189"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();</script>
@@ -52,22 +51,22 @@
       <div id="navigation">
         <ul>
           <!-- <li><a href="#">Projects</a></li> -->
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/tags">Tags</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/tags/">Tags</a></li>
         </ul>
       </div>
 
     </header>
 
     <div id="main" role="main">
-      <div id="post-page">
-  <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
-  <div id="post">
-    <div id="post-title">
-      <h1>Look Out for Big Brother - They're Watching You</h1>
-    </div>
-    <div id="post-body">
-      <p>I love to travel and I love visualizations of the places I go. I love the visualizations so much that I go out of my way to manually add all of my trips to a map using (the acquired by Nokia and now abandoned) service Dopplr. I&#8217;m actually writing this article from the <a href='https://foursquare.com/johndbritton/checkin/4daf42c54df00ee01d361c99?s=l3IyiHiLQGEd5vQbkYBf15n06LQ'>Detroit airport</a> and am on my way to Oklahoma City for the <a href='http://reddirtrubyconf.com'>Red Dirt Ruby Conference</a>.</p>
+        <div id="post-page">
+    <p id="viewall"><a href="/">&laquo; View all posts.</a></p>
+    <div id="post">
+      <div id="post-title">
+        <h1>Look Out for Big Brother - They're Watching You</h1>
+      </div>
+      <div id="post-body">
+        <p>I love to travel and I love visualizations of the places I go. I love the visualizations so much that I go out of my way to manually add all of my trips to a map using (the acquired by Nokia and now abandoned) service Dopplr. I&#8217;m actually writing this article from the <a href='https://foursquare.com/johndbritton/checkin/4daf42c54df00ee01d361c99?s=l3IyiHiLQGEd5vQbkYBf15n06LQ'>Detroit airport</a> and am on my way to Oklahoma City for the <a href='http://reddirtrubyconf.com'>Red Dirt Ruby Conference</a>.</p>
 
 <p><a href='http://www.dopplr.com/traveller/johndbritton'><img alt='Travel map' src='http://www.dopplr.com/traveller/johndbritton/raumzeitgeist_jpeg?width=500' /></a></p>
 
@@ -90,30 +89,27 @@
 <blockquote>
 <p>If you haven&#8217;t yet enabled encrypted backups for your iPhone or iPad, now&#8217;s definitely the time to start. Two security researchers have discovered a simple way to map out where you&#8217;ve been almost anywhere in the world—without any hacking involved. The information comes from a location cache file found within your iPhone&#8217;s backups on your Mac or PC, bringing out serious privacy concerns and opening the door for a jealous spouse, thief, or even a crafty trojan to take a detailed look at your whereabouts. And it&#8217;s information that no one should have access to—not even law enforcement, barring a court order.</p>
 </blockquote>
+      </div>
+    </div>
+<!--
+    <hr />
+
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <hr />
+-->
+    <div id="comments">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
-  <hr />
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span class="date">29 Oct 2012</span> &raquo; <a href="/2012/10/29/luci-mino-just-plane-fare-2012/">Luci Mino - Just Plane Fare 2012</a></li>
-      
-        <li><span class="date">07 Apr 2010</span> &raquo; <a href="/2010/04/07/more-than-code-its-a-community-too/">More Than Code, It's a Community Too</a></li>
-      
-        <li><span class="date">11 Feb 2010</span> &raquo; <a href="/2010/02/11/united-arab-emirates-and-india/">United Arab Emirates & India</a></li>
-      
-    </ul>
-  </div>
-
-  <hr />
-
-  <div id="comments">
-    <div id="disqus_thread"></div>
-  </div>
-</div>
     </div>
 
     <footer>
