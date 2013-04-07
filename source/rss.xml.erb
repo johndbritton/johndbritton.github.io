@@ -1,0 +1,27 @@
+---
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>johndbritton</title>
+ <link href="http://johndbritton.com/feed/" rel="self"/>
+ <link href="http://johndbritton.com/"/>
+ <updated><%= blog.articles.first.date.to_time.iso8601 %></updated>
+ <id>http://johndbritton.com/</id>
+ <author>
+   <name>John Britton</name>
+   <email>public@johndbritton.com</email>
+ </author>
+
+ <% blog.articles.each do |post| %>
+ <entry>
+   <title><%= post.title.encode(:xml => :text) %></title>
+   <link href="http://johndbritton.com<%= post.url %>"/>
+   <updated><%= post.date.to_time.iso8601 %></updated>
+   <id>http://johndbritton.com<%= post.url %></id>
+   <content type="html"><%= post.body.encode(:xml => :text) %></content>
+ </entry>
+<% end %>
+
+</feed>

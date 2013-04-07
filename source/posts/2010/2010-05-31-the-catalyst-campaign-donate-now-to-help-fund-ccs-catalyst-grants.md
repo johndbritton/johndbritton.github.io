@@ -2,8 +2,7 @@
 layout: post
 title: "The Catalyst Campaign: Donate Now to Help Fund CC's Catalyst Grants"
 created: 1275361784
-category:
-- money
+category: money
 tags:
 - creative commons
 - free culture

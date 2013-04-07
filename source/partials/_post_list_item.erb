@@ -1,0 +1,15 @@
+<li class="post category-<%= post.data.category %>">
+  <p class="category">
+    Added on <%= post.date.strftime('%B %d, %Y') %>
+    in <a href="/category/<%= post.data.category %>"><%= post.data.category %></a>
+  </p>
+  <h2><%= link_to post.title, post.url %></h2>
+  <ul class="tags">
+    <% post.tags.each do |tag| %>
+      <li><a href="<%= tag_path tag %>"><%= tag %></a></li>
+    <% end %>
+  </ul>
+  <p class="comment-count">
+    <a href="<%= post.url %>#disqus_thread" data-disqus-identifier="<%= post.url %>">View Comments</a>
+  </p>
+</li>

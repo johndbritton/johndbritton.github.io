@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home
 ---
 <div id="feature">
@@ -19,9 +18,9 @@ title: Home
 
 <div id="blog">
   <ul class="posts">
-    {% for post in site.posts %}
-      {% include post_list_item.html %}
-    {% endfor %}
+    <% blog.articles.each do |post| %>
+      <%= partial "partials/post_list_item", :locals => { :post => post } %>
+    <% end %>
   </ul>  
 </div>
 

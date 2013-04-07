@@ -1,0 +1,8 @@
+<div id="tag-page">
+  <h1>Posts taggged "<%= tagname %>"</h1>
+  <ul class="posts">
+    <% articles.each do |article| %>
+      <%= partial "partials/post_list_item", :locals => { :post => article } %>
+    <% end %>
+  </ul>
+</div>

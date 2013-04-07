@@ -1,0 +1,9 @@
+<div id="category-page">
+  <h1 class="category-<%= category %>">Posts in <%= category %></h1>
+  <hr />
+  <ul class="posts">
+    <% posts.each do |post| %>
+      <%= partial "partials/post_list_item", :locals => { :post => post } %>
+    <% end %>
+  </ul>
+</div>

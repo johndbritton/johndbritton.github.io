@@ -1,0 +1,10 @@
+---
+title: Tags
+---
+<div id="tags">
+  <ul>
+    <% blog.tags.keys.each do |tag| %>
+      <li class="weight-<%= blog.tags[tag].length %>"><a href="<%= tag_path tag %>"><%= tag %></a></li>
+    <% end %>
+  </ul>
+</div>
